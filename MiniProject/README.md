@@ -1,8 +1,6 @@
 # HealthTrack: Predicting Hospital Readmission
 
 **Mini Project – Data Science**
-Department of Computer Science | Academic Year 2024–25
-
 ---
 
 ## Abstract
@@ -177,12 +175,5 @@ Open **http://localhost:8501** in your browser.
 ## Team Members
 
 | Name | Roll No. |
-|---|---|
-| Priya Ramesh | CS2021001 |
-| Arjun Mehta | CS2021002 |
-| Sneha Iyer | CS2021003 |
-| Karthik Nair | CS2021004 |
-
+RAMITHA A RA23110026050013
 ---
-
-*Mini Project – Data Science | Dept. of Computer Science | 2024–25*
