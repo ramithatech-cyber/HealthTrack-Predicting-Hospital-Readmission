@@ -1,0 +1,28 @@
+HealthTrack – Model Evaluation Report
+=============================================
+
+Test Accuracy : 0.82
+ROC-AUC Score : 0.8994
+5-Fold CV Acc : 0.8285
+
+Classification Report:
+                precision    recall  f1-score   support
+
+Not Readmitted       0.81      0.83      0.82       194
+    Readmitted       0.83      0.81      0.82       206
+
+      accuracy                           0.82       400
+     macro avg       0.82      0.82      0.82       400
+  weighted avg       0.82      0.82      0.82       400
+
+
+Feature Importances:
+  num_prior_visits          0.3233
+  age                       0.2503
+  length_of_stay            0.1504
+  num_medications           0.0948
+  num_comorbidities         0.0819
+  diagnosis_enc             0.0607
+  discharge_type_enc        0.0199
+  insurance_enc             0.0116
+  gender_enc                0.0072

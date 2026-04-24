@@ -1,0 +1,2001 @@
+age,gender,num_prior_visits,length_of_stay,diagnosis,discharge_type,insurance,num_medications,num_comorbidities,readmitted_30days,gender_enc,diagnosis_enc,discharge_type_enc,insurance_enc
+47,Female,4,11,Chronic Kidney Disease,Home,Private,9,2,1,0,1,1,3
+28,Male,4,18,Other,Home,Private,13,4,1,1,5,1,3
+34,Female,1,14,Hypertension,Inpatient Rehab,Private,13,0,0,0,4,3,3
+43,Female,2,14,Pneumonia,Home,Medicare,5,2,0,0,6,1,1
+40,Male,2,6,Diabetes Mellitus,Home,Medicare,14,1,0,1,2,1,1
+73,Female,2,9,Diabetes Mellitus,Skilled Nursing Facility,Medicare,11,0,0,0,2,4,1
+69,Female,5,3,Diabetes Mellitus,Home,Medicaid,14,2,1,0,2,1,0
+65,Male,2,17,Sepsis,Skilled Nursing Facility,Medicaid,7,0,1,1,7,4,0
+37,Female,5,12,Pneumonia,Home,Private,17,4,1,0,6,1,3
+19,Male,5,4,Hypertension,Home,Medicare,4,1,0,1,4,1,1
+48,Female,2,20,Diabetes Mellitus,Home,Medicare,10,0,0,0,2,1,1
+44,Female,3,16,Other,Home,Medicaid,10,1,0,0,5,1,0
+19,Other,4,10,Sepsis,Inpatient Rehab,Private,15,2,1,2,7,3,3
+21,Female,3,7,Heart Failure,Home,Medicare,12,3,1,0,3,1,1
+30,Male,2,10,Heart Failure,Home with Home Care,Private,9,0,0,1,3,2,3
+52,Female,6,7,Heart Failure,Home,Medicare,3,1,1,0,3,1,1
+89,Male,1,18,Heart Failure,Home,Uninsured,15,0,1,1,3,1,4
+83,Female,3,9,COPD,Inpatient Rehab,Uninsured,12,2,1,0,0,3,4
+23,Female,3,18,Chronic Kidney Disease,Home,Medicare,15,2,1,0,1,1,1
+48,Male,3,17,Heart Failure,Home with Home Care,Medicare,1,1,1,1,3,2,1
+27,Male,2,11,Pneumonia,Against Medical Advice,Medicaid,15,4,1,1,6,0,0
+38,Female,5,1,Diabetes Mellitus,Home with Home Care,Medicare,11,0,0,0,2,2,1
+40,Female,2,17,Heart Failure,Inpatient Rehab,Private,5,0,0,0,3,3,3
+20,Male,1,4,Chronic Kidney Disease,Home,Private,7,2,0,1,1,1,3
+49,Male,2,4,COPD,Home,Private,12,0,0,1,0,1,3
+37,Male,1,14,Hypertension,Home,Private,6,1,0,1,4,1,3
+46,Female,0,9,Heart Failure,Skilled Nursing Facility,Medicaid,3,3,0,0,3,4,0
+69,Male,3,13,COPD,Against Medical Advice,Medicare,10,2,1,1,0,0,1
+63,Female,3,16,Pneumonia,Home,Private,4,3,0,0,6,1,3
+51,Male,4,1,Diabetes Mellitus,Home with Home Care,Medicaid,13,0,0,1,2,2,0
+78,Female,1,3,Pneumonia,Home,Private,19,4,0,0,6,1,3
+89,Male,3,19,Diabetes Mellitus,Home with Home Care,Medicare,5,1,0,1,2,2,1
+88,Female,3,8,Diabetes Mellitus,Home,Medicare,18,0,1,0,2,1,1
+87,Male,0,18,Other,Against Medical Advice,Other,1,1,1,1,5,0,2
+28,Female,1,6,Other,Home with Home Care,Medicare,16,0,0,0,5,2,1
+80,Male,4,20,Hypertension,Home,Other,16,0,1,1,4,1,2
+38,Female,1,6,Heart Failure,Home,Other,16,0,0,0,3,1,2
+20,Female,2,5,Diabetes Mellitus,Home,Private,19,2,0,0,2,1,3
+27,Male,3,12,Hypertension,Home,Private,16,3,1,1,4,1,3
+44,Female,1,9,Chronic Kidney Disease,Home,Private,1,4,0,0,1,1,3
+29,Female,3,9,Diabetes Mellitus,Inpatient Rehab,Uninsured,10,3,1,0,2,3,4
+24,Male,2,17,COPD,Home with Home Care,Medicare,2,3,1,1,0,2,1
+34,Male,5,19,Diabetes Mellitus,Home with Home Care,Medicaid,14,1,0,1,2,2,0
+82,Male,1,17,Other,Home,Private,8,2,0,1,5,1,3
+81,Female,1,16,Heart Failure,Inpatient Rehab,Medicaid,6,2,1,0,3,3,0
+43,Female,5,12,Pneumonia,Skilled Nursing Facility,Medicaid,3,0,0,0,6,4,0
+32,Male,0,3,Heart Failure,Home,Medicare,16,3,0,1,3,1,1
+50,Female,2,14,COPD,Skilled Nursing Facility,Private,17,4,1,0,0,4,3
+79,Female,2,17,COPD,Home with Home Care,Uninsured,12,1,1,0,0,2,4
+64,Female,3,16,Heart Failure,Home,Medicare,19,2,1,0,3,1,1
+52,Female,1,12,Other,Home,Uninsured,3,0,0,0,5,1,4
+82,Female,4,2,Hypertension,Home,Private,13,4,1,0,4,1,3
+89,Female,4,8,Other,Home,Private,16,3,1,0,5,1,3
+42,Male,2,12,Sepsis,Inpatient Rehab,Private,11,4,1,1,7,3,3
+74,Female,2,16,Pneumonia,Skilled Nursing Facility,Private,16,2,1,0,6,4,3
+49,Female,2,8,Other,Home with Home Care,Medicare,2,1,0,0,5,2,1
+80,Male,2,16,Diabetes Mellitus,Home,Private,4,3,1,1,2,1,3
+29,Female,5,10,Heart Failure,Home,Medicare,4,1,1,0,3,1,1
+80,Female,4,20,Diabetes Mellitus,Home with Home Care,Uninsured,17,4,1,0,2,2,4
+18,Female,0,15,Heart Failure,Home with Home Care,Other,1,4,1,0,3,2,2
+68,Male,3,4,Chronic Kidney Disease,Home,Medicare,1,0,0,1,1,1,1
+87,Male,3,15,Heart Failure,Home with Home Care,Medicare,5,3,1,1,3,2,1
+25,Female,2,4,Hypertension,Skilled Nursing Facility,Private,12,4,0,0,4,4,3
+85,Female,2,11,Chronic Kidney Disease,Home,Medicare,6,2,1,0,1,1,1
+22,Male,3,6,Heart Failure,Home,Uninsured,6,2,1,1,3,1,4
+56,Female,6,4,COPD,Skilled Nursing Facility,Medicare,17,1,1,0,0,4,1
+40,Female,1,9,Diabetes Mellitus,Home,Medicare,13,2,0,0,2,1,1
+85,Male,0,9,Hypertension,Home,Other,8,4,0,1,4,1,2
+69,Male,1,3,Diabetes Mellitus,Home,Private,12,2,0,1,2,1,3
+21,Male,1,5,Other,Home,Private,15,3,0,1,5,1,3
+64,Female,0,15,Hypertension,Skilled Nursing Facility,Medicare,19,1,1,0,4,4,1
+38,Male,1,9,Heart Failure,Home with Home Care,Private,17,3,1,1,3,2,3
+73,Male,4,2,Diabetes Mellitus,Home,Private,9,4,1,1,2,1,3
+83,Male,1,3,Hypertension,Inpatient Rehab,Private,18,4,0,1,4,3,3
+76,Male,6,12,Hypertension,Inpatient Rehab,Private,2,2,1,1,4,3,3
+24,Male,1,16,Hypertension,Inpatient Rehab,Private,11,0,0,1,4,3,3
+66,Male,2,5,Hypertension,Home,Medicaid,17,0,1,1,4,1,0
+33,Female,3,10,Diabetes Mellitus,Home,Medicare,18,4,1,0,2,1,1
+34,Female,0,15,Chronic Kidney Disease,Against Medical Advice,Private,15,4,1,0,1,0,3
+51,Male,6,14,Diabetes Mellitus,Skilled Nursing Facility,Medicare,7,1,0,1,2,4,1
+50,Male,4,14,Sepsis,Home,Private,16,4,1,1,7,1,3
+43,Female,1,13,Pneumonia,Home,Medicare,1,4,0,0,6,1,1
+83,Male,2,16,Chronic Kidney Disease,Home,Private,18,1,1,1,1,1,3
+80,Male,7,8,Diabetes Mellitus,Inpatient Rehab,Private,8,3,1,1,2,3,3
+58,Male,2,8,Heart Failure,Home with Home Care,Medicare,7,3,0,1,3,2,1
+75,Male,2,17,Heart Failure,Home,Medicare,2,1,1,1,3,1,1
+27,Female,5,17,Hypertension,Home,Medicare,12,1,0,0,4,1,1
+32,Male,4,3,Pneumonia,Home with Home Care,Private,16,3,1,1,6,2,3
+59,Female,1,1,Sepsis,Skilled Nursing Facility,Private,9,3,0,0,7,4,3
+74,Male,4,17,COPD,Home,Medicare,11,3,1,1,0,1,1
+34,Male,2,16,Diabetes Mellitus,Skilled Nursing Facility,Private,15,3,0,1,2,4,3
+77,Female,5,17,Hypertension,Against Medical Advice,Medicare,3,2,1,0,4,0,1
+26,Male,2,2,Hypertension,Home,Medicaid,13,1,0,1,4,1,0
+53,Female,1,14,Pneumonia,Home with Home Care,Uninsured,13,0,0,0,6,2,4
+53,Male,0,7,Hypertension,Home,Medicare,2,2,0,1,4,1,1
+65,Female,2,19,COPD,Skilled Nursing Facility,Medicaid,6,0,1,0,0,4,0
+68,Male,1,1,COPD,Home with Home Care,Medicare,6,0,0,1,0,2,1
+87,Female,1,17,Chronic Kidney Disease,Home with Home Care,Medicare,12,4,1,0,1,2,1
+85,Male,1,10,Diabetes Mellitus,Skilled Nursing Facility,Medicare,4,1,0,1,2,4,1
+39,Female,3,6,Diabetes Mellitus,Home,Medicare,5,2,0,0,2,1,1
+23,Male,6,7,Diabetes Mellitus,Inpatient Rehab,Private,8,1,0,1,2,3,3
+43,Female,2,6,Pneumonia,Home with Home Care,Medicaid,6,3,0,0,6,2,0
+20,Male,0,5,Heart Failure,Home,Medicaid,3,1,0,1,3,1,0
+69,Female,1,2,COPD,Home with Home Care,Medicare,8,0,0,0,0,2,1
+77,Male,2,18,Other,Skilled Nursing Facility,Medicare,19,3,1,1,5,4,1
+80,Male,5,17,Heart Failure,Home,Private,11,1,1,1,3,1,3
+82,Female,4,7,Chronic Kidney Disease,Inpatient Rehab,Other,18,1,1,0,1,3,2
+69,Male,1,19,Hypertension,Inpatient Rehab,Medicare,10,0,0,1,4,3,1
+31,Male,2,7,Heart Failure,Home,Uninsured,12,3,1,1,3,1,4
+89,Female,4,7,Diabetes Mellitus,Against Medical Advice,Private,8,0,1,0,2,0,3
+85,Other,3,16,Heart Failure,Home,Private,19,1,1,2,3,1,3
+45,Male,2,12,Diabetes Mellitus,Home,Medicaid,16,2,0,1,2,1,0
+88,Female,2,15,Other,Home,Medicare,18,2,0,0,5,1,1
+27,Female,2,15,Hypertension,Inpatient Rehab,Medicare,9,4,0,0,4,3,1
+74,Male,0,11,Pneumonia,Home with Home Care,Private,4,2,0,1,6,2,3
+83,Female,5,2,Sepsis,Home,Medicare,9,3,1,0,7,1,1
+67,Female,3,3,Hypertension,Home,Uninsured,2,4,1,0,4,1,4
+31,Other,3,19,Heart Failure,Home with Home Care,Medicaid,9,3,1,2,3,2,0
+33,Male,2,20,Sepsis,Home,Medicare,9,2,1,1,7,1,1
+71,Female,5,15,COPD,Inpatient Rehab,Private,18,2,1,0,0,3,3
+60,Male,2,16,Hypertension,Skilled Nursing Facility,Medicare,11,1,0,1,4,4,1
+59,Male,2,1,Sepsis,Home with Home Care,Medicaid,13,3,0,1,7,2,0
+39,Male,2,15,Heart Failure,Against Medical Advice,Private,6,0,1,1,3,0,3
+85,Other,0,12,Diabetes Mellitus,Home,Uninsured,9,1,0,2,2,1,4
+36,Female,3,7,Heart Failure,Against Medical Advice,Private,16,3,1,0,3,0,3
+83,Female,4,7,Chronic Kidney Disease,Home with Home Care,Private,4,4,1,0,1,2,3
+56,Female,1,11,Hypertension,Home with Home Care,Private,2,3,0,0,4,2,3
+36,Male,4,20,Sepsis,Home,Uninsured,7,4,1,1,7,1,4
+33,Male,3,11,Diabetes Mellitus,Inpatient Rehab,Medicare,15,4,1,1,2,3,1
+71,Male,2,17,COPD,Home,Medicare,6,2,1,1,0,1,1
+42,Male,5,3,Chronic Kidney Disease,Home,Medicare,11,0,0,1,1,1,1
+35,Female,3,16,Heart Failure,Home,Medicare,17,3,1,0,3,1,1
+40,Female,2,5,Diabetes Mellitus,Home with Home Care,Private,4,0,0,0,2,2,3
+28,Male,4,2,Chronic Kidney Disease,Home with Home Care,Private,19,4,0,1,1,2,3
+56,Male,2,7,Other,Skilled Nursing Facility,Private,7,2,0,1,5,4,3
+85,Male,2,10,Heart Failure,Inpatient Rehab,Medicare,11,0,1,1,3,3,1
+42,Male,3,5,COPD,Home,Private,13,1,1,1,0,1,3
+80,Female,5,15,Hypertension,Skilled Nursing Facility,Medicare,3,4,1,0,4,4,1
+47,Female,2,12,Chronic Kidney Disease,Home,Private,14,1,0,0,1,1,3
+62,Female,2,10,Other,Inpatient Rehab,Private,2,0,0,0,5,3,3
+78,Male,2,17,Other,Skilled Nursing Facility,Medicare,18,0,0,1,5,4,1
+68,Male,4,20,Heart Failure,Home with Home Care,Medicare,5,0,1,1,3,2,1
+26,Male,4,20,COPD,Skilled Nursing Facility,Medicare,13,3,1,1,0,4,1
+19,Female,1,11,Heart Failure,Home,Private,13,4,1,0,3,1,3
+22,Female,1,8,Heart Failure,Home,Uninsured,14,4,1,0,3,1,4
+79,Male,1,15,Diabetes Mellitus,Skilled Nursing Facility,Private,12,4,0,1,2,4,3
+86,Female,0,2,Pneumonia,Home,Medicare,13,3,1,0,6,1,1
+69,Female,5,17,COPD,Home,Medicaid,18,0,1,0,0,1,0
+22,Female,0,6,Diabetes Mellitus,Home,Private,13,0,0,0,2,1,3
+76,Female,3,13,Heart Failure,Skilled Nursing Facility,Private,4,1,1,0,3,4,3
+85,Female,4,8,Other,Home,Medicare,10,3,1,0,5,1,1
+26,Female,3,11,Heart Failure,Home,Medicare,5,2,1,0,3,1,1
+39,Male,1,15,Diabetes Mellitus,Skilled Nursing Facility,Private,18,3,0,1,2,4,3
+44,Male,3,13,COPD,Skilled Nursing Facility,Medicaid,8,1,0,1,0,4,0
+27,Male,2,18,Other,Home,Medicare,14,1,0,1,5,1,1
+78,Male,2,18,Heart Failure,Home,Medicare,2,1,1,1,3,1,1
+68,Female,1,17,Hypertension,Home,Medicaid,8,0,0,0,4,1,0
+27,Female,2,13,Hypertension,Home,Uninsured,16,2,0,0,4,1,4
+23,Male,3,3,Heart Failure,Home,Other,7,1,1,1,3,1,2
+79,Female,3,7,Hypertension,Skilled Nursing Facility,Private,3,4,1,0,4,4,3
+22,Male,3,12,Chronic Kidney Disease,Home with Home Care,Medicaid,4,0,0,1,1,2,0
+87,Male,1,4,Pneumonia,Home with Home Care,Medicare,7,2,0,1,6,2,1
+80,Male,5,11,Pneumonia,Home,Medicaid,4,4,1,1,6,1,0
+73,Male,3,14,COPD,Skilled Nursing Facility,Medicaid,9,2,1,1,0,4,0
+76,Male,2,18,Diabetes Mellitus,Home,Private,17,2,1,1,2,1,3
+80,Female,2,7,Sepsis,Against Medical Advice,Medicaid,17,4,1,0,7,0,0
+76,Male,5,5,Heart Failure,Home with Home Care,Medicare,14,3,1,1,3,2,1
+68,Other,3,16,Heart Failure,Home,Medicare,14,2,1,2,3,1,1
+67,Male,4,11,Diabetes Mellitus,Home with Home Care,Medicare,13,3,1,1,2,2,1
+21,Male,3,3,Pneumonia,Home,Medicare,4,2,0,1,6,1,1
+65,Male,5,16,Hypertension,Home with Home Care,Medicare,13,4,1,1,4,2,1
+49,Female,2,11,Diabetes Mellitus,Home,Other,17,2,1,0,2,1,2
+68,Male,7,10,COPD,Home,Medicaid,15,1,1,1,0,1,0
+69,Female,4,2,Heart Failure,Inpatient Rehab,Medicaid,18,1,1,0,3,3,0
+51,Female,1,16,Pneumonia,Home,Uninsured,11,2,0,0,6,1,4
+53,Female,1,17,Diabetes Mellitus,Skilled Nursing Facility,Other,4,4,1,0,2,4,2
+87,Female,2,10,Hypertension,Home,Private,11,4,1,0,4,1,3
+60,Male,2,18,Chronic Kidney Disease,Home with Home Care,Private,10,0,0,1,1,2,3
+33,Male,3,12,Other,Home with Home Care,Medicare,13,4,1,1,5,2,1
+76,Male,3,8,Diabetes Mellitus,Home with Home Care,Medicare,8,3,1,1,2,2,1
+70,Female,2,3,Chronic Kidney Disease,Home,Medicaid,13,2,0,0,1,1,0
+36,Male,3,20,Diabetes Mellitus,Home,Private,9,1,0,1,2,1,3
+58,Male,3,3,Other,Home,Private,1,4,0,1,5,1,3
+64,Other,2,6,Sepsis,Home,Medicare,1,1,0,2,7,1,1
+71,Male,4,2,Heart Failure,Home with Home Care,Medicare,15,0,1,1,3,2,1
+72,Female,2,3,Pneumonia,Inpatient Rehab,Private,4,2,0,0,6,3,3
+36,Female,6,17,Hypertension,Inpatient Rehab,Medicare,1,4,1,0,4,3,1
+79,Male,8,9,Pneumonia,Skilled Nursing Facility,Private,12,1,1,1,6,4,3
+76,Male,2,4,COPD,Skilled Nursing Facility,Private,11,4,1,1,0,4,3
+82,Male,5,2,Heart Failure,Home with Home Care,Private,19,0,1,1,3,2,3
+85,Female,2,9,Diabetes Mellitus,Home,Private,15,1,1,0,2,1,3
+45,Female,5,14,Sepsis,Inpatient Rehab,Uninsured,10,1,1,0,7,3,4
+35,Female,3,11,Other,Home with Home Care,Medicaid,1,2,1,0,5,2,0
+43,Female,2,2,Pneumonia,Home with Home Care,Private,3,2,0,0,6,2,3
+36,Female,3,2,Chronic Kidney Disease,Home,Private,14,1,0,0,1,1,3
+72,Male,1,5,Chronic Kidney Disease,Home,Medicare,15,2,0,1,1,1,1
+74,Male,3,7,Hypertension,Home,Medicare,1,1,1,1,4,1,1
+23,Female,0,4,Sepsis,Inpatient Rehab,Medicare,10,3,0,0,7,3,1
+18,Male,1,14,Sepsis,Home with Home Care,Medicaid,1,4,1,1,7,2,0
+25,Male,2,2,Hypertension,Home,Private,15,3,0,1,4,1,3
+68,Female,2,12,Pneumonia,Against Medical Advice,Private,3,3,1,0,6,0,3
+42,Male,0,10,Diabetes Mellitus,Home,Medicare,12,4,1,1,2,1,1
+64,Female,0,1,Diabetes Mellitus,Home,Medicare,19,1,0,0,2,1,1
+72,Female,3,19,Sepsis,Home,Other,16,1,1,0,7,1,2
+81,Male,3,16,Pneumonia,Skilled Nursing Facility,Medicare,8,2,1,1,6,4,1
+27,Female,1,15,Diabetes Mellitus,Inpatient Rehab,Medicaid,14,0,0,0,2,3,0
+73,Male,3,14,Diabetes Mellitus,Home,Private,18,1,1,1,2,1,3
+29,Male,5,9,Pneumonia,Inpatient Rehab,Medicaid,1,4,1,1,6,3,0
+50,Male,4,15,Diabetes Mellitus,Home,Medicare,2,0,1,1,2,1,1
+88,Male,0,7,Diabetes Mellitus,Inpatient Rehab,Medicare,12,4,1,1,2,3,1
+34,Female,1,4,COPD,Skilled Nursing Facility,Medicare,17,4,0,0,0,4,1
+78,Male,3,18,Hypertension,Skilled Nursing Facility,Private,2,4,1,1,4,4,3
+27,Male,3,8,Pneumonia,Home,Medicaid,17,0,0,1,6,1,0
+48,Male,2,12,Heart Failure,Against Medical Advice,Medicare,7,3,1,1,3,0,1
+77,Female,7,15,Hypertension,Skilled Nursing Facility,Private,6,4,1,0,4,4,3
+87,Female,1,15,Heart Failure,Home,Private,6,2,1,0,3,1,3
+34,Male,4,17,Heart Failure,Skilled Nursing Facility,Medicare,8,1,1,1,3,4,1
+67,Male,2,2,Hypertension,Home,Medicaid,5,1,0,1,4,1,0
+54,Male,3,12,Pneumonia,Inpatient Rehab,Private,15,1,1,1,6,3,3
+79,Male,1,3,Sepsis,Home,Medicare,7,0,0,1,7,1,1
+89,Female,6,7,Pneumonia,Skilled Nursing Facility,Medicare,3,2,1,0,6,4,1
+46,Female,5,6,Pneumonia,Home with Home Care,Private,10,2,0,0,6,2,3
+49,Male,2,14,Diabetes Mellitus,Home,Uninsured,3,2,0,1,2,1,4
+28,Male,4,5,Chronic Kidney Disease,Home,Private,14,2,0,1,1,1,3
+23,Male,0,4,Heart Failure,Home,Private,3,2,0,1,3,1,3
+52,Female,3,15,Heart Failure,Home,Private,1,3,1,0,3,1,3
+50,Male,2,7,Other,Home,Medicaid,1,2,0,1,5,1,0
+35,Other,4,3,Chronic Kidney Disease,Home with Home Care,Private,19,2,1,2,1,2,3
+54,Female,2,13,Sepsis,Home,Medicaid,4,0,0,0,7,1,0
+30,Male,3,10,Pneumonia,Home,Medicare,2,0,0,1,6,1,1
+81,Female,6,2,Hypertension,Skilled Nursing Facility,Private,11,2,1,0,4,4,3
+18,Female,2,12,COPD,Home,Private,12,3,1,0,0,1,3
+80,Female,3,12,Pneumonia,Inpatient Rehab,Medicaid,13,2,1,0,6,3,0
+51,Male,2,19,COPD,Inpatient Rehab,Uninsured,16,2,1,1,0,3,4
+27,Male,5,19,Heart Failure,Home with Home Care,Medicare,16,2,1,1,3,2,1
+24,Female,3,3,Hypertension,Home with Home Care,Medicare,19,4,0,0,4,2,1
+73,Female,3,6,Heart Failure,Inpatient Rehab,Medicare,9,3,1,0,3,3,1
+54,Female,4,2,Diabetes Mellitus,Home,Private,16,1,0,0,2,1,3
+46,Female,3,13,Pneumonia,Home,Private,7,2,0,0,6,1,3
+29,Female,8,9,Diabetes Mellitus,Home,Medicare,13,1,0,0,2,1,1
+34,Female,4,13,Other,Skilled Nursing Facility,Private,4,3,1,0,5,4,3
+65,Male,1,14,Other,Home,Medicaid,13,2,1,1,5,1,0
+43,Female,3,19,Other,Home with Home Care,Private,8,1,0,0,5,2,3
+29,Female,0,11,Chronic Kidney Disease,Against Medical Advice,Medicaid,2,1,0,0,1,0,0
+38,Female,2,14,Diabetes Mellitus,Inpatient Rehab,Medicaid,7,3,0,0,2,3,0
+59,Female,2,16,Other,Home with Home Care,Uninsured,11,2,0,0,5,2,4
+78,Male,1,10,Chronic Kidney Disease,Home,Medicare,17,4,1,1,1,1,1
+75,Female,3,20,Other,Skilled Nursing Facility,Medicare,14,3,1,0,5,4,1
+71,Female,3,16,Other,Home with Home Care,Private,13,4,1,0,5,2,3
+51,Male,3,2,Sepsis,Home,Other,15,2,1,1,7,1,2
+24,Male,0,16,Heart Failure,Home,Medicaid,9,1,0,1,3,1,0
+52,Male,3,14,Chronic Kidney Disease,Inpatient Rehab,Medicare,3,3,1,1,1,3,1
+32,Male,5,18,Sepsis,Home with Home Care,Medicare,13,3,1,1,7,2,1
+82,Male,2,6,Heart Failure,Skilled Nursing Facility,Medicaid,13,3,1,1,3,4,0
+42,Male,1,7,Diabetes Mellitus,Inpatient Rehab,Medicare,9,0,0,1,2,3,1
+76,Female,2,13,Pneumonia,Home with Home Care,Private,18,2,1,0,6,2,3
+23,Female,3,2,Other,Home with Home Care,Other,5,0,0,0,5,2,2
+69,Female,5,15,Hypertension,Home,Medicaid,11,3,1,0,4,1,0
+38,Female,1,17,Pneumonia,Home,Medicaid,2,3,0,0,6,1,0
+88,Male,0,13,Diabetes Mellitus,Home,Medicaid,17,4,1,1,2,1,0
+49,Male,2,7,Pneumonia,Skilled Nursing Facility,Medicare,4,0,0,1,6,4,1
+70,Female,4,1,Other,Home with Home Care,Uninsured,18,1,1,0,5,2,4
+76,Male,1,3,Diabetes Mellitus,Inpatient Rehab,Medicaid,8,2,0,1,2,3,0
+86,Other,5,20,COPD,Home,Medicaid,19,1,1,2,0,1,0
+79,Female,2,18,Sepsis,Home with Home Care,Private,12,1,1,0,7,2,3
+21,Female,1,7,Hypertension,Home with Home Care,Medicaid,11,2,0,0,4,2,0
+35,Other,2,17,Hypertension,Home with Home Care,Private,16,3,0,2,4,2,3
+73,Male,5,12,Hypertension,Skilled Nursing Facility,Medicare,5,4,1,1,4,4,1
+41,Male,0,16,Chronic Kidney Disease,Home,Private,3,3,0,1,1,1,3
+83,Female,4,10,Heart Failure,Home with Home Care,Uninsured,12,3,1,0,3,2,4
+30,Male,3,16,Hypertension,Home,Private,15,0,1,1,4,1,3
+79,Female,1,20,Hypertension,Home,Other,16,1,0,0,4,1,2
+71,Male,2,18,Sepsis,Home,Medicare,13,1,1,1,7,1,1
+32,Female,4,15,Other,Home with Home Care,Medicaid,7,1,1,0,5,2,0
+86,Female,4,11,COPD,Against Medical Advice,Private,15,4,1,0,0,0,3
+20,Female,1,18,COPD,Home with Home Care,Private,3,4,0,0,0,2,3
+54,Male,3,6,Hypertension,Skilled Nursing Facility,Medicaid,12,4,1,1,4,4,0
+54,Male,5,1,Pneumonia,Home with Home Care,Medicare,8,2,0,1,6,2,1
+20,Female,1,7,Hypertension,Home with Home Care,Medicare,12,4,0,0,4,2,1
+80,Male,3,12,Hypertension,Home,Medicaid,18,0,1,1,4,1,0
+52,Female,2,20,Sepsis,Home,Medicare,3,0,0,0,7,1,1
+69,Female,2,4,Chronic Kidney Disease,Home,Private,12,3,0,0,1,1,3
+45,Female,1,10,Chronic Kidney Disease,Home,Medicare,2,3,0,0,1,1,1
+35,Female,2,2,Diabetes Mellitus,Home,Medicare,14,3,0,0,2,1,1
+53,Male,3,9,Pneumonia,Home,Private,14,3,1,1,6,1,3
+50,Female,5,10,Diabetes Mellitus,Home,Private,4,0,0,0,2,1,3
+81,Female,5,20,COPD,Against Medical Advice,Uninsured,17,3,1,0,0,0,4
+43,Male,2,11,COPD,Home,Private,15,0,0,1,0,1,3
+65,Female,3,14,Heart Failure,Home,Medicare,16,4,1,0,3,1,1
+57,Male,0,3,Pneumonia,Home,Private,5,4,0,1,6,1,3
+34,Male,4,1,Diabetes Mellitus,Home with Home Care,Medicaid,17,2,0,1,2,2,0
+57,Male,2,7,Diabetes Mellitus,Home,Medicare,7,3,0,1,2,1,1
+24,Female,6,4,Hypertension,Home,Private,15,4,1,0,4,1,3
+74,Male,2,7,Chronic Kidney Disease,Home with Home Care,Uninsured,17,4,1,1,1,2,4
+25,Female,4,16,Diabetes Mellitus,Home,Medicaid,12,1,1,0,2,1,0
+73,Female,4,10,COPD,Home,Medicare,11,1,1,0,0,1,1
+48,Male,2,15,Hypertension,Home,Medicare,19,0,0,1,4,1,1
+76,Male,4,16,Heart Failure,Home,Medicare,11,2,1,1,3,1,1
+75,Female,1,6,Pneumonia,Home,Medicaid,2,1,0,0,6,1,0
+29,Male,1,4,Diabetes Mellitus,Home,Private,15,2,0,1,2,1,3
+65,Female,3,4,Diabetes Mellitus,Skilled Nursing Facility,Medicare,5,4,1,0,2,4,1
+48,Male,4,4,COPD,Home with Home Care,Uninsured,18,0,1,1,0,2,4
+80,Female,2,17,COPD,Home with Home Care,Private,16,2,1,0,0,2,3
+56,Female,2,13,Pneumonia,Home,Private,4,1,0,0,6,1,3
+37,Male,4,2,Hypertension,Inpatient Rehab,Private,10,4,1,1,4,3,3
+65,Male,2,20,Other,Home,Medicare,2,3,0,1,5,1,1
+88,Male,1,6,COPD,Home,Medicaid,15,4,1,1,0,1,0
+71,Male,3,1,Heart Failure,Home with Home Care,Private,4,1,0,1,3,2,3
+88,Female,0,8,Hypertension,Home,Private,16,1,0,0,4,1,3
+46,Female,1,18,Heart Failure,Home,Private,7,3,1,0,3,1,3
+65,Male,3,4,Chronic Kidney Disease,Home with Home Care,Medicare,12,4,1,1,1,2,1
+73,Female,3,5,Diabetes Mellitus,Inpatient Rehab,Uninsured,3,2,0,0,2,3,4
+34,Female,2,5,Diabetes Mellitus,Home,Medicare,17,2,0,0,2,1,1
+26,Male,0,15,Other,Skilled Nursing Facility,Uninsured,9,4,0,1,5,4,4
+51,Male,4,10,Sepsis,Against Medical Advice,Other,8,2,1,1,7,0,2
+62,Female,1,8,Hypertension,Home,Medicare,6,4,0,0,4,1,1
+26,Female,3,7,Chronic Kidney Disease,Home,Private,15,4,1,0,1,1,3
+24,Female,1,12,Diabetes Mellitus,Home,Medicare,10,1,0,0,2,1,1
+33,Female,3,11,Diabetes Mellitus,Home,Medicaid,6,0,0,0,2,1,0
+36,Male,4,13,Heart Failure,Home,Medicaid,15,1,1,1,3,1,0
+23,Female,2,15,COPD,Inpatient Rehab,Private,14,2,1,0,0,3,3
+28,Female,2,17,Hypertension,Skilled Nursing Facility,Uninsured,19,0,0,0,4,4,4
+78,Female,0,18,Pneumonia,Home with Home Care,Private,13,4,1,0,6,2,3
+59,Male,3,8,Heart Failure,Home,Medicaid,14,2,1,1,3,1,0
+30,Male,2,6,Other,Skilled Nursing Facility,Private,3,3,0,1,5,4,3
+29,Male,3,11,Hypertension,Against Medical Advice,Other,4,2,1,1,4,0,2
+37,Female,2,9,Pneumonia,Skilled Nursing Facility,Medicare,14,0,0,0,6,4,1
+67,Male,6,5,Pneumonia,Home,Other,14,0,1,1,6,1,2
+53,Male,3,7,Chronic Kidney Disease,Home with Home Care,Medicare,8,4,1,1,1,2,1
+86,Male,1,15,Heart Failure,Home,Private,10,3,1,1,3,1,3
+54,Male,2,4,Chronic Kidney Disease,Home,Medicare,9,4,0,1,1,1,1
+29,Female,3,19,Hypertension,Home,Medicare,14,3,1,0,4,1,1
+57,Female,5,13,Diabetes Mellitus,Home with Home Care,Medicaid,8,3,0,0,2,2,0
+71,Female,4,1,Diabetes Mellitus,Home with Home Care,Private,11,4,1,0,2,2,3
+19,Male,1,1,Diabetes Mellitus,Home,Medicaid,10,2,0,1,2,1,0
+67,Female,0,14,Diabetes Mellitus,Home,Medicare,18,1,1,0,2,1,1
+58,Male,7,9,Sepsis,Home,Private,4,3,1,1,7,1,3
+62,Male,4,12,Hypertension,Home,Uninsured,4,0,1,1,4,1,4
+26,Male,1,18,COPD,Home,Medicaid,12,4,1,1,0,1,0
+79,Male,1,9,Diabetes Mellitus,Home,Medicare,18,2,1,1,2,1,1
+64,Male,5,8,COPD,Skilled Nursing Facility,Medicaid,8,3,1,1,0,4,0
+22,Female,7,14,COPD,Home,Medicare,3,2,1,0,0,1,1
+18,Female,2,9,Diabetes Mellitus,Home,Private,18,4,1,0,2,1,3
+61,Female,4,20,Chronic Kidney Disease,Home,Private,7,0,0,0,1,1,3
+39,Male,2,2,Chronic Kidney Disease,Inpatient Rehab,Private,1,3,0,1,1,3,3
+55,Male,1,1,Pneumonia,Home with Home Care,Medicaid,13,3,0,1,6,2,0
+36,Male,5,13,Pneumonia,Home with Home Care,Private,3,2,0,1,6,2,3
+48,Other,6,10,Diabetes Mellitus,Home,Private,3,4,1,2,2,1,3
+84,Female,1,8,Chronic Kidney Disease,Home with Home Care,Private,15,1,0,0,1,2,3
+59,Female,2,7,Pneumonia,Home,Private,19,3,0,0,6,1,3
+43,Male,0,12,COPD,Home with Home Care,Private,4,0,0,1,0,2,3
+30,Female,2,17,Sepsis,Inpatient Rehab,Private,13,3,1,0,7,3,3
+75,Male,4,12,Pneumonia,Home with Home Care,Medicaid,13,3,1,1,6,2,0
+35,Female,2,16,Diabetes Mellitus,Inpatient Rehab,Other,15,1,0,0,2,3,2
+84,Female,2,10,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,19,1,1,0,2,4,0
+20,Female,1,12,Pneumonia,Home,Private,16,4,1,0,6,1,3
+72,Female,3,11,Diabetes Mellitus,Inpatient Rehab,Medicare,7,3,1,0,2,3,1
+75,Male,2,14,Pneumonia,Home,Private,3,3,0,1,6,1,3
+80,Female,2,20,Other,Home with Home Care,Private,2,2,0,0,5,2,3
+69,Female,1,13,Pneumonia,Home,Medicare,18,2,1,0,6,1,1
+41,Male,4,2,Chronic Kidney Disease,Home,Medicare,11,0,0,1,1,1,1
+89,Male,4,20,Pneumonia,Home,Private,1,0,1,1,6,1,3
+26,Male,3,7,COPD,Home,Private,16,2,1,1,0,1,3
+54,Male,2,1,COPD,Home,Medicaid,17,0,0,1,0,1,0
+70,Male,6,3,Other,Home with Home Care,Medicare,16,3,1,1,5,2,1
+41,Female,2,20,Chronic Kidney Disease,Home,Private,10,1,0,0,1,1,3
+38,Male,3,12,Other,Home,Medicare,17,3,1,1,5,1,1
+57,Male,2,5,Other,Home with Home Care,Medicaid,3,2,0,1,5,2,0
+79,Female,5,12,Heart Failure,Home,Medicare,18,4,1,0,3,1,1
+87,Female,2,3,Diabetes Mellitus,Skilled Nursing Facility,Medicare,19,4,1,0,2,4,1
+86,Female,2,20,Diabetes Mellitus,Home with Home Care,Medicare,14,2,1,0,2,2,1
+31,Male,5,5,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,2,3,0,1,2,4,0
+59,Female,2,1,Diabetes Mellitus,Home with Home Care,Medicare,12,0,0,0,2,2,1
+67,Female,2,16,Hypertension,Home,Medicaid,11,0,1,0,4,1,0
+78,Male,6,9,Diabetes Mellitus,Home with Home Care,Medicaid,17,4,1,1,2,2,0
+21,Male,0,10,Heart Failure,Home,Medicaid,6,2,0,1,3,1,0
+89,Female,4,10,Sepsis,Home,Medicaid,19,2,1,0,7,1,0
+34,Female,0,13,Diabetes Mellitus,Skilled Nursing Facility,Private,13,1,0,0,2,4,3
+74,Female,3,16,Hypertension,Home,Medicare,7,4,1,0,4,1,1
+65,Female,2,20,Heart Failure,Skilled Nursing Facility,Medicaid,11,2,1,0,3,4,0
+61,Female,3,4,Diabetes Mellitus,Skilled Nursing Facility,Medicare,7,1,0,0,2,4,1
+62,Female,4,14,Hypertension,Inpatient Rehab,Medicare,13,0,0,0,4,3,1
+50,Male,2,17,Pneumonia,Inpatient Rehab,Private,13,4,0,1,6,3,3
+48,Male,8,5,Sepsis,Home,Private,1,4,1,1,7,1,3
+64,Male,0,13,Hypertension,Home,Uninsured,19,2,0,1,4,1,4
+23,Female,6,3,Hypertension,Home with Home Care,Private,19,2,0,0,4,2,3
+89,Female,3,5,Heart Failure,Home,Other,15,3,1,0,3,1,2
+88,Female,1,16,Diabetes Mellitus,Home with Home Care,Medicare,14,0,1,0,2,2,1
+51,Male,1,19,Hypertension,Skilled Nursing Facility,Medicare,3,0,0,1,4,4,1
+70,Female,2,19,Hypertension,Home with Home Care,Medicare,4,1,0,0,4,2,1
+31,Male,3,17,Other,Home,Medicare,7,1,0,1,5,1,1
+33,Male,5,18,Chronic Kidney Disease,Home,Medicaid,1,3,1,1,1,1,0
+60,Female,0,18,Chronic Kidney Disease,Home,Private,19,0,0,0,1,1,3
+29,Female,1,8,Hypertension,Home,Medicare,3,1,0,0,4,1,1
+87,Other,2,18,Chronic Kidney Disease,Inpatient Rehab,Uninsured,15,0,1,2,1,3,4
+36,Male,3,9,Other,Home,Private,13,0,0,1,5,1,3
+58,Female,2,19,Sepsis,Home,Medicare,14,1,0,0,7,1,1
+70,Male,4,10,Chronic Kidney Disease,Home,Medicare,7,2,1,1,1,1,1
+46,Male,3,2,Hypertension,Home with Home Care,Medicare,1,2,0,1,4,2,1
+87,Female,2,17,Hypertension,Home with Home Care,Medicare,13,1,0,0,4,2,1
+76,Female,2,13,Diabetes Mellitus,Home,Medicare,4,3,0,0,2,1,1
+81,Female,3,11,Other,Home,Medicaid,12,4,1,0,5,1,0
+41,Male,2,16,COPD,Home,Medicare,7,0,0,1,0,1,1
+33,Female,1,20,Hypertension,Home,Medicaid,2,4,0,0,4,1,0
+69,Male,3,7,Heart Failure,Home with Home Care,Other,17,1,1,1,3,2,2
+23,Female,7,3,Sepsis,Home with Home Care,Private,1,0,0,0,7,2,3
+54,Male,3,16,Chronic Kidney Disease,Home,Uninsured,14,4,1,1,1,1,4
+21,Male,2,19,Diabetes Mellitus,Home,Medicare,1,2,0,1,2,1,1
+55,Female,5,20,Other,Against Medical Advice,Medicaid,3,3,1,0,5,0,0
+58,Female,1,16,Diabetes Mellitus,Home,Private,11,4,0,0,2,1,3
+31,Male,1,2,Heart Failure,Home with Home Care,Medicare,7,3,0,1,3,2,1
+88,Male,1,14,Other,Home,Medicare,9,2,1,1,5,1,1
+68,Female,4,20,Other,Home,Private,3,4,1,0,5,1,3
+82,Male,2,10,Pneumonia,Home,Private,1,1,0,1,6,1,3
+69,Male,3,19,Pneumonia,Home with Home Care,Medicaid,19,0,1,1,6,2,0
+47,Male,3,11,Chronic Kidney Disease,Against Medical Advice,Medicaid,2,2,1,1,1,0,0
+74,Male,2,18,Heart Failure,Home,Medicaid,5,3,1,1,3,1,0
+47,Female,0,11,Heart Failure,Home,Medicare,17,3,1,0,3,1,1
+59,Female,1,9,Hypertension,Home,Medicare,19,2,0,0,4,1,1
+28,Female,2,19,Hypertension,Home,Medicare,5,1,0,0,4,1,1
+44,Other,2,20,Hypertension,Home,Medicare,14,1,0,2,4,1,1
+41,Male,0,10,Hypertension,Home,Other,10,3,0,1,4,1,2
+56,Male,0,3,Diabetes Mellitus,Skilled Nursing Facility,Private,7,2,0,1,2,4,3
+89,Male,3,3,COPD,Home,Private,8,2,1,1,0,1,3
+35,Male,1,8,Diabetes Mellitus,Home,Medicare,8,0,0,1,2,1,1
+62,Male,6,6,COPD,Inpatient Rehab,Medicaid,7,3,0,1,0,3,0
+29,Female,3,20,Chronic Kidney Disease,Home,Medicare,13,1,0,0,1,1,1
+66,Female,0,1,Sepsis,Against Medical Advice,Medicare,14,4,1,0,7,0,1
+48,Male,3,20,Chronic Kidney Disease,Home,Medicare,19,1,0,1,1,1,1
+39,Female,1,6,Diabetes Mellitus,Inpatient Rehab,Private,11,1,0,0,2,3,3
+61,Female,3,2,Diabetes Mellitus,Home with Home Care,Private,2,4,0,0,2,2,3
+81,Female,2,19,Hypertension,Skilled Nursing Facility,Medicaid,17,3,1,0,4,4,0
+42,Female,2,7,Pneumonia,Against Medical Advice,Medicaid,6,0,0,0,6,0,0
+68,Female,1,11,Diabetes Mellitus,Home,Uninsured,9,1,0,0,2,1,4
+24,Female,5,11,Diabetes Mellitus,Against Medical Advice,Medicare,19,1,1,0,2,0,1
+23,Female,2,4,Hypertension,Home,Medicare,5,3,0,0,4,1,1
+41,Female,0,20,Diabetes Mellitus,Home,Medicare,9,3,0,0,2,1,1
+36,Male,3,16,Hypertension,Home,Private,7,2,0,1,4,1,3
+26,Male,2,5,Hypertension,Home with Home Care,Other,4,3,0,1,4,2,2
+53,Female,4,7,Diabetes Mellitus,Home,Medicare,18,3,1,0,2,1,1
+57,Male,2,16,Diabetes Mellitus,Home with Home Care,Uninsured,18,1,0,1,2,2,4
+41,Male,4,15,Other,Home with Home Care,Private,17,0,1,1,5,2,3
+65,Female,5,5,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,4,1,0,0,1,4,1
+80,Male,1,1,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,16,3,0,1,1,4,0
+86,Female,4,20,Hypertension,Home,Medicaid,5,2,1,0,4,1,0
+70,Female,1,9,Other,Home,Other,9,0,0,0,5,1,2
+71,Female,3,5,Other,Home,Medicare,2,2,0,0,5,1,1
+59,Female,2,6,Hypertension,Home,Private,2,4,0,0,4,1,3
+62,Male,4,3,Chronic Kidney Disease,Home,Medicare,4,2,0,1,1,1,1
+31,Female,1,6,Diabetes Mellitus,Home,Private,17,2,0,0,2,1,3
+46,Female,5,8,Hypertension,Home,Medicaid,19,3,1,0,4,1,0
+23,Other,3,6,Pneumonia,Against Medical Advice,Private,3,3,1,2,6,0,3
+24,Male,1,16,Chronic Kidney Disease,Home with Home Care,Private,5,3,0,1,1,2,3
+54,Male,1,16,Other,Home,Private,10,3,0,1,5,1,3
+70,Female,3,3,Diabetes Mellitus,Home with Home Care,Uninsured,6,3,1,0,2,2,4
+35,Male,4,17,COPD,Home,Medicare,3,2,1,1,0,1,1
+55,Female,2,6,Diabetes Mellitus,Home,Private,17,4,0,0,2,1,3
+76,Male,1,6,COPD,Home with Home Care,Medicare,10,3,0,1,0,2,1
+18,Male,2,19,Diabetes Mellitus,Home,Medicaid,12,4,0,1,2,1,0
+85,Male,6,20,Diabetes Mellitus,Home,Medicaid,1,4,1,1,2,1,0
+61,Male,3,15,Diabetes Mellitus,Against Medical Advice,Medicaid,18,1,1,1,2,0,0
+64,Female,4,19,Pneumonia,Inpatient Rehab,Medicaid,19,1,1,0,6,3,0
+52,Female,0,2,Hypertension,Home with Home Care,Other,4,0,0,0,4,2,2
+77,Male,3,8,Pneumonia,Home with Home Care,Medicare,15,1,1,1,6,2,1
+69,Female,2,7,Other,Home with Home Care,Private,9,3,1,0,5,2,3
+25,Male,4,8,Chronic Kidney Disease,Home,Medicaid,6,4,1,1,1,1,0
+58,Female,0,13,Heart Failure,Home,Medicare,12,0,0,0,3,1,1
+20,Male,3,15,Sepsis,Home,Medicare,18,1,1,1,7,1,1
+86,Female,2,12,Heart Failure,Home,Uninsured,15,2,1,0,3,1,4
+31,Female,1,15,Other,Home with Home Care,Uninsured,19,0,0,0,5,2,4
+43,Female,3,14,Diabetes Mellitus,Home,Uninsured,9,3,1,0,2,1,4
+87,Female,2,7,Other,Against Medical Advice,Other,13,4,1,0,5,0,2
+75,Female,3,17,Diabetes Mellitus,Inpatient Rehab,Medicare,16,3,1,0,2,3,1
+57,Female,2,5,Sepsis,Skilled Nursing Facility,Medicaid,13,3,0,0,7,4,0
+68,Female,2,20,COPD,Home with Home Care,Private,1,2,1,0,0,2,3
+22,Female,4,10,Other,Inpatient Rehab,Medicaid,18,2,1,0,5,3,0
+49,Female,3,19,Diabetes Mellitus,Home,Medicaid,3,4,1,0,2,1,0
+18,Male,3,18,Pneumonia,Skilled Nursing Facility,Medicaid,17,1,1,1,6,4,0
+71,Female,6,10,Other,Home,Private,5,3,1,0,5,1,3
+28,Male,2,2,COPD,Skilled Nursing Facility,Private,6,1,0,1,0,4,3
+70,Female,5,6,Pneumonia,Home,Medicare,17,4,1,0,6,1,1
+25,Female,3,3,Hypertension,Inpatient Rehab,Medicaid,17,3,0,0,4,3,0
+42,Female,0,19,COPD,Inpatient Rehab,Private,1,1,0,0,0,3,3
+57,Male,1,5,Pneumonia,Home,Private,7,3,0,1,6,1,3
+49,Male,2,7,Pneumonia,Home,Medicare,16,2,0,1,6,1,1
+45,Female,4,7,Other,Against Medical Advice,Private,5,2,1,0,5,0,3
+20,Female,2,10,Diabetes Mellitus,Home,Medicare,16,0,0,0,2,1,1
+79,Male,6,1,Heart Failure,Inpatient Rehab,Medicaid,4,4,1,1,3,3,0
+44,Male,3,11,Other,Home with Home Care,Private,11,1,1,1,5,2,3
+62,Female,4,7,Sepsis,Home,Private,14,3,1,0,7,1,3
+42,Female,7,6,COPD,Home,Medicare,13,0,0,0,0,1,1
+78,Male,3,6,Pneumonia,Home,Private,8,4,1,1,6,1,3
+61,Male,3,13,Heart Failure,Skilled Nursing Facility,Private,15,4,1,1,3,4,3
+63,Male,1,16,Heart Failure,Home,Private,18,4,1,1,3,1,3
+31,Female,3,13,COPD,Home with Home Care,Private,7,1,1,0,0,2,3
+25,Male,2,2,Chronic Kidney Disease,Home,Private,19,2,0,1,1,1,3
+65,Male,4,19,Pneumonia,Home with Home Care,Medicaid,9,0,1,1,6,2,0
+31,Male,4,19,Diabetes Mellitus,Inpatient Rehab,Medicare,11,1,1,1,2,3,1
+82,Male,1,19,Other,Against Medical Advice,Medicare,10,3,1,1,5,0,1
+24,Female,4,18,Other,Home,Medicaid,14,1,1,0,5,1,0
+66,Male,4,6,Hypertension,Skilled Nursing Facility,Private,16,3,1,1,4,4,3
+72,Male,2,2,COPD,Skilled Nursing Facility,Medicaid,8,3,1,1,0,4,0
+30,Male,5,19,Heart Failure,Home with Home Care,Medicare,1,4,1,1,3,2,1
+73,Male,1,6,Hypertension,Against Medical Advice,Medicare,12,1,1,1,4,0,1
+73,Male,3,20,Hypertension,Home,Medicaid,3,2,1,1,4,1,0
+32,Female,1,15,Diabetes Mellitus,Home,Medicare,2,3,0,0,2,1,1
+74,Female,2,6,Other,Inpatient Rehab,Private,16,4,1,0,5,3,3
+75,Female,2,3,Hypertension,Home,Medicare,4,2,0,0,4,1,1
+52,Female,1,11,Other,Skilled Nursing Facility,Private,2,1,0,0,5,4,3
+33,Female,0,8,Hypertension,Inpatient Rehab,Uninsured,12,2,0,0,4,3,4
+25,Male,1,18,Pneumonia,Home,Medicare,17,1,0,1,6,1,1
+62,Female,3,17,Chronic Kidney Disease,Inpatient Rehab,Medicaid,10,3,1,0,1,3,0
+57,Female,5,19,Other,Home,Medicare,8,0,0,0,5,1,1
+71,Female,3,19,Sepsis,Home with Home Care,Private,18,0,1,0,7,2,3
+31,Female,4,17,Diabetes Mellitus,Home with Home Care,Private,18,3,1,0,2,2,3
+76,Male,1,4,Diabetes Mellitus,Inpatient Rehab,Medicaid,18,2,0,1,2,3,0
+70,Female,1,7,Chronic Kidney Disease,Home,Medicaid,2,1,0,0,1,1,0
+44,Female,3,5,Hypertension,Home,Uninsured,12,0,0,0,4,1,4
+64,Other,5,16,Other,Home with Home Care,Medicare,10,1,1,2,5,2,1
+23,Male,6,6,Diabetes Mellitus,Skilled Nursing Facility,Medicare,8,3,0,1,2,4,1
+72,Male,3,14,Pneumonia,Home with Home Care,Uninsured,19,2,1,1,6,2,4
+61,Male,1,20,Chronic Kidney Disease,Home,Private,10,1,0,1,1,1,3
+35,Female,2,2,Other,Home,Uninsured,11,2,0,0,5,1,4
+33,Male,1,18,Sepsis,Home,Private,14,0,1,1,7,1,3
+29,Male,2,18,Sepsis,Skilled Nursing Facility,Private,15,1,0,1,7,4,3
+37,Other,1,13,COPD,Home,Medicaid,10,4,1,2,0,1,0
+62,Male,3,18,Chronic Kidney Disease,Home,Private,4,0,0,1,1,1,3
+81,Female,0,17,Heart Failure,Against Medical Advice,Uninsured,7,2,1,0,3,0,4
+76,Male,3,13,Diabetes Mellitus,Home,Private,11,3,1,1,2,1,3
+39,Female,4,12,Sepsis,Against Medical Advice,Medicare,3,4,1,0,7,0,1
+64,Female,3,3,Hypertension,Home with Home Care,Medicare,5,1,0,0,4,2,1
+46,Female,1,7,Other,Skilled Nursing Facility,Medicare,2,0,0,0,5,4,1
+62,Female,1,1,Other,Home,Medicare,12,1,0,0,5,1,1
+26,Male,4,5,Pneumonia,Home,Medicare,5,1,0,1,6,1,1
+41,Male,2,1,Hypertension,Skilled Nursing Facility,Private,7,4,0,1,4,4,3
+32,Male,2,4,Other,Skilled Nursing Facility,Private,4,4,0,1,5,4,3
+53,Female,1,1,Sepsis,Skilled Nursing Facility,Medicaid,11,4,0,0,7,4,0
+30,Female,2,13,Heart Failure,Home,Private,9,4,1,0,3,1,3
+61,Male,2,14,COPD,Skilled Nursing Facility,Medicare,4,3,1,1,0,4,1
+88,Female,3,15,Diabetes Mellitus,Skilled Nursing Facility,Medicare,9,2,1,0,2,4,1
+89,Male,2,17,Other,Home with Home Care,Medicare,12,4,1,1,5,2,1
+53,Female,2,12,Pneumonia,Skilled Nursing Facility,Medicaid,16,0,0,0,6,4,0
+78,Female,4,7,Heart Failure,Skilled Nursing Facility,Medicare,1,1,1,0,3,4,1
+57,Male,2,19,Hypertension,Home with Home Care,Medicare,8,4,0,1,4,2,1
+44,Female,4,3,Pneumonia,Home,Medicaid,1,0,0,0,6,1,0
+18,Male,0,18,Chronic Kidney Disease,Home,Private,19,3,1,1,1,1,3
+51,Female,0,4,Diabetes Mellitus,Home,Medicare,4,0,0,0,2,1,1
+85,Female,1,3,Hypertension,Home,Private,14,0,0,0,4,1,3
+38,Male,3,12,COPD,Home,Private,14,3,1,1,0,1,3
+50,Male,5,12,Hypertension,Home,Private,9,3,1,1,4,1,3
+24,Male,1,17,COPD,Home,Uninsured,9,1,0,1,0,1,4
+82,Female,2,6,Sepsis,Home,Medicare,17,4,1,0,7,1,1
+20,Female,2,15,Pneumonia,Skilled Nursing Facility,Medicare,15,0,0,0,6,4,1
+68,Male,0,2,Pneumonia,Inpatient Rehab,Uninsured,10,2,1,1,6,3,4
+71,Female,0,8,Sepsis,Home,Medicaid,17,2,1,0,7,1,0
+76,Female,0,14,Chronic Kidney Disease,Against Medical Advice,Private,9,1,0,0,1,0,3
+23,Male,1,5,Diabetes Mellitus,Home with Home Care,Private,4,2,0,1,2,2,3
+46,Male,2,3,Diabetes Mellitus,Home,Private,14,1,0,1,2,1,3
+34,Female,1,10,Hypertension,Home,Uninsured,3,4,0,0,4,1,4
+77,Female,4,7,Pneumonia,Home with Home Care,Other,12,1,1,0,6,2,2
+39,Male,6,11,Hypertension,Skilled Nursing Facility,Private,1,3,0,1,4,4,3
+41,Male,1,15,Heart Failure,Skilled Nursing Facility,Medicare,1,3,0,1,3,4,1
+68,Male,3,2,Diabetes Mellitus,Home,Uninsured,13,3,1,1,2,1,4
+67,Female,2,5,Diabetes Mellitus,Home,Medicare,14,3,1,0,2,1,1
+28,Male,1,11,Chronic Kidney Disease,Home,Medicare,16,3,0,1,1,1,1
+73,Male,4,8,Pneumonia,Home,Uninsured,7,3,1,1,6,1,4
+88,Female,1,13,Chronic Kidney Disease,Home,Medicare,10,3,1,0,1,1,1
+59,Female,0,11,Chronic Kidney Disease,Home,Medicare,15,3,0,0,1,1,1
+56,Male,3,17,Other,Skilled Nursing Facility,Medicare,8,3,1,1,5,4,1
+86,Male,1,15,Chronic Kidney Disease,Inpatient Rehab,Uninsured,11,4,1,1,1,3,4
+65,Female,2,1,COPD,Home,Medicaid,14,3,1,0,0,1,0
+74,Male,4,19,Hypertension,Inpatient Rehab,Private,13,1,1,1,4,3,3
+38,Male,3,16,Chronic Kidney Disease,Home,Medicare,13,4,1,1,1,1,1
+37,Female,2,19,Pneumonia,Home,Private,9,2,0,0,6,1,3
+32,Male,5,13,Sepsis,Home,Private,17,0,1,1,7,1,3
+86,Female,2,4,Other,Home with Home Care,Medicare,18,4,1,0,5,2,1
+68,Female,1,11,Diabetes Mellitus,Against Medical Advice,Medicaid,19,3,1,0,2,0,0
+79,Male,4,18,Other,Home with Home Care,Medicare,13,4,1,1,5,2,1
+54,Male,4,18,COPD,Home,Other,12,0,1,1,0,1,2
+23,Female,4,10,Heart Failure,Home with Home Care,Private,8,0,1,0,3,2,3
+88,Female,5,17,COPD,Home,Uninsured,11,3,1,0,0,1,4
+43,Female,3,13,Other,Inpatient Rehab,Medicare,7,3,1,0,5,3,1
+25,Female,0,14,COPD,Home with Home Care,Private,1,1,0,0,0,2,3
+21,Male,0,7,Heart Failure,Home,Private,10,0,0,1,3,1,3
+38,Female,4,10,Pneumonia,Home with Home Care,Private,15,3,0,0,6,2,3
+48,Male,7,3,Heart Failure,Home with Home Care,Other,4,0,1,1,3,2,2
+38,Male,1,2,Diabetes Mellitus,Home,Medicaid,1,1,0,1,2,1,0
+42,Male,0,19,Diabetes Mellitus,Home with Home Care,Medicare,11,2,0,1,2,2,1
+32,Male,1,7,Diabetes Mellitus,Home,Private,5,0,0,1,2,1,3
+52,Female,1,5,Diabetes Mellitus,Skilled Nursing Facility,Private,19,1,0,0,2,4,3
+66,Male,3,3,Diabetes Mellitus,Skilled Nursing Facility,Private,19,1,1,1,2,4,3
+60,Male,1,2,Pneumonia,Skilled Nursing Facility,Medicare,4,1,0,1,6,4,1
+58,Male,2,6,Heart Failure,Home with Home Care,Medicaid,2,4,0,1,3,2,0
+54,Female,2,14,Chronic Kidney Disease,Home with Home Care,Medicare,7,3,0,0,1,2,1
+74,Female,0,7,Sepsis,Home,Medicaid,13,0,1,0,7,1,0
+59,Male,6,2,COPD,Skilled Nursing Facility,Private,12,4,1,1,0,4,3
+64,Male,1,11,Pneumonia,Home,Private,2,0,0,1,6,1,3
+78,Male,8,3,Diabetes Mellitus,Home,Medicare,9,4,1,1,2,1,1
+31,Female,3,9,Heart Failure,Home,Medicaid,16,3,1,0,3,1,0
+85,Female,3,8,Diabetes Mellitus,Home,Medicare,8,1,1,0,2,1,1
+70,Female,0,11,Diabetes Mellitus,Home with Home Care,Medicare,18,0,1,0,2,2,1
+51,Female,2,18,Heart Failure,Home,Private,4,1,0,0,3,1,3
+41,Male,1,1,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,11,3,0,1,2,4,4
+37,Female,1,15,Diabetes Mellitus,Home,Medicaid,17,0,0,0,2,1,0
+86,Female,2,4,Diabetes Mellitus,Home,Private,8,2,0,0,2,1,3
+47,Male,1,4,COPD,Home with Home Care,Uninsured,19,2,1,1,0,2,4
+24,Male,1,10,Heart Failure,Home,Private,8,2,0,1,3,1,3
+53,Female,4,11,Chronic Kidney Disease,Home,Medicare,6,3,1,0,1,1,1
+55,Female,4,18,COPD,Skilled Nursing Facility,Other,2,2,1,0,0,4,2
+69,Male,0,15,Hypertension,Home,Medicaid,15,0,1,1,4,1,0
+32,Female,9,3,Diabetes Mellitus,Skilled Nursing Facility,Medicare,1,2,0,0,2,4,1
+63,Female,2,7,Hypertension,Home,Medicare,6,0,0,0,4,1,1
+40,Male,2,7,Pneumonia,Home,Medicaid,19,3,0,1,6,1,0
+29,Male,1,17,Diabetes Mellitus,Skilled Nursing Facility,Medicare,4,1,0,1,2,4,1
+61,Male,2,20,Sepsis,Home,Medicare,13,4,1,1,7,1,1
+32,Female,2,16,Other,Home,Medicare,15,2,0,0,5,1,1
+66,Male,3,16,Diabetes Mellitus,Home,Private,9,4,1,1,2,1,3
+38,Male,0,8,Heart Failure,Home,Uninsured,3,1,0,1,3,1,4
+32,Female,1,3,Hypertension,Skilled Nursing Facility,Medicare,2,3,0,0,4,4,1
+31,Female,2,20,Hypertension,Home,Uninsured,16,3,0,0,4,1,4
+59,Male,3,15,Heart Failure,Skilled Nursing Facility,Uninsured,18,1,1,1,3,4,4
+32,Male,2,1,Heart Failure,Inpatient Rehab,Private,18,4,1,1,3,3,3
+80,Female,1,10,Chronic Kidney Disease,Home,Medicare,6,2,1,0,1,1,1
+85,Female,3,2,COPD,Inpatient Rehab,Private,18,0,1,0,0,3,3
+44,Female,1,7,Pneumonia,Home,Uninsured,11,3,0,0,6,1,4
+70,Male,4,14,Chronic Kidney Disease,Against Medical Advice,Private,7,1,1,1,1,0,3
+69,Female,7,16,COPD,Home,Medicare,14,4,1,0,0,1,1
+80,Female,1,15,Hypertension,Home with Home Care,Medicaid,18,2,1,0,4,2,0
+70,Female,2,7,Diabetes Mellitus,Home,Private,7,4,1,0,2,1,3
+74,Female,5,13,Heart Failure,Home,Medicaid,10,2,1,0,3,1,0
+69,Male,3,10,Hypertension,Home with Home Care,Medicare,8,0,1,1,4,2,1
+60,Male,3,9,Sepsis,Skilled Nursing Facility,Medicare,14,0,1,1,7,4,1
+24,Female,4,9,COPD,Home,Private,18,1,1,0,0,1,3
+59,Female,2,6,COPD,Home,Uninsured,5,1,0,0,0,1,4
+21,Female,3,12,Diabetes Mellitus,Skilled Nursing Facility,Medicare,14,2,1,0,2,4,1
+86,Male,3,20,Chronic Kidney Disease,Home with Home Care,Other,10,2,1,1,1,2,2
+22,Female,2,20,COPD,Against Medical Advice,Medicare,15,2,1,0,0,0,1
+58,Female,5,14,Heart Failure,Skilled Nursing Facility,Private,6,2,1,0,3,4,3
+21,Male,6,20,Heart Failure,Against Medical Advice,Private,9,0,1,1,3,0,3
+19,Male,4,7,Chronic Kidney Disease,Skilled Nursing Facility,Private,10,1,1,1,1,4,3
+84,Female,1,8,Diabetes Mellitus,Home,Uninsured,17,1,1,0,2,1,4
+38,Female,3,8,Heart Failure,Home,Medicare,1,3,1,0,3,1,1
+87,Female,1,8,Heart Failure,Skilled Nursing Facility,Uninsured,14,1,1,0,3,4,4
+60,Female,3,2,Heart Failure,Home with Home Care,Medicare,4,1,0,0,3,2,1
+86,Male,1,14,Diabetes Mellitus,Home,Private,2,4,1,1,2,1,3
+26,Male,3,10,Sepsis,Home,Private,3,4,1,1,7,1,3
+45,Female,2,18,Pneumonia,Against Medical Advice,Private,7,3,1,0,6,0,3
+43,Female,2,18,Hypertension,Home with Home Care,Medicare,14,2,0,0,4,2,1
+20,Female,1,18,Hypertension,Home,Uninsured,12,3,0,0,4,1,4
+66,Female,4,16,COPD,Home,Medicare,19,3,1,0,0,1,1
+34,Male,5,20,Diabetes Mellitus,Home,Medicare,18,0,1,1,2,1,1
+80,Female,1,5,COPD,Home,Private,15,1,1,0,0,1,3
+72,Male,1,20,Pneumonia,Home,Medicaid,1,0,0,1,6,1,0
+40,Male,3,5,Hypertension,Home,Private,3,1,0,1,4,1,3
+51,Male,4,20,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,15,3,1,1,1,4,0
+86,Male,4,10,Diabetes Mellitus,Home,Medicare,4,1,1,1,2,1,1
+32,Male,4,17,Heart Failure,Skilled Nursing Facility,Private,15,2,1,1,3,4,3
+64,Male,1,13,Chronic Kidney Disease,Inpatient Rehab,Medicaid,10,2,0,1,1,3,0
+20,Male,1,17,Pneumonia,Home,Medicare,6,3,0,1,6,1,1
+45,Male,3,18,Pneumonia,Home with Home Care,Private,13,4,1,1,6,2,3
+20,Female,4,13,Chronic Kidney Disease,Home,Medicaid,7,2,1,0,1,1,0
+21,Male,2,17,Other,Inpatient Rehab,Private,1,3,0,1,5,3,3
+48,Male,0,15,Pneumonia,Home,Medicaid,11,0,0,1,6,1,0
+62,Female,1,12,Heart Failure,Home with Home Care,Private,14,4,1,0,3,2,3
+76,Female,2,10,Diabetes Mellitus,Home with Home Care,Private,6,2,1,0,2,2,3
+62,Female,3,13,Diabetes Mellitus,Home,Private,5,3,1,0,2,1,3
+54,Male,0,11,Heart Failure,Home,Medicare,19,3,1,1,3,1,1
+82,Female,1,3,Diabetes Mellitus,Home with Home Care,Private,19,0,0,0,2,2,3
+26,Male,3,10,Heart Failure,Skilled Nursing Facility,Private,13,0,1,1,3,4,3
+34,Male,4,11,Heart Failure,Home,Private,7,4,1,1,3,1,3
+82,Male,3,6,Diabetes Mellitus,Home with Home Care,Medicaid,8,2,1,1,2,2,0
+20,Female,3,1,Sepsis,Home,Uninsured,14,3,1,0,7,1,4
+43,Male,2,6,Diabetes Mellitus,Skilled Nursing Facility,Private,19,4,0,1,2,4,3
+70,Male,3,5,COPD,Home,Medicare,19,4,1,1,0,1,1
+48,Male,0,7,Chronic Kidney Disease,Inpatient Rehab,Medicaid,12,0,0,1,1,3,0
+43,Female,4,12,Other,Home,Uninsured,9,3,1,0,5,1,4
+40,Female,3,12,Diabetes Mellitus,Home,Medicare,14,1,0,0,2,1,1
+47,Male,3,7,Chronic Kidney Disease,Home,Other,6,0,0,1,1,1,2
+27,Female,2,2,Other,Home,Private,15,3,0,0,5,1,3
+89,Female,2,1,Sepsis,Home with Home Care,Private,13,4,1,0,7,2,3
+81,Female,0,18,Hypertension,Home,Medicare,7,4,1,0,4,1,1
+39,Male,0,12,Heart Failure,Skilled Nursing Facility,Medicare,11,2,1,1,3,4,1
+32,Female,3,7,Diabetes Mellitus,Home,Uninsured,10,1,1,0,2,1,4
+73,Male,6,19,Pneumonia,Home,Medicare,1,0,1,1,6,1,1
+37,Female,1,3,Other,Home,Private,7,2,0,0,5,1,3
+64,Male,1,10,Pneumonia,Home,Medicaid,18,2,0,1,6,1,0
+70,Male,0,11,Pneumonia,Home,Medicare,3,1,0,1,6,1,1
+70,Male,2,5,Heart Failure,Home,Medicare,9,0,0,1,3,1,1
+18,Female,2,2,Hypertension,Home,Medicaid,5,0,0,0,4,1,0
+19,Male,4,8,Heart Failure,Home,Other,13,4,1,1,3,1,2
+75,Female,3,14,Heart Failure,Home with Home Care,Medicaid,16,0,1,0,3,2,0
+36,Male,3,8,Chronic Kidney Disease,Home with Home Care,Medicaid,16,2,1,1,1,2,0
+79,Female,0,6,COPD,Home,Medicare,12,4,1,0,0,1,1
+89,Female,2,1,Heart Failure,Home,Medicaid,18,0,1,0,3,1,0
+29,Female,1,1,Diabetes Mellitus,Against Medical Advice,Medicaid,11,1,0,0,2,0,0
+43,Female,1,8,Pneumonia,Home with Home Care,Uninsured,17,2,1,0,6,2,4
+44,Female,7,11,Heart Failure,Home with Home Care,Medicaid,7,3,1,0,3,2,0
+46,Male,5,18,Pneumonia,Home,Medicaid,15,1,0,1,6,1,0
+32,Female,1,10,Diabetes Mellitus,Skilled Nursing Facility,Medicare,6,1,0,0,2,4,1
+63,Male,1,12,COPD,Skilled Nursing Facility,Other,6,0,0,1,0,4,2
+18,Female,2,20,COPD,Home with Home Care,Medicare,18,4,1,0,0,2,1
+77,Female,1,16,Diabetes Mellitus,Against Medical Advice,Medicare,19,4,1,0,2,0,1
+74,Male,4,5,Chronic Kidney Disease,Home,Private,19,2,1,1,1,1,3
+20,Male,3,16,Diabetes Mellitus,Home,Private,2,0,1,1,2,1,3
+35,Male,3,12,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,3,4,1,1,2,4,0
+69,Female,3,6,Other,Skilled Nursing Facility,Medicaid,14,3,1,0,5,4,0
+77,Female,0,5,Heart Failure,Home,Private,4,0,0,0,3,1,3
+51,Female,3,1,Hypertension,Home,Medicare,17,0,0,0,4,1,1
+77,Female,3,19,Heart Failure,Home,Private,6,4,1,0,3,1,3
+43,Female,1,10,Hypertension,Home,Private,19,1,0,0,4,1,3
+89,Male,5,14,Hypertension,Skilled Nursing Facility,Medicaid,9,0,1,1,4,4,0
+36,Male,3,3,Pneumonia,Home with Home Care,Medicaid,4,1,0,1,6,2,0
+39,Female,3,6,COPD,Home,Medicare,7,2,1,0,0,1,1
+50,Female,2,5,Chronic Kidney Disease,Home,Private,4,2,0,0,1,1,3
+55,Female,1,17,Chronic Kidney Disease,Home,Medicaid,11,4,0,0,1,1,0
+52,Male,3,18,Other,Home,Medicare,2,2,0,1,5,1,1
+84,Male,3,12,Sepsis,Home with Home Care,Private,10,4,1,1,7,2,3
+27,Male,2,5,Other,Against Medical Advice,Other,6,4,0,1,5,0,2
+32,Male,5,9,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,8,1,1,1,2,4,0
+28,Male,2,12,Hypertension,Home,Uninsured,15,1,0,1,4,1,4
+41,Female,2,20,Other,Inpatient Rehab,Medicare,13,2,0,0,5,3,1
+21,Male,4,9,Heart Failure,Skilled Nursing Facility,Medicare,2,1,0,1,3,4,1
+30,Female,1,3,Diabetes Mellitus,Skilled Nursing Facility,Medicare,1,0,0,0,2,4,1
+74,Male,3,1,Hypertension,Home,Medicaid,15,3,1,1,4,1,0
+54,Female,2,15,Pneumonia,Home,Medicare,7,0,0,0,6,1,1
+65,Male,3,10,Sepsis,Home,Medicare,18,0,1,1,7,1,1
+88,Male,3,14,Diabetes Mellitus,Home,Uninsured,10,4,1,1,2,1,4
+18,Male,2,7,Hypertension,Home,Private,15,3,1,1,4,1,3
+77,Female,3,4,Heart Failure,Home,Private,5,4,1,0,3,1,3
+29,Female,2,5,Diabetes Mellitus,Home,Medicare,11,1,0,0,2,1,1
+38,Male,2,20,Diabetes Mellitus,Skilled Nursing Facility,Medicare,8,1,0,1,2,4,1
+28,Male,4,16,Hypertension,Home,Medicare,8,3,1,1,4,1,1
+61,Female,3,3,Pneumonia,Home,Private,6,2,0,0,6,1,3
+75,Male,4,17,COPD,Against Medical Advice,Uninsured,15,1,1,1,0,0,4
+61,Male,6,13,Chronic Kidney Disease,Inpatient Rehab,Medicaid,15,0,0,1,1,3,0
+51,Female,3,6,Sepsis,Skilled Nursing Facility,Medicare,5,3,0,0,7,4,1
+42,Female,3,5,Chronic Kidney Disease,Against Medical Advice,Medicaid,13,3,1,0,1,0,0
+21,Male,0,16,Hypertension,Home with Home Care,Medicare,14,1,0,1,4,2,1
+81,Male,5,11,Chronic Kidney Disease,Against Medical Advice,Medicaid,11,1,1,1,1,0,0
+33,Female,2,17,Chronic Kidney Disease,Home,Private,12,4,1,0,1,1,3
+27,Male,1,5,COPD,Home,Private,1,4,0,1,0,1,3
+83,Male,4,6,Heart Failure,Home,Medicare,3,0,1,1,3,1,1
+52,Female,4,10,Hypertension,Home,Medicare,8,3,0,0,4,1,1
+23,Female,3,1,COPD,Home,Other,12,2,1,0,0,1,2
+36,Male,4,10,Heart Failure,Home with Home Care,Medicare,15,2,1,1,3,2,1
+76,Other,1,17,Sepsis,Skilled Nursing Facility,Medicare,3,3,1,2,7,4,1
+70,Female,4,3,Chronic Kidney Disease,Home with Home Care,Medicare,8,0,0,0,1,2,1
+25,Male,1,2,COPD,Home,Medicare,19,4,0,1,0,1,1
+27,Other,5,17,Other,Skilled Nursing Facility,Medicaid,6,4,1,2,5,4,0
+84,Male,0,4,Pneumonia,Home with Home Care,Private,18,4,1,1,6,2,3
+55,Male,2,2,Diabetes Mellitus,Home,Medicare,11,2,0,1,2,1,1
+46,Female,2,5,Other,Home with Home Care,Medicaid,12,2,0,0,5,2,0
+32,Male,1,10,Pneumonia,Home,Private,2,0,0,1,6,1,3
+40,Male,4,1,Chronic Kidney Disease,Home,Medicaid,5,2,0,1,1,1,0
+63,Male,1,1,Diabetes Mellitus,Inpatient Rehab,Uninsured,4,1,0,1,2,3,4
+45,Male,4,4,Hypertension,Home,Uninsured,9,2,0,1,4,1,4
+43,Female,2,7,Pneumonia,Home,Medicare,13,4,0,0,6,1,1
+27,Female,1,14,COPD,Inpatient Rehab,Private,13,0,0,0,0,3,3
+64,Other,1,14,Sepsis,Skilled Nursing Facility,Medicaid,15,3,1,2,7,4,0
+21,Male,3,18,Hypertension,Home,Other,2,3,0,1,4,1,2
+72,Male,2,2,Diabetes Mellitus,Home,Medicaid,13,0,0,1,2,1,0
+83,Male,0,1,Heart Failure,Home,Other,7,1,1,1,3,1,2
+84,Male,3,16,Heart Failure,Home with Home Care,Private,17,3,1,1,3,2,3
+24,Male,1,18,Hypertension,Home,Medicare,8,4,1,1,4,1,1
+72,Female,0,16,Diabetes Mellitus,Home,Medicaid,18,3,1,0,2,1,0
+48,Female,6,6,Pneumonia,Against Medical Advice,Other,15,3,1,0,6,0,2
+36,Other,2,10,Hypertension,Home with Home Care,Uninsured,15,4,0,2,4,2,4
+45,Male,5,2,Sepsis,Home,Medicare,5,2,0,1,7,1,1
+45,Female,2,7,Chronic Kidney Disease,Home with Home Care,Private,2,1,0,0,1,2,3
+36,Male,4,17,Hypertension,Home with Home Care,Medicare,16,4,1,1,4,2,1
+37,Male,1,3,Diabetes Mellitus,Home,Medicare,5,4,0,1,2,1,1
+30,Female,3,20,Sepsis,Home,Medicaid,6,0,1,0,7,1,0
+60,Female,1,12,Diabetes Mellitus,Skilled Nursing Facility,Medicare,12,1,0,0,2,4,1
+28,Male,0,2,Chronic Kidney Disease,Home,Private,5,2,0,1,1,1,3
+65,Male,2,7,Hypertension,Home with Home Care,Medicare,8,4,1,1,4,2,1
+32,Male,1,17,Diabetes Mellitus,Home,Private,11,2,0,1,2,1,3
+34,Female,1,19,Heart Failure,Home,Medicare,14,4,1,0,3,1,1
+71,Male,3,12,Hypertension,Home,Medicare,17,4,1,1,4,1,1
+67,Other,1,9,Hypertension,Home,Medicare,10,0,1,2,4,1,1
+45,Male,3,14,Pneumonia,Home,Medicare,2,3,1,1,6,1,1
+21,Male,1,2,Hypertension,Home,Medicare,3,1,0,1,4,1,1
+39,Female,4,4,COPD,Skilled Nursing Facility,Medicare,13,0,0,0,0,4,1
+56,Female,3,19,Heart Failure,Against Medical Advice,Private,17,2,1,0,3,0,3
+51,Male,5,16,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,3,4,1,1,1,4,1
+61,Female,5,17,Heart Failure,Inpatient Rehab,Medicaid,10,4,1,0,3,3,0
+59,Female,1,2,Other,Home,Medicaid,8,1,0,0,5,1,0
+57,Female,3,17,Pneumonia,Against Medical Advice,Uninsured,4,0,1,0,6,0,4
+29,Female,2,19,Chronic Kidney Disease,Home,Uninsured,13,0,0,0,1,1,4
+19,Female,2,8,COPD,Against Medical Advice,Medicaid,7,2,1,0,0,0,0
+45,Female,5,20,Other,Against Medical Advice,Medicare,7,0,1,0,5,0,1
+84,Female,5,6,Diabetes Mellitus,Skilled Nursing Facility,Medicare,16,0,0,0,2,4,1
+88,Male,2,12,Pneumonia,Against Medical Advice,Other,5,3,1,1,6,0,2
+89,Male,0,18,COPD,Home with Home Care,Medicare,17,1,1,1,0,2,1
+27,Male,4,2,Pneumonia,Home,Medicare,10,0,0,1,6,1,1
+74,Male,3,19,Diabetes Mellitus,Home,Medicare,4,2,1,1,2,1,1
+54,Male,5,10,Sepsis,Home with Home Care,Medicare,14,4,1,1,7,2,1
+81,Female,0,3,Other,Home,Medicare,5,0,0,0,5,1,1
+57,Male,1,12,Pneumonia,Home with Home Care,Private,2,0,0,1,6,2,3
+77,Male,2,16,Hypertension,Against Medical Advice,Medicare,14,4,1,1,4,0,1
+65,Female,1,12,Other,Home,Private,18,3,1,0,5,1,3
+36,Male,4,8,Hypertension,Skilled Nursing Facility,Medicare,11,1,0,1,4,4,1
+89,Male,1,5,Diabetes Mellitus,Inpatient Rehab,Medicare,16,3,0,1,2,3,1
+50,Male,4,11,Pneumonia,Inpatient Rehab,Uninsured,18,2,1,1,6,3,4
+61,Male,0,10,Pneumonia,Against Medical Advice,Medicare,16,0,0,1,6,0,1
+54,Male,0,3,Chronic Kidney Disease,Home with Home Care,Private,4,3,0,1,1,2,3
+53,Female,3,9,Hypertension,Against Medical Advice,Medicaid,1,1,1,0,4,0,0
+38,Female,4,12,Other,Skilled Nursing Facility,Medicare,14,2,1,0,5,4,1
+19,Male,4,6,Other,Home,Other,12,3,1,1,5,1,2
+48,Male,3,19,COPD,Home,Medicare,10,0,1,1,0,1,1
+47,Male,1,16,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,19,1,0,1,2,4,4
+61,Female,2,14,Other,Home,Medicare,4,0,0,0,5,1,1
+29,Male,1,4,Sepsis,Home with Home Care,Uninsured,3,0,0,1,7,2,4
+68,Male,3,18,Diabetes Mellitus,Home with Home Care,Medicare,4,2,1,1,2,2,1
+66,Female,3,10,Other,Home,Medicaid,15,1,1,0,5,1,0
+41,Male,3,18,Sepsis,Home with Home Care,Private,11,4,1,1,7,2,3
+41,Male,0,12,COPD,Skilled Nursing Facility,Uninsured,16,0,1,1,0,4,4
+77,Male,1,19,Pneumonia,Home,Uninsured,4,1,0,1,6,1,4
+28,Female,0,8,Chronic Kidney Disease,Home,Private,6,0,0,0,1,1,3
+30,Female,2,1,Diabetes Mellitus,Home,Uninsured,8,3,0,0,2,1,4
+89,Female,4,14,Chronic Kidney Disease,Home,Medicare,13,3,1,0,1,1,1
+89,Female,2,6,Hypertension,Inpatient Rehab,Medicare,4,1,0,0,4,3,1
+81,Female,3,14,Diabetes Mellitus,Home,Medicare,5,2,1,0,2,1,1
+37,Other,4,2,Chronic Kidney Disease,Home with Home Care,Medicaid,10,4,1,2,1,2,0
+89,Female,2,9,Chronic Kidney Disease,Home,Medicaid,5,3,0,0,1,1,0
+88,Male,3,12,COPD,Home,Medicaid,12,2,1,1,0,1,0
+45,Female,3,5,Other,Skilled Nursing Facility,Medicare,1,4,0,0,5,4,1
+19,Male,3,2,Chronic Kidney Disease,Skilled Nursing Facility,Private,10,3,0,1,1,4,3
+60,Male,1,19,Chronic Kidney Disease,Home,Medicare,5,4,0,1,1,1,1
+25,Female,2,7,Hypertension,Home,Medicare,19,0,0,0,4,1,1
+30,Male,1,7,COPD,Home,Medicaid,19,1,0,1,0,1,0
+52,Female,0,10,Heart Failure,Home,Private,12,3,1,0,3,1,3
+40,Male,2,17,COPD,Home with Home Care,Private,16,3,1,1,0,2,3
+63,Female,1,14,Diabetes Mellitus,Home,Private,5,0,0,0,2,1,3
+32,Female,7,11,Diabetes Mellitus,Home,Medicare,17,3,1,0,2,1,1
+19,Female,1,20,COPD,Home,Medicaid,14,3,1,0,0,1,0
+78,Male,2,6,Chronic Kidney Disease,Inpatient Rehab,Medicare,12,3,1,1,1,3,1
+81,Male,2,8,Other,Against Medical Advice,Medicaid,13,3,1,1,5,0,0
+69,Female,5,19,Chronic Kidney Disease,Home,Medicaid,14,3,1,0,1,1,0
+53,Male,2,19,Pneumonia,Skilled Nursing Facility,Medicare,5,2,0,1,6,4,1
+84,Female,2,17,Pneumonia,Home,Medicare,5,3,0,0,6,1,1
+86,Female,0,18,Diabetes Mellitus,Home,Other,18,0,0,0,2,1,2
+84,Male,1,12,Pneumonia,Skilled Nursing Facility,Other,14,3,1,1,6,4,2
+64,Male,0,9,Diabetes Mellitus,Inpatient Rehab,Medicaid,18,4,0,1,2,3,0
+19,Male,4,16,Other,Against Medical Advice,Medicare,1,4,1,1,5,0,1
+61,Female,1,18,Diabetes Mellitus,Home with Home Care,Medicare,7,0,0,0,2,2,1
+81,Male,4,16,Chronic Kidney Disease,Home,Medicaid,17,2,1,1,1,1,0
+45,Male,3,16,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,3,0,0,1,2,4,4
+71,Male,2,4,Other,Home,Medicare,10,2,0,1,5,1,1
+84,Female,2,7,COPD,Home with Home Care,Private,7,1,1,0,0,2,3
+53,Male,3,1,Pneumonia,Home,Medicare,12,4,0,1,6,1,1
+80,Male,3,20,Diabetes Mellitus,Home with Home Care,Other,15,4,1,1,2,2,2
+42,Female,2,1,Hypertension,Home,Medicaid,16,4,0,0,4,1,0
+65,Female,3,8,Heart Failure,Home,Private,8,2,1,0,3,1,3
+56,Female,3,8,Sepsis,Inpatient Rehab,Medicare,6,0,1,0,7,3,1
+64,Male,5,10,Heart Failure,Home,Private,4,2,1,1,3,1,3
+38,Male,0,1,Heart Failure,Home with Home Care,Medicare,11,4,0,1,3,2,1
+47,Female,1,14,Diabetes Mellitus,Home,Medicare,17,4,0,0,2,1,1
+48,Male,3,14,COPD,Home,Uninsured,2,4,1,1,0,1,4
+43,Female,3,10,Pneumonia,Home,Uninsured,6,4,1,0,6,1,4
+39,Female,1,19,Diabetes Mellitus,Home,Uninsured,4,1,0,0,2,1,4
+38,Male,0,16,Hypertension,Inpatient Rehab,Private,3,4,0,1,4,3,3
+18,Female,1,9,COPD,Home,Private,7,2,0,0,0,1,3
+54,Female,3,20,COPD,Against Medical Advice,Medicare,7,4,1,0,0,0,1
+63,Male,1,16,Chronic Kidney Disease,Home with Home Care,Medicare,16,3,0,1,1,2,1
+26,Female,4,20,Chronic Kidney Disease,Home,Medicare,2,1,0,0,1,1,1
+34,Male,1,8,Pneumonia,Home with Home Care,Private,8,4,0,1,6,2,3
+64,Male,1,7,Diabetes Mellitus,Home with Home Care,Medicaid,15,3,0,1,2,2,0
+76,Male,2,11,Heart Failure,Skilled Nursing Facility,Medicare,16,2,1,1,3,4,1
+71,Female,3,6,Sepsis,Home,Private,1,1,1,0,7,1,3
+29,Female,3,15,Other,Home,Private,10,4,1,0,5,1,3
+81,Female,1,19,Chronic Kidney Disease,Inpatient Rehab,Medicaid,7,2,1,0,1,3,0
+23,Male,3,14,Heart Failure,Inpatient Rehab,Medicare,16,3,1,1,3,3,1
+70,Female,2,15,Pneumonia,Inpatient Rehab,Medicare,10,1,0,0,6,3,1
+33,Male,3,6,Chronic Kidney Disease,Home,Medicare,12,4,1,1,1,1,1
+22,Female,3,10,Diabetes Mellitus,Skilled Nursing Facility,Medicare,17,2,1,0,2,4,1
+63,Male,3,14,Diabetes Mellitus,Home,Private,13,1,1,1,2,1,3
+31,Male,3,16,Hypertension,Home,Private,12,3,1,1,4,1,3
+61,Male,5,13,Pneumonia,Home,Private,15,4,1,1,6,1,3
+80,Female,5,11,Diabetes Mellitus,Home with Home Care,Medicaid,14,1,1,0,2,2,0
+69,Male,4,3,Heart Failure,Home,Private,19,3,1,1,3,1,3
+43,Female,1,8,Heart Failure,Home,Medicare,19,3,1,0,3,1,1
+70,Male,4,3,Hypertension,Inpatient Rehab,Medicaid,14,2,1,1,4,3,0
+46,Male,2,2,Diabetes Mellitus,Home,Private,18,3,0,1,2,1,3
+36,Male,1,14,Diabetes Mellitus,Home,Medicare,5,3,0,1,2,1,1
+64,Female,2,20,Hypertension,Home,Medicare,6,0,0,0,4,1,1
+25,Female,2,15,Diabetes Mellitus,Inpatient Rehab,Uninsured,18,3,0,0,2,3,4
+40,Male,7,3,Pneumonia,Home with Home Care,Medicare,14,4,1,1,6,2,1
+52,Male,4,1,Heart Failure,Home,Private,4,1,0,1,3,1,3
+70,Male,2,15,Diabetes Mellitus,Skilled Nursing Facility,Medicare,1,4,0,1,2,4,1
+75,Female,3,20,Heart Failure,Skilled Nursing Facility,Private,13,4,1,0,3,4,3
+22,Male,3,2,Hypertension,Home,Medicare,11,2,0,1,4,1,1
+33,Female,5,18,Sepsis,Home with Home Care,Medicare,3,0,1,0,7,2,1
+34,Female,4,1,Sepsis,Skilled Nursing Facility,Private,17,0,1,0,7,4,3
+49,Male,1,9,Chronic Kidney Disease,Home with Home Care,Medicare,18,4,0,1,1,2,1
+69,Female,2,3,Pneumonia,Home,Medicaid,10,1,0,0,6,1,0
+37,Female,2,2,Heart Failure,Inpatient Rehab,Medicare,16,0,0,0,3,3,1
+83,Female,3,4,Heart Failure,Home with Home Care,Medicare,13,0,1,0,3,2,1
+18,Male,3,16,Sepsis,Home,Medicare,12,4,1,1,7,1,1
+75,Male,6,1,Diabetes Mellitus,Home,Medicare,4,0,0,1,2,1,1
+61,Male,0,9,Diabetes Mellitus,Home,Uninsured,8,2,0,1,2,1,4
+23,Male,2,8,Heart Failure,Home,Medicare,12,4,1,1,3,1,1
+67,Male,2,6,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,19,0,0,1,2,4,0
+89,Male,2,20,Heart Failure,Home,Medicare,15,0,1,1,3,1,1
+37,Female,5,18,Pneumonia,Home,Medicare,16,0,0,0,6,1,1
+31,Male,0,16,Chronic Kidney Disease,Home with Home Care,Uninsured,12,4,1,1,1,2,4
+22,Male,2,8,Sepsis,Home,Medicare,18,1,0,1,7,1,1
+58,Male,1,4,Hypertension,Against Medical Advice,Other,12,3,0,1,4,0,2
+57,Female,4,3,Chronic Kidney Disease,Home,Medicare,16,0,0,0,1,1,1
+51,Female,1,15,Heart Failure,Home,Private,11,3,1,0,3,1,3
+62,Female,2,6,Chronic Kidney Disease,Home,Medicaid,14,3,0,0,1,1,0
+88,Male,1,1,Pneumonia,Home,Uninsured,2,0,0,1,6,1,4
+88,Other,4,18,Heart Failure,Home,Private,13,0,1,2,3,1,3
+44,Male,1,11,Pneumonia,Skilled Nursing Facility,Medicaid,14,3,0,1,6,4,0
+61,Male,2,3,Chronic Kidney Disease,Against Medical Advice,Medicare,6,1,0,1,1,0,1
+50,Male,4,13,Pneumonia,Home,Medicare,12,3,1,1,6,1,1
+50,Male,3,17,Chronic Kidney Disease,Home with Home Care,Uninsured,7,1,1,1,1,2,4
+61,Male,6,18,Heart Failure,Skilled Nursing Facility,Medicare,4,2,1,1,3,4,1
+37,Female,4,14,Other,Skilled Nursing Facility,Medicaid,7,1,0,0,5,4,0
+53,Female,0,7,Hypertension,Home,Private,13,4,0,0,4,1,3
+24,Male,1,7,Diabetes Mellitus,Home,Medicare,11,0,1,1,2,1,1
+49,Female,1,14,Sepsis,Home,Other,8,2,0,0,7,1,2
+84,Male,2,15,COPD,Skilled Nursing Facility,Private,19,3,1,1,0,4,3
+56,Male,0,12,Sepsis,Skilled Nursing Facility,Private,2,1,0,1,7,4,3
+41,Female,5,12,Hypertension,Home,Uninsured,18,2,1,0,4,1,4
+87,Female,5,8,Chronic Kidney Disease,Home,Medicare,10,4,1,0,1,1,1
+71,Male,6,16,Diabetes Mellitus,Inpatient Rehab,Medicare,6,1,0,1,2,3,1
+55,Male,0,9,Heart Failure,Skilled Nursing Facility,Medicaid,4,3,0,1,3,4,0
+49,Female,2,2,COPD,Against Medical Advice,Medicare,19,3,1,0,0,0,1
+62,Female,3,14,Pneumonia,Skilled Nursing Facility,Private,14,1,1,0,6,4,3
+78,Female,2,16,Heart Failure,Home,Uninsured,14,4,1,0,3,1,4
+87,Male,5,5,Diabetes Mellitus,Home with Home Care,Medicaid,18,0,1,1,2,2,0
+70,Male,3,5,Sepsis,Home with Home Care,Medicare,17,0,1,1,7,2,1
+68,Male,5,20,Other,Home,Other,18,3,1,1,5,1,2
+73,Male,2,18,COPD,Home with Home Care,Medicaid,18,4,1,1,0,2,0
+44,Female,1,18,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,5,3,0,0,2,4,0
+55,Male,4,5,Heart Failure,Home,Medicaid,9,0,0,1,3,1,0
+79,Male,1,11,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,1,3,0,1,2,4,4
+35,Female,3,13,Other,Home with Home Care,Private,4,1,0,0,5,2,3
+81,Female,0,3,Diabetes Mellitus,Against Medical Advice,Private,7,1,1,0,2,0,3
+47,Male,2,17,Pneumonia,Home,Private,11,4,1,1,6,1,3
+66,Female,1,18,Heart Failure,Home,Medicare,14,0,1,0,3,1,1
+58,Female,6,14,Pneumonia,Home with Home Care,Medicaid,10,4,1,0,6,2,0
+30,Female,2,12,Pneumonia,Home,Private,19,4,0,0,6,1,3
+51,Male,3,14,Hypertension,Skilled Nursing Facility,Medicaid,8,0,0,1,4,4,0
+42,Female,3,18,Heart Failure,Skilled Nursing Facility,Private,3,2,1,0,3,4,3
+83,Female,0,20,Diabetes Mellitus,Home,Uninsured,8,2,0,0,2,1,4
+35,Male,0,2,Diabetes Mellitus,Home with Home Care,Private,18,3,0,1,2,2,3
+22,Male,1,7,Other,Home with Home Care,Private,5,2,0,1,5,2,3
+36,Female,0,15,Sepsis,Home,Private,11,1,1,0,7,1,3
+59,Male,2,10,Pneumonia,Inpatient Rehab,Private,9,4,0,1,6,3,3
+35,Female,2,15,Pneumonia,Skilled Nursing Facility,Medicaid,19,3,0,0,6,4,0
+49,Male,5,17,Pneumonia,Home with Home Care,Medicare,12,4,1,1,6,2,1
+38,Male,1,11,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,5,0,0,1,2,4,0
+27,Male,3,2,Other,Home,Private,16,2,0,1,5,1,3
+54,Female,1,18,Chronic Kidney Disease,Inpatient Rehab,Medicaid,13,0,0,0,1,3,0
+66,Male,5,4,Chronic Kidney Disease,Home with Home Care,Private,6,3,1,1,1,2,3
+30,Female,0,9,COPD,Skilled Nursing Facility,Medicaid,16,1,1,0,0,4,0
+72,Female,2,17,Diabetes Mellitus,Inpatient Rehab,Private,18,2,1,0,2,3,3
+34,Female,1,17,Diabetes Mellitus,Home,Medicare,17,0,0,0,2,1,1
+26,Female,2,17,Hypertension,Skilled Nursing Facility,Private,12,2,0,0,4,4,3
+61,Female,2,16,Diabetes Mellitus,Home,Medicaid,1,4,0,0,2,1,0
+63,Male,1,20,Pneumonia,Home,Medicare,7,1,0,1,6,1,1
+25,Female,1,8,Heart Failure,Home,Medicare,14,2,0,0,3,1,1
+54,Female,4,15,Chronic Kidney Disease,Against Medical Advice,Private,18,1,1,0,1,0,3
+36,Male,4,1,Heart Failure,Inpatient Rehab,Medicaid,1,4,1,1,3,3,0
+80,Male,2,19,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,10,4,1,1,1,4,1
+63,Female,0,15,Hypertension,Skilled Nursing Facility,Other,15,0,0,0,4,4,2
+88,Male,1,9,Heart Failure,Home with Home Care,Private,11,3,1,1,3,2,3
+43,Female,6,5,Pneumonia,Inpatient Rehab,Other,4,0,0,0,6,3,2
+63,Male,1,16,COPD,Home,Medicaid,15,1,1,1,0,1,0
+63,Male,5,13,Pneumonia,Home,Medicaid,16,0,0,1,6,1,0
+31,Female,1,16,Other,Home,Uninsured,15,2,0,0,5,1,4
+80,Male,5,11,Hypertension,Skilled Nursing Facility,Medicaid,17,0,1,1,4,4,0
+89,Male,3,13,Heart Failure,Skilled Nursing Facility,Private,11,3,1,1,3,4,3
+20,Female,1,6,Diabetes Mellitus,Home,Medicare,18,3,0,0,2,1,1
+45,Male,1,20,Heart Failure,Home,Medicaid,16,1,1,1,3,1,0
+46,Female,3,17,Pneumonia,Skilled Nursing Facility,Medicare,15,4,1,0,6,4,1
+35,Female,5,5,Diabetes Mellitus,Home,Medicare,11,3,0,0,2,1,1
+52,Female,2,17,COPD,Skilled Nursing Facility,Medicare,13,1,1,0,0,4,1
+64,Male,1,1,Pneumonia,Against Medical Advice,Medicare,18,3,1,1,6,0,1
+22,Male,0,5,Chronic Kidney Disease,Home,Other,8,3,0,1,1,1,2
+76,Female,2,5,Hypertension,Home,Medicare,9,4,1,0,4,1,1
+76,Female,6,7,Diabetes Mellitus,Skilled Nursing Facility,Private,11,2,1,0,2,4,3
+64,Female,1,16,Diabetes Mellitus,Skilled Nursing Facility,Private,17,1,0,0,2,4,3
+30,Female,4,18,Hypertension,Home with Home Care,Private,1,3,1,0,4,2,3
+50,Male,4,6,COPD,Against Medical Advice,Medicare,11,3,1,1,0,0,1
+79,Male,1,2,Hypertension,Home,Private,7,0,0,1,4,1,3
+33,Male,1,13,Chronic Kidney Disease,Home with Home Care,Private,8,2,0,1,1,2,3
+61,Male,1,10,Heart Failure,Skilled Nursing Facility,Private,19,4,1,1,3,4,3
+75,Male,2,20,Hypertension,Inpatient Rehab,Private,4,1,0,1,4,3,3
+23,Female,4,11,Hypertension,Home,Other,4,3,1,0,4,1,2
+32,Male,4,2,Hypertension,Skilled Nursing Facility,Private,19,1,0,1,4,4,3
+21,Male,2,8,Heart Failure,Home with Home Care,Medicare,9,4,1,1,3,2,1
+73,Male,3,19,Pneumonia,Home,Private,17,2,1,1,6,1,3
+81,Female,2,20,Chronic Kidney Disease,Home,Medicare,18,0,0,0,1,1,1
+85,Female,2,17,Diabetes Mellitus,Inpatient Rehab,Uninsured,1,2,1,0,2,3,4
+51,Female,4,16,Other,Home,Medicare,14,0,1,0,5,1,1
+73,Female,1,10,Diabetes Mellitus,Home,Medicare,4,1,0,0,2,1,1
+49,Male,1,5,Other,Home,Private,10,2,0,1,5,1,3
+26,Female,1,14,Chronic Kidney Disease,Inpatient Rehab,Private,14,2,0,0,1,3,3
+80,Male,3,19,Heart Failure,Home with Home Care,Medicaid,7,2,1,1,3,2,0
+89,Male,2,4,COPD,Skilled Nursing Facility,Medicaid,12,4,1,1,0,4,0
+50,Female,6,20,Sepsis,Home,Uninsured,16,1,1,0,7,1,4
+38,Female,2,16,Hypertension,Home with Home Care,Medicare,5,0,0,0,4,2,1
+72,Male,2,15,Hypertension,Home with Home Care,Uninsured,11,2,1,1,4,2,4
+74,Male,3,9,Pneumonia,Skilled Nursing Facility,Medicare,4,1,1,1,6,4,1
+19,Female,3,3,Hypertension,Inpatient Rehab,Private,13,4,1,0,4,3,3
+30,Male,1,9,Sepsis,Home,Private,8,4,0,1,7,1,3
+21,Male,2,18,Heart Failure,Home with Home Care,Medicare,7,1,0,1,3,2,1
+67,Male,2,4,COPD,Home,Medicaid,11,0,1,1,0,1,0
+65,Male,5,19,Heart Failure,Home with Home Care,Medicare,11,1,1,1,3,2,1
+47,Female,3,4,Other,Home,Private,17,1,0,0,5,1,3
+46,Male,3,9,Other,Home,Medicaid,14,3,1,1,5,1,0
+25,Male,2,1,Diabetes Mellitus,Home,Private,2,4,0,1,2,1,3
+29,Female,4,1,Hypertension,Home with Home Care,Medicare,8,0,0,0,4,2,1
+58,Female,0,20,Other,Home,Medicare,2,3,0,0,5,1,1
+43,Male,1,19,Heart Failure,Skilled Nursing Facility,Medicare,15,1,0,1,3,4,1
+67,Male,3,3,Pneumonia,Home,Medicare,5,4,1,1,6,1,1
+19,Male,2,10,Other,Home,Private,6,3,0,1,5,1,3
+72,Female,2,12,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,17,3,1,0,2,4,4
+73,Female,4,18,Hypertension,Home,Private,8,0,1,0,4,1,3
+31,Female,0,14,Heart Failure,Home,Medicaid,19,1,0,0,3,1,0
+23,Female,6,10,Other,Home with Home Care,Other,5,0,0,0,5,2,2
+78,Female,1,10,Other,Home,Private,19,3,1,0,5,1,3
+29,Female,3,18,Other,Home,Uninsured,14,3,1,0,5,1,4
+30,Female,2,1,COPD,Home,Medicaid,10,0,0,0,0,1,0
+36,Male,1,15,Sepsis,Inpatient Rehab,Medicare,13,3,0,1,7,3,1
+61,Other,1,8,Sepsis,Home with Home Care,Medicare,5,2,0,2,7,2,1
+76,Male,1,3,Heart Failure,Home with Home Care,Private,7,4,0,1,3,2,3
+54,Male,2,18,Hypertension,Home with Home Care,Medicare,10,1,0,1,4,2,1
+42,Female,0,9,Diabetes Mellitus,Home,Medicare,11,4,0,0,2,1,1
+33,Male,0,16,Pneumonia,Home,Medicaid,3,1,0,1,6,1,0
+55,Female,4,15,Heart Failure,Skilled Nursing Facility,Private,13,3,1,0,3,4,3
+60,Female,3,5,Diabetes Mellitus,Home,Private,2,0,0,0,2,1,3
+31,Male,2,13,Diabetes Mellitus,Home,Medicare,4,0,0,1,2,1,1
+23,Female,0,20,Hypertension,Home,Medicaid,3,3,0,0,4,1,0
+40,Male,2,7,Chronic Kidney Disease,Home,Private,15,1,0,1,1,1,3
+77,Male,0,16,Hypertension,Against Medical Advice,Other,4,3,1,1,4,0,2
+29,Female,6,7,Diabetes Mellitus,Home,Private,4,1,1,0,2,1,3
+30,Female,4,16,Heart Failure,Home with Home Care,Uninsured,15,3,1,0,3,2,4
+23,Female,1,13,COPD,Home,Private,6,3,0,0,0,1,3
+80,Male,3,17,Hypertension,Against Medical Advice,Private,5,3,1,1,4,0,3
+55,Female,5,9,Heart Failure,Home,Medicare,12,0,1,0,3,1,1
+67,Male,5,12,Pneumonia,Home,Private,7,1,1,1,6,1,3
+69,Female,3,13,Sepsis,Skilled Nursing Facility,Private,3,3,1,0,7,4,3
+57,Male,3,9,Pneumonia,Skilled Nursing Facility,Private,7,4,1,1,6,4,3
+25,Female,1,5,Heart Failure,Home,Medicaid,12,4,0,0,3,1,0
+78,Male,2,7,Diabetes Mellitus,Home,Medicaid,15,0,0,1,2,1,0
+25,Male,2,1,Sepsis,Home,Medicare,19,2,0,1,7,1,1
+51,Female,5,4,Diabetes Mellitus,Home,Medicaid,6,0,0,0,2,1,0
+77,Female,1,4,Sepsis,Home,Medicare,8,2,0,0,7,1,1
+74,Female,2,16,COPD,Home,Private,6,0,1,0,0,1,3
+63,Female,1,5,Other,Home,Medicare,3,4,0,0,5,1,1
+39,Female,1,4,Hypertension,Home,Medicare,5,3,0,0,4,1,1
+57,Female,3,6,Other,Home with Home Care,Medicaid,9,1,0,0,5,2,0
+62,Male,1,3,Chronic Kidney Disease,Against Medical Advice,Private,16,3,1,1,1,0,3
+72,Female,4,8,Hypertension,Home with Home Care,Medicaid,16,4,1,0,4,2,0
+68,Male,2,17,Chronic Kidney Disease,Home,Medicare,9,1,0,1,1,1,1
+22,Female,3,18,COPD,Home,Private,18,2,1,0,0,1,3
+30,Female,2,18,Pneumonia,Against Medical Advice,Medicare,13,2,1,0,6,0,1
+45,Female,3,12,Sepsis,Home,Uninsured,11,4,1,0,7,1,4
+79,Female,0,1,Other,Home,Uninsured,10,1,0,0,5,1,4
+41,Female,2,12,Hypertension,Home with Home Care,Medicaid,10,3,0,0,4,2,0
+24,Female,3,11,Chronic Kidney Disease,Home with Home Care,Medicare,6,4,1,0,1,2,1
+55,Male,3,13,Chronic Kidney Disease,Home with Home Care,Private,16,2,1,1,1,2,3
+54,Female,3,3,Hypertension,Home,Medicare,12,4,1,0,4,1,1
+85,Male,2,8,Heart Failure,Home,Medicaid,4,3,1,1,3,1,0
+59,Female,2,3,Diabetes Mellitus,Against Medical Advice,Medicare,5,0,0,0,2,0,1
+22,Male,4,17,Chronic Kidney Disease,Home,Uninsured,2,0,0,1,1,1,4
+81,Male,3,13,Heart Failure,Home with Home Care,Medicare,19,3,1,1,3,2,1
+67,Male,2,10,Heart Failure,Skilled Nursing Facility,Private,1,1,1,1,3,4,3
+32,Male,5,17,Heart Failure,Home with Home Care,Private,4,4,1,1,3,2,3
+70,Female,3,3,Diabetes Mellitus,Home,Medicaid,12,3,1,0,2,1,0
+42,Male,2,13,Diabetes Mellitus,Home,Medicare,2,0,0,1,2,1,1
+26,Female,3,6,Other,Home with Home Care,Other,12,2,1,0,5,2,2
+55,Male,2,14,Chronic Kidney Disease,Inpatient Rehab,Medicaid,16,3,0,1,1,3,0
+39,Female,1,10,Chronic Kidney Disease,Inpatient Rehab,Private,2,3,0,0,1,3,3
+66,Female,1,20,Hypertension,Home,Medicare,17,3,1,0,4,1,1
+85,Female,3,16,Heart Failure,Home,Medicaid,2,0,1,0,3,1,0
+32,Female,2,18,Other,Inpatient Rehab,Medicaid,4,0,0,0,5,3,0
+82,Male,3,13,Hypertension,Skilled Nursing Facility,Medicare,6,3,1,1,4,4,1
+71,Female,4,10,Diabetes Mellitus,Inpatient Rehab,Medicare,7,3,1,0,2,3,1
+47,Male,3,6,Chronic Kidney Disease,Home,Private,15,1,0,1,1,1,3
+37,Female,1,10,Sepsis,Home with Home Care,Medicare,12,2,1,0,7,2,1
+50,Female,2,5,Other,Skilled Nursing Facility,Medicare,5,4,0,0,5,4,1
+24,Male,2,6,COPD,Home with Home Care,Medicaid,14,4,0,1,0,2,0
+25,Female,1,7,Pneumonia,Home,Private,16,4,0,0,6,1,3
+45,Female,4,11,Diabetes Mellitus,Home,Medicare,11,0,0,0,2,1,1
+62,Male,2,16,Other,Home with Home Care,Private,12,0,0,1,5,2,3
+28,Male,2,12,Heart Failure,Home,Medicare,19,1,1,1,3,1,1
+48,Male,2,12,Other,Home,Medicare,17,0,0,1,5,1,1
+29,Female,1,20,Pneumonia,Against Medical Advice,Medicare,7,3,0,0,6,0,1
+68,Female,2,5,Pneumonia,Home,Private,9,2,0,0,6,1,3
+61,Male,3,16,COPD,Skilled Nursing Facility,Medicare,14,2,1,1,0,4,1
+67,Male,2,6,Heart Failure,Home,Medicare,12,2,1,1,3,1,1
+34,Female,1,9,Diabetes Mellitus,Home with Home Care,Medicaid,15,2,0,0,2,2,0
+52,Female,0,5,Heart Failure,Against Medical Advice,Private,12,4,1,0,3,0,3
+18,Male,3,16,Heart Failure,Home,Medicare,13,4,1,1,3,1,1
+46,Male,3,18,Hypertension,Home,Medicaid,9,3,0,1,4,1,0
+68,Female,3,19,Chronic Kidney Disease,Home,Medicare,7,1,1,0,1,1,1
+81,Male,2,12,Diabetes Mellitus,Home,Medicaid,1,0,0,1,2,1,0
+21,Male,5,2,Other,Skilled Nursing Facility,Private,10,0,0,1,5,4,3
+45,Female,4,10,Sepsis,Inpatient Rehab,Private,6,4,1,0,7,3,3
+33,Female,4,12,Other,Home,Medicare,15,2,1,0,5,1,1
+80,Male,1,14,Other,Home,Medicare,15,3,1,1,5,1,1
+70,Male,4,18,Diabetes Mellitus,Home,Medicare,9,1,1,1,2,1,1
+34,Male,1,19,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,13,4,1,1,1,4,0
+57,Male,3,6,Hypertension,Home,Medicare,1,3,0,1,4,1,1
+30,Female,3,5,Hypertension,Home with Home Care,Private,9,3,0,0,4,2,3
+69,Male,3,16,Diabetes Mellitus,Home with Home Care,Other,3,4,1,1,2,2,2
+75,Female,1,14,Hypertension,Home with Home Care,Other,9,3,1,0,4,2,2
+54,Female,4,13,Heart Failure,Home,Uninsured,15,2,1,0,3,1,4
+78,Male,6,2,Heart Failure,Skilled Nursing Facility,Private,7,3,1,1,3,4,3
+51,Male,4,2,COPD,Home,Private,4,1,0,1,0,1,3
+87,Female,0,12,Pneumonia,Home,Medicare,17,3,1,0,6,1,1
+34,Female,2,1,Pneumonia,Inpatient Rehab,Private,4,0,0,0,6,3,3
+37,Female,1,19,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,19,3,0,0,2,4,0
+76,Male,1,16,Sepsis,Home,Medicaid,5,4,1,1,7,1,0
+86,Female,3,7,Heart Failure,Home,Private,16,0,1,0,3,1,3
+50,Female,2,7,Diabetes Mellitus,Home,Medicare,3,4,0,0,2,1,1
+34,Female,4,16,Sepsis,Home,Medicare,11,1,1,0,7,1,1
+74,Male,2,6,Other,Home,Uninsured,15,2,0,1,5,1,4
+18,Female,1,18,Sepsis,Home,Medicare,19,1,0,0,7,1,1
+30,Female,3,1,Hypertension,Home,Medicaid,14,0,0,0,4,1,0
+44,Male,2,1,Pneumonia,Skilled Nursing Facility,Uninsured,16,2,0,1,6,4,4
+87,Female,5,14,Pneumonia,Home with Home Care,Private,6,3,1,0,6,2,3
+76,Male,1,6,Diabetes Mellitus,Home with Home Care,Medicaid,5,0,0,1,2,2,0
+23,Male,4,6,Chronic Kidney Disease,Home,Medicare,17,2,0,1,1,1,1
+40,Male,4,4,Chronic Kidney Disease,Against Medical Advice,Medicare,16,4,1,1,1,0,1
+27,Female,0,12,Heart Failure,Skilled Nursing Facility,Uninsured,2,2,0,0,3,4,4
+68,Male,2,18,Hypertension,Skilled Nursing Facility,Private,11,4,1,1,4,4,3
+36,Male,4,10,COPD,Skilled Nursing Facility,Medicaid,4,4,1,1,0,4,0
+68,Female,0,3,Diabetes Mellitus,Inpatient Rehab,Medicare,6,2,0,0,2,3,1
+85,Male,1,3,Heart Failure,Home with Home Care,Medicare,7,1,0,1,3,2,1
+59,Female,1,8,Hypertension,Home,Other,17,1,0,0,4,1,2
+74,Female,3,1,Diabetes Mellitus,Home with Home Care,Medicaid,8,4,0,0,2,2,0
+85,Female,1,18,Sepsis,Skilled Nursing Facility,Private,1,0,1,0,7,4,3
+55,Female,1,15,COPD,Skilled Nursing Facility,Medicare,15,2,1,0,0,4,1
+79,Female,3,20,COPD,Home with Home Care,Private,12,0,1,0,0,2,3
+24,Male,3,17,Pneumonia,Home,Uninsured,15,1,1,1,6,1,4
+88,Female,7,11,Hypertension,Home,Private,15,0,1,0,4,1,3
+67,Male,2,13,Chronic Kidney Disease,Inpatient Rehab,Medicare,9,3,1,1,1,3,1
+69,Female,2,20,Hypertension,Home with Home Care,Private,16,3,1,0,4,2,3
+43,Male,2,10,Pneumonia,Home with Home Care,Private,2,1,0,1,6,2,3
+43,Female,3,13,Heart Failure,Home,Medicaid,15,0,1,0,3,1,0
+36,Female,9,17,Sepsis,Home,Uninsured,15,2,1,0,7,1,4
+26,Female,3,1,Hypertension,Inpatient Rehab,Private,7,1,0,0,4,3,3
+78,Male,2,20,Pneumonia,Home with Home Care,Uninsured,13,3,1,1,6,2,4
+37,Male,2,16,Sepsis,Skilled Nursing Facility,Private,17,1,1,1,7,4,3
+67,Female,1,16,Sepsis,Home,Medicare,11,0,1,0,7,1,1
+39,Female,2,3,Hypertension,Home with Home Care,Medicare,10,0,0,0,4,2,1
+30,Male,2,2,Sepsis,Home,Medicare,1,0,0,1,7,1,1
+29,Female,1,6,Hypertension,Skilled Nursing Facility,Uninsured,14,4,0,0,4,4,4
+27,Female,3,11,Hypertension,Home,Private,5,0,0,0,4,1,3
+82,Male,1,3,Pneumonia,Home,Private,8,3,0,1,6,1,3
+47,Female,0,1,Hypertension,Home with Home Care,Medicare,1,3,0,0,4,2,1
+25,Female,2,11,Diabetes Mellitus,Inpatient Rehab,Medicare,7,4,0,0,2,3,1
+38,Male,6,13,Sepsis,Home,Private,2,3,1,1,7,1,3
+39,Male,2,5,Sepsis,Skilled Nursing Facility,Medicaid,7,3,0,1,7,4,0
+35,Female,1,18,Diabetes Mellitus,Home,Medicare,7,1,0,0,2,1,1
+83,Female,1,15,Hypertension,Home,Private,9,0,1,0,4,1,3
+65,Male,3,18,Diabetes Mellitus,Home,Medicare,4,1,1,1,2,1,1
+61,Female,1,15,Chronic Kidney Disease,Home,Medicare,7,1,0,0,1,1,1
+26,Female,2,20,Hypertension,Home with Home Care,Medicaid,18,3,0,0,4,2,0
+84,Female,1,20,Diabetes Mellitus,Home,Medicare,13,2,1,0,2,1,1
+71,Male,3,20,Hypertension,Home,Other,11,0,1,1,4,1,2
+43,Female,2,7,Sepsis,Inpatient Rehab,Medicare,9,2,1,0,7,3,1
+43,Male,4,17,COPD,Home,Medicare,14,3,1,1,0,1,1
+51,Male,3,8,Diabetes Mellitus,Skilled Nursing Facility,Medicare,8,4,1,1,2,4,1
+25,Male,2,13,Heart Failure,Home,Private,14,1,1,1,3,1,3
+27,Female,4,16,Pneumonia,Home with Home Care,Medicaid,17,3,1,0,6,2,0
+65,Female,2,10,Other,Home,Private,14,3,1,0,5,1,3
+72,Male,3,14,Pneumonia,Home,Medicare,5,2,1,1,6,1,1
+71,Female,4,6,Heart Failure,Home,Medicare,10,4,1,0,3,1,1
+57,Male,4,20,Pneumonia,Home,Medicaid,6,1,0,1,6,1,0
+32,Male,2,7,COPD,Home,Private,10,4,1,1,0,1,3
+35,Other,4,6,Hypertension,Home with Home Care,Uninsured,11,4,1,2,4,2,4
+40,Female,1,17,Diabetes Mellitus,Inpatient Rehab,Medicare,6,4,0,0,2,3,1
+79,Male,3,8,Hypertension,Skilled Nursing Facility,Medicaid,10,0,1,1,4,4,0
+63,Female,7,12,COPD,Home with Home Care,Uninsured,14,4,1,0,0,2,4
+56,Male,1,4,Other,Home,Medicaid,3,3,0,1,5,1,0
+32,Male,1,10,Chronic Kidney Disease,Home,Private,7,0,0,1,1,1,3
+70,Female,2,6,Pneumonia,Home,Medicare,2,0,0,0,6,1,1
+81,Female,0,7,Other,Home,Uninsured,7,4,1,0,5,1,4
+80,Male,4,8,Diabetes Mellitus,Home with Home Care,Private,17,3,1,1,2,2,3
+33,Female,3,3,Other,Home with Home Care,Uninsured,13,1,0,0,5,2,4
+87,Female,3,8,Hypertension,Home,Private,9,4,1,0,4,1,3
+83,Male,1,15,Diabetes Mellitus,Home,Medicaid,13,0,0,1,2,1,0
+30,Female,1,1,Heart Failure,Skilled Nursing Facility,Uninsured,15,1,0,0,3,4,4
+64,Female,1,13,Hypertension,Skilled Nursing Facility,Medicare,13,1,0,0,4,4,1
+26,Female,8,18,Diabetes Mellitus,Home,Medicare,17,0,0,0,2,1,1
+80,Female,0,15,Pneumonia,Inpatient Rehab,Private,8,1,1,0,6,3,3
+51,Female,3,7,Chronic Kidney Disease,Against Medical Advice,Private,9,3,1,0,1,0,3
+46,Male,2,15,Pneumonia,Home,Uninsured,9,3,0,1,6,1,4
+54,Female,6,3,Diabetes Mellitus,Home,Medicare,8,4,0,0,2,1,1
+60,Female,4,14,Sepsis,Home with Home Care,Private,16,4,1,0,7,2,3
+81,Male,2,20,Other,Inpatient Rehab,Private,7,1,0,1,5,3,3
+41,Female,1,4,Other,Inpatient Rehab,Medicare,17,0,0,0,5,3,1
+88,Female,2,4,Hypertension,Home,Medicaid,7,3,0,0,4,1,0
+51,Female,2,3,Diabetes Mellitus,Home,Medicare,6,2,0,0,2,1,1
+65,Male,1,5,Hypertension,Home with Home Care,Medicare,5,4,1,1,4,2,1
+29,Male,1,11,Diabetes Mellitus,Home with Home Care,Other,17,3,0,1,2,2,2
+40,Female,2,8,Diabetes Mellitus,Home,Private,8,1,0,0,2,1,3
+30,Male,4,2,Heart Failure,Inpatient Rehab,Private,1,3,0,1,3,3,3
+62,Female,1,16,COPD,Home with Home Care,Other,16,3,1,0,0,2,2
+82,Male,1,10,Hypertension,Skilled Nursing Facility,Medicaid,17,1,0,1,4,4,0
+64,Male,4,18,Hypertension,Inpatient Rehab,Private,3,4,1,1,4,3,3
+75,Male,5,7,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,13,4,1,1,1,4,0
+22,Male,1,5,Heart Failure,Home,Uninsured,8,2,0,1,3,1,4
+22,Female,1,7,Other,Home with Home Care,Medicare,16,2,0,0,5,2,1
+77,Male,3,6,Chronic Kidney Disease,Home,Uninsured,7,4,1,1,1,1,4
+38,Male,1,1,COPD,Home with Home Care,Medicare,15,4,0,1,0,2,1
+41,Male,3,11,Diabetes Mellitus,Home,Medicare,2,4,1,1,2,1,1
+35,Female,0,13,Hypertension,Home with Home Care,Private,2,4,0,0,4,2,3
+38,Male,1,12,Hypertension,Home,Medicaid,10,3,0,1,4,1,0
+71,Female,4,1,Heart Failure,Home,Private,5,2,1,0,3,1,3
+27,Female,2,15,Diabetes Mellitus,Home,Medicaid,4,1,0,0,2,1,0
+41,Female,1,1,Hypertension,Home,Private,15,0,0,0,4,1,3
+77,Female,2,3,Pneumonia,Skilled Nursing Facility,Medicare,13,1,0,0,6,4,1
+74,Female,1,15,Heart Failure,Skilled Nursing Facility,Medicare,17,0,1,0,3,4,1
+40,Female,0,9,Other,Home with Home Care,Medicare,1,3,0,0,5,2,1
+39,Male,2,14,Diabetes Mellitus,Home,Medicaid,18,2,0,1,2,1,0
+85,Male,4,8,Chronic Kidney Disease,Home,Medicare,15,0,1,1,1,1,1
+51,Male,7,4,Other,Home,Medicaid,14,4,0,1,5,1,0
+87,Female,5,20,Chronic Kidney Disease,Home,Medicaid,9,3,1,0,1,1,0
+45,Other,2,20,Pneumonia,Inpatient Rehab,Medicare,12,0,0,2,6,3,1
+56,Female,2,6,Chronic Kidney Disease,Home,Private,5,4,0,0,1,1,3
+59,Male,2,1,Heart Failure,Home,Uninsured,2,3,0,1,3,1,4
+40,Female,2,18,Other,Home,Medicare,7,0,0,0,5,1,1
+87,Male,3,6,Chronic Kidney Disease,Home,Private,9,4,1,1,1,1,3
+19,Male,3,14,Sepsis,Home with Home Care,Private,18,2,1,1,7,2,3
+41,Male,5,11,Heart Failure,Home with Home Care,Medicaid,4,3,1,1,3,2,0
+34,Male,7,17,Heart Failure,Home,Private,2,0,1,1,3,1,3
+82,Female,2,9,Diabetes Mellitus,Home,Medicaid,1,4,1,0,2,1,0
+87,Male,3,7,Pneumonia,Home,Medicaid,12,2,1,1,6,1,0
+86,Male,3,14,Chronic Kidney Disease,Home,Medicare,13,4,1,1,1,1,1
+77,Female,2,17,Sepsis,Home,Private,14,2,1,0,7,1,3
+67,Female,0,8,COPD,Against Medical Advice,Private,5,0,1,0,0,0,3
+29,Female,1,16,Other,Home with Home Care,Medicare,3,4,0,0,5,2,1
+64,Male,3,12,Heart Failure,Home with Home Care,Medicaid,4,4,1,1,3,2,0
+84,Female,3,12,Sepsis,Home,Other,17,1,1,0,7,1,2
+82,Female,2,5,Hypertension,Home,Medicaid,19,3,1,0,4,1,0
+44,Male,3,5,Hypertension,Home with Home Care,Medicaid,11,4,1,1,4,2,0
+65,Female,2,14,Sepsis,Home with Home Care,Uninsured,8,2,1,0,7,2,4
+79,Male,4,6,Hypertension,Skilled Nursing Facility,Private,12,3,1,1,4,4,3
+61,Male,4,7,Pneumonia,Home,Private,18,0,0,1,6,1,3
+36,Female,1,17,Diabetes Mellitus,Home with Home Care,Private,18,3,1,0,2,2,3
+76,Female,3,9,Diabetes Mellitus,Home,Uninsured,9,1,1,0,2,1,4
+25,Male,5,13,Other,Inpatient Rehab,Medicaid,5,0,0,1,5,3,0
+72,Female,1,9,Pneumonia,Home with Home Care,Medicaid,17,4,1,0,6,2,0
+64,Female,1,16,Hypertension,Home with Home Care,Medicaid,13,0,0,0,4,2,0
+19,Female,2,4,COPD,Home,Other,6,0,0,0,0,1,2
+56,Male,2,2,Diabetes Mellitus,Home with Home Care,Private,14,1,0,1,2,2,3
+62,Female,1,13,Diabetes Mellitus,Home,Medicare,15,2,0,0,2,1,1
+49,Male,6,13,Hypertension,Home,Uninsured,14,0,1,1,4,1,4
+82,Female,1,19,Chronic Kidney Disease,Home,Medicaid,4,2,0,0,1,1,0
+55,Male,3,12,Heart Failure,Home with Home Care,Medicare,18,3,1,1,3,2,1
+28,Male,3,4,COPD,Home,Medicaid,1,1,0,1,0,1,0
+27,Female,2,10,Diabetes Mellitus,Home,Medicaid,12,4,1,0,2,1,0
+76,Male,2,16,Pneumonia,Inpatient Rehab,Uninsured,9,0,0,1,6,3,4
+72,Male,0,19,Heart Failure,Home,Medicare,10,2,1,1,3,1,1
+37,Male,3,8,Hypertension,Home with Home Care,Private,18,0,0,1,4,2,3
+34,Female,6,6,Heart Failure,Home,Private,17,1,0,0,3,1,3
+85,Male,2,4,COPD,Home,Medicare,19,4,1,1,0,1,1
+22,Female,0,7,Diabetes Mellitus,Skilled Nursing Facility,Other,4,3,0,0,2,4,2
+77,Male,4,14,Diabetes Mellitus,Home,Medicaid,16,3,1,1,2,1,0
+40,Male,0,13,Chronic Kidney Disease,Home,Medicare,7,2,0,1,1,1,1
+63,Male,1,5,COPD,Home with Home Care,Medicaid,9,3,0,1,0,2,0
+69,Female,4,9,Pneumonia,Home with Home Care,Uninsured,8,2,1,0,6,2,4
+27,Male,3,3,Heart Failure,Home with Home Care,Medicare,7,4,1,1,3,2,1
+63,Male,0,10,Hypertension,Home,Medicare,10,0,0,1,4,1,1
+45,Female,1,15,Sepsis,Home,Medicare,8,1,0,0,7,1,1
+60,Female,6,20,Hypertension,Skilled Nursing Facility,Medicare,17,4,1,0,4,4,1
+43,Male,2,17,Diabetes Mellitus,Home with Home Care,Private,12,4,0,1,2,2,3
+72,Male,4,6,COPD,Skilled Nursing Facility,Medicaid,14,3,1,1,0,4,0
+65,Female,0,3,Diabetes Mellitus,Skilled Nursing Facility,Medicare,12,3,0,0,2,4,1
+46,Male,3,18,Heart Failure,Skilled Nursing Facility,Medicare,2,1,1,1,3,4,1
+44,Male,5,5,Other,Home,Medicare,12,0,0,1,5,1,1
+35,Female,2,13,Diabetes Mellitus,Home,Uninsured,14,4,0,0,2,1,4
+77,Female,5,1,COPD,Skilled Nursing Facility,Medicare,7,3,1,0,0,4,1
+86,Female,1,17,Pneumonia,Home,Other,13,4,1,0,6,1,2
+38,Male,3,3,Hypertension,Home,Medicaid,4,0,0,1,4,1,0
+41,Male,1,19,Pneumonia,Inpatient Rehab,Medicare,1,2,0,1,6,3,1
+20,Female,1,20,Diabetes Mellitus,Inpatient Rehab,Uninsured,17,0,0,0,2,3,4
+79,Male,2,12,Heart Failure,Home,Medicaid,3,4,1,1,3,1,0
+19,Female,5,8,COPD,Home,Private,17,4,1,0,0,1,3
+83,Female,1,8,Diabetes Mellitus,Home,Other,8,1,1,0,2,1,2
+59,Male,4,15,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,3,4,1,1,1,4,1
+51,Female,1,11,Diabetes Mellitus,Inpatient Rehab,Medicare,10,3,0,0,2,3,1
+59,Female,3,20,Diabetes Mellitus,Home,Private,2,1,0,0,2,1,3
+37,Female,2,1,Chronic Kidney Disease,Home,Medicare,4,4,0,0,1,1,1
+85,Male,1,16,Diabetes Mellitus,Inpatient Rehab,Medicare,14,0,1,1,2,3,1
+62,Male,2,14,Pneumonia,Home,Medicare,11,4,0,1,6,1,1
+59,Female,1,7,Hypertension,Home with Home Care,Medicare,14,0,0,0,4,2,1
+64,Male,1,6,Hypertension,Against Medical Advice,Private,13,0,0,1,4,0,3
+22,Other,2,4,Heart Failure,Home,Medicare,4,4,0,2,3,1,1
+66,Male,3,8,Diabetes Mellitus,Home with Home Care,Medicaid,2,0,1,1,2,2,0
+54,Female,0,19,Diabetes Mellitus,Home,Private,2,2,0,0,2,1,3
+51,Male,1,3,Pneumonia,Home,Medicaid,11,1,0,1,6,1,0
+87,Female,1,4,Hypertension,Skilled Nursing Facility,Medicare,5,4,0,0,4,4,1
+35,Male,5,13,Diabetes Mellitus,Home,Private,9,2,0,1,2,1,3
+36,Male,1,2,Other,Against Medical Advice,Medicare,17,0,0,1,5,0,1
+57,Male,1,11,Diabetes Mellitus,Home with Home Care,Private,12,0,0,1,2,2,3
+34,Female,1,16,COPD,Home,Uninsured,18,1,0,0,0,1,4
+77,Male,4,10,Hypertension,Home,Medicaid,3,2,1,1,4,1,0
+59,Female,2,15,Sepsis,Home,Medicaid,5,2,0,0,7,1,0
+89,Female,3,10,Hypertension,Home,Medicaid,14,4,1,0,4,1,0
+82,Male,1,2,Hypertension,Home,Medicaid,16,0,0,1,4,1,0
+70,Female,1,6,Chronic Kidney Disease,Home,Uninsured,19,3,0,0,1,1,4
+24,Male,1,14,Hypertension,Home,Uninsured,9,4,0,1,4,1,4
+22,Female,2,2,Diabetes Mellitus,Skilled Nursing Facility,Medicare,17,4,0,0,2,4,1
+41,Female,6,10,Sepsis,Home with Home Care,Private,7,4,1,0,7,2,3
+45,Male,2,17,COPD,Skilled Nursing Facility,Uninsured,10,1,1,1,0,4,4
+79,Male,8,8,Hypertension,Home,Other,4,1,1,1,4,1,2
+34,Male,5,16,COPD,Home,Medicaid,10,4,1,1,0,1,0
+37,Other,3,14,Pneumonia,Home with Home Care,Medicaid,3,3,1,2,6,2,0
+20,Male,5,10,COPD,Home,Medicare,9,2,1,1,0,1,1
+54,Female,0,13,Hypertension,Home,Other,13,2,0,0,4,1,2
+32,Male,1,1,Diabetes Mellitus,Skilled Nursing Facility,Medicare,1,0,0,1,2,4,1
+68,Female,4,10,Diabetes Mellitus,Skilled Nursing Facility,Private,15,2,1,0,2,4,3
+65,Male,1,12,Heart Failure,Home with Home Care,Medicare,15,2,1,1,3,2,1
+25,Female,0,17,Diabetes Mellitus,Home,Medicare,11,3,0,0,2,1,1
+30,Female,1,14,Sepsis,Skilled Nursing Facility,Medicaid,10,2,1,0,7,4,0
+65,Female,2,5,Heart Failure,Home with Home Care,Other,7,3,1,0,3,2,2
+20,Male,0,19,Other,Skilled Nursing Facility,Medicare,1,1,0,1,5,4,1
+82,Male,5,5,Chronic Kidney Disease,Skilled Nursing Facility,Private,7,3,1,1,1,4,3
+48,Male,3,15,Heart Failure,Skilled Nursing Facility,Medicare,5,1,1,1,3,4,1
+43,Female,4,13,Hypertension,Home with Home Care,Medicare,16,3,1,0,4,2,1
+73,Male,1,17,Pneumonia,Home,Medicaid,8,4,1,1,6,1,0
+51,Female,3,1,COPD,Home with Home Care,Medicaid,2,1,0,0,0,2,0
+26,Male,1,14,Pneumonia,Home with Home Care,Medicare,8,1,0,1,6,2,1
+79,Female,2,4,Hypertension,Skilled Nursing Facility,Medicare,14,2,0,0,4,4,1
+30,Female,5,9,Heart Failure,Home,Medicare,4,1,1,0,3,1,1
+86,Female,2,17,Other,Home,Medicare,15,3,1,0,5,1,1
+58,Male,2,3,Other,Inpatient Rehab,Other,7,4,0,1,5,3,2
+18,Male,5,13,Pneumonia,Skilled Nursing Facility,Uninsured,8,4,1,1,6,4,4
+64,Male,1,12,Heart Failure,Inpatient Rehab,Medicare,11,2,0,1,3,3,1
+21,Male,3,16,Hypertension,Skilled Nursing Facility,Private,2,3,1,1,4,4,3
+80,Female,2,4,Diabetes Mellitus,Home with Home Care,Uninsured,9,3,0,0,2,2,4
+69,Female,3,18,Diabetes Mellitus,Home with Home Care,Medicare,6,0,1,0,2,2,1
+27,Female,4,3,Heart Failure,Inpatient Rehab,Private,1,1,0,0,3,3,3
+45,Male,3,17,COPD,Home with Home Care,Uninsured,3,2,1,1,0,2,4
+23,Female,5,1,Sepsis,Home with Home Care,Medicare,10,4,1,0,7,2,1
+44,Female,1,19,Hypertension,Home,Medicare,5,0,0,0,4,1,1
+29,Female,1,4,Hypertension,Home,Other,12,3,0,0,4,1,2
+79,Male,1,17,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,1,1,0,1,1,4,0
+69,Male,1,7,Chronic Kidney Disease,Home,Medicare,9,4,0,1,1,1,1
+65,Male,2,2,Chronic Kidney Disease,Home,Medicare,13,0,0,1,1,1,1
+84,Female,3,12,Other,Home,Medicaid,19,3,1,0,5,1,0
+63,Female,4,5,Diabetes Mellitus,Home,Private,7,4,0,0,2,1,3
+32,Male,3,16,Sepsis,Home,Private,16,4,1,1,7,1,3
+88,Male,1,8,Pneumonia,Home,Other,8,3,0,1,6,1,2
+53,Female,6,8,Chronic Kidney Disease,Inpatient Rehab,Medicare,19,3,1,0,1,3,1
+31,Female,1,13,Hypertension,Home with Home Care,Medicaid,7,2,0,0,4,2,0
+20,Male,1,14,COPD,Home,Medicaid,4,4,0,1,0,1,0
+84,Female,4,11,Sepsis,Home,Medicaid,10,3,1,0,7,1,0
+36,Other,4,6,Other,Home with Home Care,Medicare,1,0,0,2,5,2,1
+71,Female,3,16,Chronic Kidney Disease,Home,Other,17,1,1,0,1,1,2
+86,Male,2,15,Heart Failure,Skilled Nursing Facility,Uninsured,13,2,1,1,3,4,4
+27,Female,2,16,Pneumonia,Home with Home Care,Medicaid,19,3,0,0,6,2,0
+50,Female,3,13,Other,Skilled Nursing Facility,Private,13,1,1,0,5,4,3
+30,Male,2,12,Heart Failure,Home,Medicare,9,2,0,1,3,1,1
+68,Female,2,18,Pneumonia,Home with Home Care,Medicaid,5,4,1,0,6,2,0
+49,Female,4,18,Pneumonia,Home,Private,1,1,1,0,6,1,3
+41,Female,2,14,Hypertension,Inpatient Rehab,Medicaid,2,2,0,0,4,3,0
+52,Male,2,2,Diabetes Mellitus,Home with Home Care,Other,11,3,0,1,2,2,2
+87,Female,2,2,Hypertension,Home,Private,4,3,0,0,4,1,3
+57,Female,1,3,Other,Home,Medicaid,9,2,0,0,5,1,0
+71,Male,3,8,Diabetes Mellitus,Home,Private,5,4,1,1,2,1,3
+61,Female,4,11,Heart Failure,Home with Home Care,Medicare,5,2,1,0,3,2,1
+79,Female,4,12,Other,Home,Medicaid,8,0,1,0,5,1,0
+85,Female,2,4,Heart Failure,Home with Home Care,Medicare,2,2,0,0,3,2,1
+50,Male,2,9,Sepsis,Home,Medicaid,7,2,0,1,7,1,0
+73,Female,3,17,COPD,Home with Home Care,Private,17,3,1,0,0,2,3
+53,Male,3,16,Heart Failure,Skilled Nursing Facility,Medicaid,11,4,1,1,3,4,0
+71,Male,8,17,Sepsis,Skilled Nursing Facility,Private,15,2,1,1,7,4,3
+36,Female,2,15,Chronic Kidney Disease,Skilled Nursing Facility,Private,3,1,0,0,1,4,3
+60,Male,1,20,COPD,Home,Medicare,13,3,1,1,0,1,1
+29,Female,6,7,Chronic Kidney Disease,Home,Private,18,3,1,0,1,1,3
+28,Male,5,10,Pneumonia,Home with Home Care,Medicare,3,2,0,1,6,2,1
+87,Male,4,4,Diabetes Mellitus,Home,Medicare,2,1,0,1,2,1,1
+29,Male,3,14,Chronic Kidney Disease,Home,Medicaid,5,2,1,1,1,1,0
+58,Other,2,14,Other,Home,Medicare,5,1,0,2,5,1,1
+42,Female,3,14,Heart Failure,Home,Medicare,13,3,1,0,3,1,1
+20,Female,2,14,Pneumonia,Home,Private,8,1,0,0,6,1,3
+20,Male,2,20,Heart Failure,Inpatient Rehab,Medicaid,16,2,1,1,3,3,0
+45,Male,6,18,Hypertension,Home,Medicaid,18,0,0,1,4,1,0
+40,Other,4,15,Diabetes Mellitus,Home with Home Care,Other,16,0,1,2,2,2,2
+65,Male,3,19,Other,Home,Private,1,1,1,1,5,1,3
+84,Male,5,13,COPD,Home with Home Care,Uninsured,8,2,1,1,0,2,4
+59,Female,3,12,Heart Failure,Home,Medicare,2,4,1,0,3,1,1
+57,Male,1,19,Diabetes Mellitus,Inpatient Rehab,Private,5,0,0,1,2,3,3
+23,Female,3,19,Diabetes Mellitus,Inpatient Rehab,Uninsured,15,3,1,0,2,3,4
+37,Female,2,20,COPD,Home,Private,14,2,1,0,0,1,3
+28,Male,1,2,Chronic Kidney Disease,Inpatient Rehab,Private,3,2,0,1,1,3,3
+44,Male,2,3,Hypertension,Against Medical Advice,Medicaid,7,0,0,1,4,0,0
+38,Male,2,10,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,4,4,0,1,1,4,1
+30,Female,1,5,Heart Failure,Skilled Nursing Facility,Medicaid,11,3,0,0,3,4,0
+52,Female,2,12,Pneumonia,Home,Medicaid,12,4,0,0,6,1,0
+64,Male,4,7,Hypertension,Home with Home Care,Uninsured,15,3,1,1,4,2,4
+45,Male,3,9,Diabetes Mellitus,Home,Medicare,6,0,0,1,2,1,1
+38,Female,1,2,Diabetes Mellitus,Home,Other,1,2,0,0,2,1,2
+35,Female,3,10,Diabetes Mellitus,Against Medical Advice,Other,18,3,1,0,2,0,2
+48,Male,4,6,Hypertension,Home,Medicare,14,2,0,1,4,1,1
+77,Male,2,12,Pneumonia,Skilled Nursing Facility,Medicare,7,1,0,1,6,4,1
+54,Male,1,6,COPD,Skilled Nursing Facility,Uninsured,10,1,0,1,0,4,4
+38,Female,3,3,Sepsis,Inpatient Rehab,Other,9,0,1,0,7,3,2
+31,Other,3,10,Hypertension,Against Medical Advice,Medicaid,2,0,1,2,4,0,0
+77,Male,1,9,Pneumonia,Home,Medicare,8,0,0,1,6,1,1
+40,Female,2,20,Sepsis,Home,Medicaid,1,1,0,0,7,1,0
+46,Male,6,5,Heart Failure,Home,Private,2,3,1,1,3,1,3
+64,Male,2,3,Diabetes Mellitus,Home,Medicare,7,4,0,1,2,1,1
+47,Male,0,5,Heart Failure,Home,Private,16,0,0,1,3,1,3
+55,Female,0,8,Diabetes Mellitus,Home,Medicare,4,4,0,0,2,1,1
+44,Female,6,8,COPD,Skilled Nursing Facility,Medicare,17,4,1,0,0,4,1
+32,Female,1,14,Other,Home with Home Care,Medicaid,4,1,0,0,5,2,0
+76,Male,2,17,Diabetes Mellitus,Home,Medicaid,3,3,1,1,2,1,0
+20,Male,2,11,Diabetes Mellitus,Home with Home Care,Medicare,9,1,0,1,2,2,1
+27,Male,4,16,COPD,Home,Medicaid,15,0,1,1,0,1,0
+34,Female,2,6,Other,Home,Medicare,3,1,0,0,5,1,1
+28,Male,2,11,Heart Failure,Skilled Nursing Facility,Medicare,12,1,1,1,3,4,1
+65,Female,3,10,COPD,Home with Home Care,Medicare,15,1,1,0,0,2,1
+22,Male,2,9,Diabetes Mellitus,Skilled Nursing Facility,Other,8,0,0,1,2,4,2
+86,Male,6,15,Diabetes Mellitus,Home,Medicaid,12,0,1,1,2,1,0
+81,Male,0,7,Other,Skilled Nursing Facility,Medicaid,13,1,0,1,5,4,0
+31,Male,6,18,Other,Home with Home Care,Private,15,1,1,1,5,2,3
+67,Male,3,1,Diabetes Mellitus,Home with Home Care,Other,11,4,1,1,2,2,2
+43,Male,4,15,Other,Home with Home Care,Medicare,17,3,1,1,5,2,1
+89,Female,2,2,Pneumonia,Inpatient Rehab,Private,12,4,1,0,6,3,3
+86,Female,1,2,Sepsis,Home with Home Care,Private,18,3,1,0,7,2,3
+24,Male,4,10,COPD,Home with Home Care,Private,16,3,1,1,0,2,3
+33,Male,0,20,COPD,Against Medical Advice,Medicare,3,1,1,1,0,0,1
+72,Male,5,15,COPD,Skilled Nursing Facility,Private,9,4,1,1,0,4,3
+73,Male,2,10,Pneumonia,Home,Medicare,7,3,1,1,6,1,1
+21,Male,3,19,Diabetes Mellitus,Skilled Nursing Facility,Private,19,3,1,1,2,4,3
+65,Female,0,13,Diabetes Mellitus,Home,Private,5,0,0,0,2,1,3
+34,Male,2,11,Heart Failure,Home,Medicare,19,3,1,1,3,1,1
+53,Male,2,2,Hypertension,Home with Home Care,Private,10,1,0,1,4,2,3
+87,Male,1,13,Heart Failure,Inpatient Rehab,Medicare,12,2,1,1,3,3,1
+55,Male,5,1,Hypertension,Inpatient Rehab,Private,8,0,0,1,4,3,3
+79,Female,3,5,Other,Home,Medicaid,3,2,0,0,5,1,0
+65,Male,2,7,Diabetes Mellitus,Home with Home Care,Medicare,19,1,1,1,2,2,1
+27,Male,1,13,Hypertension,Home,Medicare,11,2,0,1,4,1,1
+53,Female,4,13,Chronic Kidney Disease,Against Medical Advice,Other,8,3,1,0,1,0,2
+46,Male,6,20,Sepsis,Against Medical Advice,Medicare,13,2,1,1,7,0,1
+21,Female,4,6,Diabetes Mellitus,Home with Home Care,Medicare,10,4,1,0,2,2,1
+61,Female,3,20,Hypertension,Skilled Nursing Facility,Medicare,18,1,1,0,4,4,1
+73,Male,2,12,Sepsis,Skilled Nursing Facility,Private,12,4,1,1,7,4,3
+59,Female,2,8,Other,Home with Home Care,Medicaid,7,2,0,0,5,2,0
+30,Male,1,9,Hypertension,Home,Medicare,11,4,0,1,4,1,1
+63,Female,4,18,COPD,Home,Medicare,10,0,1,0,0,1,1
+50,Male,0,11,Pneumonia,Home with Home Care,Medicare,3,2,0,1,6,2,1
+38,Male,2,20,Sepsis,Home with Home Care,Medicare,7,4,0,1,7,2,1
+74,Female,3,11,Pneumonia,Home,Medicaid,4,3,1,0,6,1,0
+86,Female,3,15,Diabetes Mellitus,Inpatient Rehab,Private,8,2,1,0,2,3,3
+87,Other,4,9,Other,Home,Medicare,8,0,1,2,5,1,1
+84,Female,1,3,Hypertension,Home with Home Care,Medicaid,6,3,0,0,4,2,0
+65,Male,0,17,Hypertension,Home with Home Care,Medicaid,13,2,1,1,4,2,0
+50,Male,2,17,Heart Failure,Home with Home Care,Other,12,3,1,1,3,2,2
+53,Male,1,3,Pneumonia,Home with Home Care,Other,3,2,0,1,6,2,2
+50,Male,1,19,Chronic Kidney Disease,Home,Private,6,2,0,1,1,1,3
+48,Male,3,9,Pneumonia,Home,Medicare,19,1,1,1,6,1,1
+38,Female,1,17,Diabetes Mellitus,Home with Home Care,Medicare,11,4,0,0,2,2,1
+44,Male,0,18,Pneumonia,Home with Home Care,Medicare,4,2,0,1,6,2,1
+89,Male,3,15,Other,Home,Medicare,15,0,1,1,5,1,1
+79,Male,1,1,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,2,4,0,1,2,4,0
+43,Female,4,10,Other,Home,Private,15,1,0,0,5,1,3
+83,Female,4,8,Chronic Kidney Disease,Home with Home Care,Uninsured,17,4,1,0,1,2,4
+29,Female,2,10,Sepsis,Skilled Nursing Facility,Private,2,4,0,0,7,4,3
+39,Male,1,2,Hypertension,Home,Medicaid,7,2,0,1,4,1,0
+34,Female,3,19,Pneumonia,Home,Private,16,0,0,0,6,1,3
+24,Male,6,14,Hypertension,Skilled Nursing Facility,Medicare,5,2,0,1,4,4,1
+85,Female,1,8,Sepsis,Home with Home Care,Medicare,16,0,1,0,7,2,1
+54,Female,2,19,Chronic Kidney Disease,Home with Home Care,Private,19,0,0,0,1,2,3
+55,Male,2,1,Heart Failure,Skilled Nursing Facility,Medicare,2,3,0,1,3,4,1
+28,Female,2,16,Pneumonia,Skilled Nursing Facility,Medicaid,15,2,0,0,6,4,0
+18,Female,5,15,Hypertension,Against Medical Advice,Medicare,4,1,1,0,4,0,1
+42,Male,4,20,Hypertension,Home with Home Care,Private,2,4,0,1,4,2,3
+59,Female,3,5,Hypertension,Home,Private,10,3,1,0,4,1,3
+69,Male,4,3,Chronic Kidney Disease,Home,Medicare,5,1,0,1,1,1,1
+41,Male,1,17,Hypertension,Home,Private,18,2,0,1,4,1,3
+70,Male,2,10,Diabetes Mellitus,Home with Home Care,Medicare,4,0,0,1,2,2,1
+73,Male,3,5,COPD,Home,Medicaid,1,2,1,1,0,1,0
+80,Female,5,11,Diabetes Mellitus,Inpatient Rehab,Private,18,2,1,0,2,3,3
+25,Male,4,6,Heart Failure,Home with Home Care,Private,6,3,1,1,3,2,3
+76,Female,3,4,Chronic Kidney Disease,Home with Home Care,Other,14,1,1,0,1,2,2
+62,Male,0,7,Chronic Kidney Disease,Home,Medicare,10,3,1,1,1,1,1
+44,Female,3,19,Hypertension,Home,Private,18,1,1,0,4,1,3
+69,Female,1,7,Chronic Kidney Disease,Home,Private,9,3,1,0,1,1,3
+35,Female,1,14,Chronic Kidney Disease,Home,Uninsured,12,4,0,0,1,1,4
+33,Male,2,17,Heart Failure,Home,Medicare,10,0,0,1,3,1,1
+83,Male,1,17,Chronic Kidney Disease,Home with Home Care,Private,19,0,1,1,1,2,3
+22,Male,2,13,Heart Failure,Inpatient Rehab,Private,6,0,0,1,3,3,3
+20,Female,4,1,Diabetes Mellitus,Inpatient Rehab,Medicare,14,4,1,0,2,3,1
+87,Female,3,2,Pneumonia,Home with Home Care,Medicaid,8,4,1,0,6,2,0
+24,Male,1,18,Pneumonia,Home,Medicare,14,0,0,1,6,1,1
+67,Male,4,4,Pneumonia,Inpatient Rehab,Private,11,0,1,1,6,3,3
+31,Female,2,13,COPD,Inpatient Rehab,Uninsured,16,1,0,0,0,3,4
+55,Male,4,1,Chronic Kidney Disease,Home,Private,6,1,0,1,1,1,3
+64,Female,3,4,Sepsis,Skilled Nursing Facility,Private,15,2,1,0,7,4,3
+50,Female,2,2,COPD,Home,Medicaid,15,3,1,0,0,1,0
+60,Female,2,4,COPD,Skilled Nursing Facility,Medicare,14,1,0,0,0,4,1
+46,Male,4,16,Diabetes Mellitus,Against Medical Advice,Medicare,12,1,1,1,2,0,1
+74,Male,3,4,Chronic Kidney Disease,Home,Medicaid,2,1,0,1,1,1,0
+22,Female,2,9,Chronic Kidney Disease,Inpatient Rehab,Medicare,8,1,0,0,1,3,1
+77,Female,0,17,Chronic Kidney Disease,Home with Home Care,Medicare,19,4,1,0,1,2,1
+87,Male,1,20,Pneumonia,Against Medical Advice,Medicaid,14,2,1,1,6,0,0
+19,Male,1,2,COPD,Home,Medicare,5,1,0,1,0,1,1
+87,Female,1,3,Pneumonia,Skilled Nursing Facility,Medicare,9,3,0,0,6,4,1
+60,Female,3,15,Hypertension,Home,Medicaid,13,1,0,0,4,1,0
+21,Female,2,7,Hypertension,Home,Medicare,9,4,0,0,4,1,1
+73,Other,2,4,Hypertension,Home,Uninsured,14,0,0,2,4,1,4
+76,Male,1,12,Other,Against Medical Advice,Uninsured,5,0,1,1,5,0,4
+26,Male,3,1,Diabetes Mellitus,Skilled Nursing Facility,Private,2,2,0,1,2,4,3
+20,Female,1,17,Heart Failure,Inpatient Rehab,Medicare,7,0,0,0,3,3,1
+65,Female,1,4,Diabetes Mellitus,Inpatient Rehab,Private,16,1,1,0,2,3,3
+60,Male,1,4,Pneumonia,Home,Private,11,4,0,1,6,1,3
+18,Male,1,9,Sepsis,Home,Private,11,2,0,1,7,1,3
+74,Female,3,10,Heart Failure,Home,Medicare,12,1,1,0,3,1,1
+70,Male,3,19,Other,Home,Private,13,0,1,1,5,1,3
+33,Male,0,19,Diabetes Mellitus,Home,Private,8,3,0,1,2,1,3
+68,Female,1,15,Other,Home,Private,16,1,0,0,5,1,3
+72,Female,3,17,Chronic Kidney Disease,Home,Private,1,3,1,0,1,1,3
+18,Female,0,7,Diabetes Mellitus,Home,Medicaid,13,3,0,0,2,1,0
+45,Male,2,3,COPD,Home,Medicaid,11,2,0,1,0,1,0
+70,Female,3,5,Heart Failure,Home,Medicare,4,4,1,0,3,1,1
+75,Female,4,16,Heart Failure,Against Medical Advice,Private,4,0,1,0,3,0,3
+77,Female,2,7,Heart Failure,Skilled Nursing Facility,Medicare,15,0,1,0,3,4,1
+76,Female,2,16,Hypertension,Against Medical Advice,Medicaid,3,1,1,0,4,0,0
+39,Male,2,9,COPD,Home,Medicare,19,0,1,1,0,1,1
+25,Male,2,1,Heart Failure,Home,Medicaid,2,2,0,1,3,1,0
+66,Male,2,3,Pneumonia,Skilled Nursing Facility,Medicare,6,0,0,1,6,4,1
+59,Male,2,8,Hypertension,Home,Private,8,1,0,1,4,1,3
+44,Female,1,18,Heart Failure,Home,Private,17,0,0,0,3,1,3
+56,Female,8,18,Chronic Kidney Disease,Home,Medicare,5,4,1,0,1,1,1
+42,Female,2,19,Diabetes Mellitus,Home,Medicare,2,3,0,0,2,1,1
+55,Female,4,7,Heart Failure,Home,Medicare,12,3,1,0,3,1,1
+41,Male,2,20,Hypertension,Home,Uninsured,5,3,0,1,4,1,4
+41,Male,2,6,Heart Failure,Home with Home Care,Medicaid,10,4,0,1,3,2,0
+77,Male,2,11,COPD,Home,Medicaid,9,2,1,1,0,1,0
+67,Male,1,5,Hypertension,Home,Medicare,8,1,0,1,4,1,1
+83,Male,3,12,Diabetes Mellitus,Skilled Nursing Facility,Private,1,4,1,1,2,4,3
+31,Female,1,1,Pneumonia,Home,Uninsured,6,1,0,0,6,1,4
+70,Other,3,19,Heart Failure,Home,Private,11,2,1,2,3,1,3
+49,Male,2,11,Other,Inpatient Rehab,Private,3,4,0,1,5,3,3
+65,Male,1,15,COPD,Home,Medicare,15,0,1,1,0,1,1
+56,Female,2,16,Hypertension,Home,Medicare,11,2,0,0,4,1,1
+57,Male,3,3,Pneumonia,Home,Medicare,5,3,0,1,6,1,1
+59,Female,2,11,Diabetes Mellitus,Home,Medicare,16,4,1,0,2,1,1
+25,Female,1,11,Pneumonia,Home with Home Care,Medicare,7,2,0,0,6,2,1
+43,Female,2,10,Other,Skilled Nursing Facility,Medicare,6,2,0,0,5,4,1
+29,Male,3,2,Pneumonia,Home,Medicaid,9,4,0,1,6,1,0
+60,Female,2,20,Hypertension,Home with Home Care,Uninsured,7,3,0,0,4,2,4
+68,Male,4,5,Sepsis,Home with Home Care,Private,3,3,1,1,7,2,3
+80,Female,1,8,Heart Failure,Home,Private,11,2,1,0,3,1,3
+66,Male,2,13,Heart Failure,Home with Home Care,Private,12,1,1,1,3,2,3
+44,Male,3,15,Pneumonia,Home,Medicare,11,2,1,1,6,1,1
+26,Female,3,2,Chronic Kidney Disease,Home,Private,2,4,0,0,1,1,3
+56,Female,2,12,Sepsis,Home,Medicare,1,4,1,0,7,1,1
+82,Female,0,8,Other,Home,Private,2,4,1,0,5,1,3
+88,Female,1,19,Chronic Kidney Disease,Home,Medicare,14,3,1,0,1,1,1
+88,Female,4,1,Heart Failure,Skilled Nursing Facility,Other,13,0,1,0,3,4,2
+24,Male,1,8,Hypertension,Home,Medicare,5,4,0,1,4,1,1
+89,Female,3,10,Heart Failure,Home,Medicare,2,4,1,0,3,1,1
+84,Female,0,13,Hypertension,Home,Uninsured,19,1,1,0,4,1,4
+27,Female,4,5,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,17,1,0,0,1,4,1
+88,Female,2,9,Pneumonia,Home with Home Care,Private,11,2,1,0,6,2,3
+70,Male,2,10,Diabetes Mellitus,Home with Home Care,Private,16,2,1,1,2,2,3
+74,Female,2,14,Pneumonia,Skilled Nursing Facility,Private,18,2,1,0,6,4,3
+44,Male,4,11,COPD,Inpatient Rehab,Other,8,4,1,1,0,3,2
+71,Male,5,14,Pneumonia,Home,Other,2,1,1,1,6,1,2
+21,Female,1,3,Diabetes Mellitus,Home with Home Care,Medicare,17,2,0,0,2,2,1
+40,Male,2,16,Hypertension,Skilled Nursing Facility,Private,11,1,0,1,4,4,3
+65,Female,0,20,Sepsis,Against Medical Advice,Private,14,4,1,0,7,0,3
+59,Male,3,17,Heart Failure,Inpatient Rehab,Private,16,4,1,1,3,3,3
+20,Male,3,5,Diabetes Mellitus,Home,Medicare,15,2,0,1,2,1,1
+20,Female,8,7,Diabetes Mellitus,Home,Private,15,4,1,0,2,1,3
+45,Female,6,17,Pneumonia,Home,Other,3,4,1,0,6,1,2
+80,Female,4,20,Pneumonia,Skilled Nursing Facility,Uninsured,7,1,1,0,6,4,4
+48,Female,3,11,COPD,Home,Medicaid,12,0,1,0,0,1,0
+27,Female,1,12,Heart Failure,Home,Medicare,3,3,0,0,3,1,1
+66,Male,3,2,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,19,2,1,1,1,4,0
+38,Male,3,19,Pneumonia,Home,Private,10,0,1,1,6,1,3
+70,Male,2,5,COPD,Inpatient Rehab,Private,8,2,1,1,0,3,3
+71,Female,3,11,Other,Home,Medicaid,16,0,1,0,5,1,0
+74,Female,1,19,Diabetes Mellitus,Home,Medicare,16,4,1,0,2,1,1
+37,Male,3,7,Hypertension,Home,Medicaid,12,2,1,1,4,1,0
+66,Female,2,6,Chronic Kidney Disease,Skilled Nursing Facility,Medicaid,5,0,0,0,1,4,0
+24,Female,0,11,Chronic Kidney Disease,Home,Uninsured,6,3,0,0,1,1,4
+46,Male,5,14,Hypertension,Home,Private,6,4,0,1,4,1,3
+65,Male,2,4,Hypertension,Against Medical Advice,Medicare,8,2,1,1,4,0,1
+30,Female,2,8,Other,Home,Medicaid,17,2,0,0,5,1,0
+20,Female,0,9,Diabetes Mellitus,Home with Home Care,Medicare,12,0,0,0,2,2,1
+19,Female,4,2,Diabetes Mellitus,Home with Home Care,Other,14,2,0,0,2,2,2
+33,Male,1,11,Hypertension,Home,Medicaid,2,4,0,1,4,1,0
+23,Other,5,20,Pneumonia,Home with Home Care,Medicaid,19,1,1,2,6,2,0
+62,Male,4,7,Heart Failure,Home,Medicaid,6,0,1,1,3,1,0
+88,Male,1,4,Diabetes Mellitus,Home with Home Care,Private,18,3,0,1,2,2,3
+22,Other,1,14,Diabetes Mellitus,Home,Private,4,2,0,2,2,1,3
+73,Male,2,1,Sepsis,Home with Home Care,Private,5,4,1,1,7,2,3
+88,Female,1,12,Heart Failure,Home,Medicare,6,2,1,0,3,1,1
+49,Male,3,19,Heart Failure,Home with Home Care,Medicare,15,3,1,1,3,2,1
+66,Female,4,5,Heart Failure,Home,Medicare,6,4,1,0,3,1,1
+30,Female,2,8,Chronic Kidney Disease,Home,Private,8,3,0,0,1,1,3
+47,Male,4,11,Diabetes Mellitus,Home,Medicare,9,4,1,1,2,1,1
+42,Female,2,4,COPD,Home,Private,6,1,0,0,0,1,3
+77,Male,4,15,Diabetes Mellitus,Skilled Nursing Facility,Uninsured,2,4,1,1,2,4,4
+76,Female,4,20,Hypertension,Home,Uninsured,16,3,1,0,4,1,4
+45,Male,2,12,Heart Failure,Inpatient Rehab,Medicaid,1,0,0,1,3,3,0
+75,Male,3,20,COPD,Against Medical Advice,Medicaid,16,1,1,1,0,0,0
+37,Male,2,10,Sepsis,Home with Home Care,Medicare,1,2,0,1,7,2,1
+51,Male,4,16,Pneumonia,Home,Private,1,1,1,1,6,1,3
+22,Female,1,8,COPD,Home,Private,7,1,0,0,0,1,3
+77,Male,2,20,Heart Failure,Skilled Nursing Facility,Medicare,16,2,1,1,3,4,1
+60,Male,4,8,Chronic Kidney Disease,Home,Medicaid,17,4,1,1,1,1,0
+74,Male,1,6,Pneumonia,Home,Private,16,1,0,1,6,1,3
+74,Male,5,3,Other,Home with Home Care,Uninsured,16,1,0,1,5,2,4
+71,Female,1,8,Pneumonia,Skilled Nursing Facility,Medicare,6,0,0,0,6,4,1
+62,Other,1,10,Pneumonia,Skilled Nursing Facility,Private,18,0,0,2,6,4,3
+54,Male,1,5,Hypertension,Home,Medicare,3,3,0,1,4,1,1
+65,Female,2,11,COPD,Home with Home Care,Medicare,8,2,1,0,0,2,1
+71,Female,3,4,Diabetes Mellitus,Home,Uninsured,4,4,1,0,2,1,4
+65,Male,2,17,Pneumonia,Home,Private,4,4,1,1,6,1,3
+23,Female,3,3,Other,Inpatient Rehab,Private,17,3,1,0,5,3,3
+51,Female,2,18,Diabetes Mellitus,Home,Medicare,5,4,0,0,2,1,1
+80,Female,0,8,Hypertension,Home,Private,14,4,1,0,4,1,3
+65,Female,2,12,Heart Failure,Home,Medicaid,15,0,1,0,3,1,0
+40,Male,3,16,COPD,Inpatient Rehab,Medicare,12,4,1,1,0,3,1
+30,Female,5,14,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,13,4,1,0,2,4,0
+64,Female,2,16,COPD,Home with Home Care,Medicare,18,3,1,0,0,2,1
+61,Female,1,4,Hypertension,Skilled Nursing Facility,Private,14,3,0,0,4,4,3
+49,Female,3,1,Chronic Kidney Disease,Home,Private,19,1,0,0,1,1,3
+43,Male,2,1,Pneumonia,Home,Medicare,7,4,0,1,6,1,1
+70,Other,4,15,Hypertension,Home,Medicare,6,4,1,2,4,1,1
+31,Female,3,20,Other,Home,Medicare,5,4,1,0,5,1,1
+69,Male,3,20,Heart Failure,Home,Medicare,4,0,1,1,3,1,1
+53,Male,1,3,Chronic Kidney Disease,Inpatient Rehab,Private,18,4,0,1,1,3,3
+25,Female,0,14,Diabetes Mellitus,Home,Private,14,0,0,0,2,1,3
+57,Male,8,9,Other,Home,Medicare,16,1,1,1,5,1,1
+39,Male,2,19,Other,Home,Medicare,14,2,0,1,5,1,1
+33,Male,4,8,COPD,Home,Private,5,4,1,1,0,1,3
+77,Male,0,2,Sepsis,Inpatient Rehab,Private,11,3,1,1,7,3,3
+77,Male,3,4,COPD,Home,Medicare,12,3,1,1,0,1,1
+27,Male,4,1,Pneumonia,Home,Medicare,18,4,1,1,6,1,1
+42,Male,4,11,Diabetes Mellitus,Skilled Nursing Facility,Private,4,0,0,1,2,4,3
+48,Female,2,5,Hypertension,Home,Medicare,13,3,0,0,4,1,1
+38,Female,2,2,Diabetes Mellitus,Home,Medicare,13,3,0,0,2,1,1
+50,Male,4,13,Hypertension,Home,Private,4,1,0,1,4,1,3
+48,Male,0,17,Hypertension,Home with Home Care,Private,7,1,0,1,4,2,3
+38,Female,4,17,Hypertension,Against Medical Advice,Private,2,1,1,0,4,0,3
+53,Male,0,18,Diabetes Mellitus,Skilled Nursing Facility,Private,18,3,0,1,2,4,3
+82,Male,3,9,Heart Failure,Home,Private,6,3,1,1,3,1,3
+21,Male,0,6,Heart Failure,Skilled Nursing Facility,Medicare,16,4,0,1,3,4,1
+85,Female,7,20,Chronic Kidney Disease,Home,Medicaid,3,4,1,0,1,1,0
+21,Female,2,3,Diabetes Mellitus,Home,Medicare,15,0,0,0,2,1,1
+26,Female,2,8,Other,Home,Medicare,10,3,0,0,5,1,1
+47,Female,1,3,Pneumonia,Home,Private,9,4,0,0,6,1,3
+62,Female,4,1,Heart Failure,Home with Home Care,Uninsured,11,4,1,0,3,2,4
+21,Male,6,20,Chronic Kidney Disease,Home with Home Care,Other,14,1,1,1,1,2,2
+86,Female,2,13,Chronic Kidney Disease,Inpatient Rehab,Private,12,1,0,0,1,3,3
+40,Male,1,5,Pneumonia,Home with Home Care,Medicare,7,1,0,1,6,2,1
+33,Female,1,16,COPD,Home with Home Care,Medicare,11,2,0,0,0,2,1
+39,Female,0,16,Other,Home,Private,17,4,0,0,5,1,3
+89,Female,4,12,COPD,Home,Private,9,1,1,0,0,1,3
+65,Male,1,13,Other,Home with Home Care,Private,13,1,0,1,5,2,3
+79,Male,3,4,Sepsis,Home,Private,16,3,1,1,7,1,3
+77,Female,4,9,Heart Failure,Skilled Nursing Facility,Private,3,1,1,0,3,4,3
+22,Female,6,16,Other,Home,Private,5,3,0,0,5,1,3
+24,Female,3,1,Diabetes Mellitus,Home,Medicare,17,0,0,0,2,1,1
+68,Male,6,5,Hypertension,Home,Private,1,1,0,1,4,1,3
+82,Female,3,5,Chronic Kidney Disease,Home,Uninsured,9,3,0,0,1,1,4
+26,Female,2,19,Sepsis,Home,Medicare,17,1,0,0,7,1,1
+62,Female,4,9,Sepsis,Skilled Nursing Facility,Private,13,0,1,0,7,4,3
+64,Female,1,8,Hypertension,Home,Medicare,15,1,0,0,4,1,1
+84,Female,5,19,Hypertension,Home with Home Care,Other,8,3,1,0,4,2,2
+41,Female,4,18,Heart Failure,Home,Medicare,8,0,1,0,3,1,1
+27,Female,1,15,Diabetes Mellitus,Home,Private,2,0,0,0,2,1,3
+65,Female,2,4,Chronic Kidney Disease,Home,Medicare,10,0,0,0,1,1,1
+52,Male,2,15,Diabetes Mellitus,Skilled Nursing Facility,Private,5,2,0,1,2,4,3
+71,Male,3,13,Hypertension,Home,Medicare,16,3,1,1,4,1,1
+88,Female,1,18,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,19,2,1,0,1,4,1
+33,Female,4,20,Other,Home,Medicaid,1,0,0,0,5,1,0
+70,Female,1,5,Pneumonia,Skilled Nursing Facility,Uninsured,13,2,1,0,6,4,4
+57,Female,3,18,Hypertension,Home,Medicare,4,1,0,0,4,1,1
+37,Male,5,8,Diabetes Mellitus,Home with Home Care,Medicare,7,2,0,1,2,2,1
+86,Female,1,1,Sepsis,Home with Home Care,Private,1,4,1,0,7,2,3
+62,Female,0,19,Other,Inpatient Rehab,Medicaid,2,0,0,0,5,3,0
+23,Male,4,17,COPD,Home,Uninsured,16,0,1,1,0,1,4
+86,Male,2,2,Pneumonia,Home,Medicare,14,3,0,1,6,1,1
+66,Female,2,19,Hypertension,Home,Private,5,1,0,0,4,1,3
+56,Male,4,16,Diabetes Mellitus,Skilled Nursing Facility,Medicare,14,3,1,1,2,4,1
+19,Female,2,18,COPD,Home with Home Care,Medicare,17,2,0,0,0,2,1
+56,Male,1,2,Chronic Kidney Disease,Skilled Nursing Facility,Private,12,4,0,1,1,4,3
+38,Female,2,6,Diabetes Mellitus,Home,Private,12,4,0,0,2,1,3
+57,Female,0,7,Chronic Kidney Disease,Home,Private,3,4,0,0,1,1,3
+71,Female,2,6,Diabetes Mellitus,Home,Medicare,2,4,0,0,2,1,1
+29,Male,2,6,Diabetes Mellitus,Against Medical Advice,Medicaid,15,1,0,1,2,0,0
+54,Female,0,9,Diabetes Mellitus,Home with Home Care,Medicaid,11,2,0,0,2,2,0
+55,Male,1,8,Other,Inpatient Rehab,Other,10,4,1,1,5,3,2
+32,Male,3,9,COPD,Home,Medicare,18,0,1,1,0,1,1
+24,Other,0,12,Other,Home with Home Care,Medicare,2,2,0,2,5,2,1
+67,Female,1,18,Chronic Kidney Disease,Home with Home Care,Medicaid,7,1,0,0,1,2,0
+82,Female,1,6,Heart Failure,Home,Private,7,4,1,0,3,1,3
+84,Male,3,4,COPD,Skilled Nursing Facility,Medicare,7,1,1,1,0,4,1
+61,Male,5,7,Chronic Kidney Disease,Inpatient Rehab,Uninsured,14,4,1,1,1,3,4
+48,Male,2,18,Diabetes Mellitus,Inpatient Rehab,Medicare,2,0,0,1,2,3,1
+60,Female,4,20,Pneumonia,Skilled Nursing Facility,Uninsured,2,2,1,0,6,4,4
+65,Female,3,5,Heart Failure,Home,Medicare,15,0,1,0,3,1,1
+78,Female,1,18,Pneumonia,Home,Private,11,4,1,0,6,1,3
+27,Female,3,10,Pneumonia,Against Medical Advice,Uninsured,10,3,1,0,6,0,4
+46,Male,4,8,Diabetes Mellitus,Home,Medicare,3,2,0,1,2,1,1
+65,Male,0,1,Diabetes Mellitus,Skilled Nursing Facility,Other,17,1,0,1,2,4,2
+79,Male,1,15,Hypertension,Skilled Nursing Facility,Medicaid,9,4,0,1,4,4,0
+30,Male,1,3,COPD,Home with Home Care,Uninsured,15,0,0,1,0,2,4
+61,Male,1,15,Diabetes Mellitus,Against Medical Advice,Private,14,3,1,1,2,0,3
+64,Female,3,14,Other,Home,Medicare,19,4,1,0,5,1,1
+81,Male,1,1,Diabetes Mellitus,Home,Medicare,17,1,0,1,2,1,1
+70,Female,5,8,Hypertension,Home,Medicare,17,0,1,0,4,1,1
+61,Male,0,7,Other,Home,Medicare,16,2,0,1,5,1,1
+45,Other,2,9,Heart Failure,Home,Medicare,8,3,1,2,3,1,1
+19,Female,2,18,Diabetes Mellitus,Home,Medicare,7,4,0,0,2,1,1
+74,Female,2,12,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,12,4,1,0,2,4,0
+74,Male,4,8,Heart Failure,Inpatient Rehab,Private,1,4,1,1,3,3,3
+51,Female,2,8,Diabetes Mellitus,Home,Medicare,12,4,0,0,2,1,1
+75,Female,2,6,Hypertension,Home,Medicare,6,0,0,0,4,1,1
+69,Male,1,3,Diabetes Mellitus,Inpatient Rehab,Private,16,2,1,1,2,3,3
+46,Male,2,2,COPD,Home,Medicare,18,1,0,1,0,1,1
+52,Male,1,14,Other,Home,Medicare,19,3,0,1,5,1,1
+65,Female,3,8,Hypertension,Home,Medicare,3,4,1,0,4,1,1
+50,Female,1,6,Pneumonia,Home with Home Care,Uninsured,3,4,0,0,6,2,4
+26,Female,4,4,Heart Failure,Home,Private,5,2,1,0,3,1,3
+65,Male,1,5,Pneumonia,Against Medical Advice,Medicaid,3,2,1,1,6,0,0
+84,Male,1,13,COPD,Home,Private,19,0,1,1,0,1,3
+53,Female,3,9,Chronic Kidney Disease,Home with Home Care,Medicaid,5,0,0,0,1,2,0
+88,Male,1,13,Diabetes Mellitus,Home,Private,14,0,0,1,2,1,3
+61,Female,2,9,Sepsis,Home,Private,16,3,0,0,7,1,3
+77,Female,3,16,Chronic Kidney Disease,Home with Home Care,Private,1,0,1,0,1,2,3
+80,Male,8,12,Heart Failure,Skilled Nursing Facility,Medicare,17,4,1,1,3,4,1
+22,Female,1,2,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,11,0,0,0,1,4,1
+57,Male,3,19,Chronic Kidney Disease,Home with Home Care,Medicaid,9,3,1,1,1,2,0
+36,Female,1,16,Hypertension,Inpatient Rehab,Uninsured,4,0,0,0,4,3,4
+64,Male,3,13,Hypertension,Skilled Nursing Facility,Private,2,0,0,1,4,4,3
+82,Female,3,5,Hypertension,Skilled Nursing Facility,Private,9,4,1,0,4,4,3
+84,Male,1,6,Diabetes Mellitus,Home,Other,5,4,0,1,2,1,2
+35,Male,4,17,Chronic Kidney Disease,Home,Medicare,4,4,1,1,1,1,1
+67,Female,4,17,COPD,Home,Private,5,0,1,0,0,1,3
+47,Male,0,17,Diabetes Mellitus,Home with Home Care,Private,18,4,1,1,2,2,3
+83,Female,4,3,Heart Failure,Home,Other,13,2,1,0,3,1,2
+22,Male,0,13,Hypertension,Home,Other,5,1,0,1,4,1,2
+59,Female,0,12,Diabetes Mellitus,Inpatient Rehab,Private,19,1,0,0,2,3,3
+22,Male,1,6,COPD,Inpatient Rehab,Medicare,3,4,0,1,0,3,1
+67,Female,2,13,Heart Failure,Inpatient Rehab,Private,18,3,1,0,3,3,3
+75,Male,3,14,Diabetes Mellitus,Home,Medicare,6,4,1,1,2,1,1
+25,Male,2,7,Heart Failure,Home with Home Care,Private,6,4,1,1,3,2,3
+48,Male,3,5,Other,Home,Uninsured,5,0,0,1,5,1,4
+29,Female,3,14,Hypertension,Home,Medicaid,1,3,0,0,4,1,0
+38,Male,0,18,Other,Home,Private,8,4,0,1,5,1,3
+79,Female,1,4,COPD,Home,Medicaid,1,2,0,0,0,1,0
+50,Female,1,1,Diabetes Mellitus,Home,Medicaid,6,1,0,0,2,1,0
+43,Male,1,7,COPD,Skilled Nursing Facility,Medicare,14,2,1,1,0,4,1
+57,Female,2,20,COPD,Home,Private,11,2,1,0,0,1,3
+82,Male,4,13,Sepsis,Skilled Nursing Facility,Uninsured,2,2,1,1,7,4,4
+76,Male,3,4,Diabetes Mellitus,Home with Home Care,Uninsured,4,3,1,1,2,2,4
+32,Female,5,13,COPD,Home,Medicare,13,3,1,0,0,1,1
+18,Female,0,4,Diabetes Mellitus,Home,Uninsured,7,3,0,0,2,1,4
+28,Female,3,3,Heart Failure,Home,Private,6,1,1,0,3,1,3
+72,Male,1,8,Hypertension,Home with Home Care,Medicare,3,0,0,1,4,2,1
+19,Male,2,20,COPD,Home,Medicare,9,4,0,1,0,1,1
+82,Male,1,8,Chronic Kidney Disease,Home,Medicare,14,4,1,1,1,1,1
+61,Female,1,17,Chronic Kidney Disease,Home,Uninsured,11,0,0,0,1,1,4
+33,Female,3,15,COPD,Home with Home Care,Private,5,4,1,0,0,2,3
+39,Female,2,4,Hypertension,Inpatient Rehab,Private,14,2,0,0,4,3,3
+35,Male,3,6,Sepsis,Home,Medicare,19,1,1,1,7,1,1
+64,Male,3,6,Other,Skilled Nursing Facility,Private,8,4,0,1,5,4,3
+47,Male,1,10,Hypertension,Home with Home Care,Medicare,7,1,0,1,4,2,1
+27,Male,4,4,Heart Failure,Inpatient Rehab,Medicaid,7,0,1,1,3,3,0
+75,Male,3,9,Hypertension,Skilled Nursing Facility,Private,3,4,1,1,4,4,3
+79,Female,3,16,Chronic Kidney Disease,Home with Home Care,Medicare,3,1,1,0,1,2,1
+23,Female,3,7,Heart Failure,Home with Home Care,Private,18,2,1,0,3,2,3
+84,Female,6,14,Sepsis,Inpatient Rehab,Medicare,13,2,1,0,7,3,1
+58,Male,3,6,Diabetes Mellitus,Home,Private,1,0,0,1,2,1,3
+60,Male,4,1,Other,Home,Medicaid,5,3,0,1,5,1,0
+35,Female,5,18,COPD,Home,Private,4,4,1,0,0,1,3
+75,Male,1,12,Pneumonia,Skilled Nursing Facility,Medicare,16,2,0,1,6,4,1
+77,Female,4,15,Pneumonia,Skilled Nursing Facility,Medicare,15,2,1,0,6,4,1
+44,Female,0,1,Sepsis,Home,Uninsured,18,0,0,0,7,1,4
+85,Male,1,15,Pneumonia,Home with Home Care,Medicare,17,2,1,1,6,2,1
+39,Female,3,15,Pneumonia,Home,Private,14,4,1,0,6,1,3
+41,Male,2,16,Diabetes Mellitus,Home,Other,14,0,0,1,2,1,2
+57,Female,3,1,COPD,Against Medical Advice,Medicare,19,1,1,0,0,0,1
+83,Female,7,3,Diabetes Mellitus,Home,Medicare,6,0,1,0,2,1,1
+57,Male,5,12,Hypertension,Home,Private,13,4,1,1,4,1,3
+23,Male,3,7,COPD,Home with Home Care,Other,18,4,1,1,0,2,2
+35,Female,3,5,Hypertension,Skilled Nursing Facility,Uninsured,15,1,1,0,4,4,4
+47,Female,3,1,Diabetes Mellitus,Home,Medicaid,7,0,0,0,2,1,0
+38,Male,1,1,Diabetes Mellitus,Home with Home Care,Private,19,4,0,1,2,2,3
+79,Female,4,15,Hypertension,Home with Home Care,Medicare,17,4,1,0,4,2,1
+27,Male,5,8,Diabetes Mellitus,Home,Other,9,1,1,1,2,1,2
+30,Male,5,11,Diabetes Mellitus,Home,Other,11,3,1,1,2,1,2
+26,Male,1,14,Diabetes Mellitus,Home with Home Care,Medicare,5,0,0,1,2,2,1
+85,Male,1,13,Other,Home,Medicare,2,4,1,1,5,1,1
+56,Male,0,19,Hypertension,Inpatient Rehab,Medicare,15,2,0,1,4,3,1
+41,Other,1,12,Chronic Kidney Disease,Skilled Nursing Facility,Medicare,12,1,0,2,1,4,1
+51,Male,1,19,Heart Failure,Against Medical Advice,Private,10,3,1,1,3,0,3
+78,Male,0,4,Chronic Kidney Disease,Home,Medicaid,10,3,0,1,1,1,0
+58,Male,5,4,Hypertension,Against Medical Advice,Medicare,11,1,1,1,4,0,1
+22,Female,1,3,Pneumonia,Home,Medicare,10,3,0,0,6,1,1
+67,Female,1,6,Heart Failure,Home,Other,7,4,0,0,3,1,2
+21,Male,2,5,Diabetes Mellitus,Home,Private,14,3,0,1,2,1,3
+68,Male,7,11,Diabetes Mellitus,Home,Medicaid,13,0,1,1,2,1,0
+69,Male,5,9,Pneumonia,Home with Home Care,Medicare,5,2,1,1,6,2,1
+56,Male,4,3,Hypertension,Home,Other,19,4,0,1,4,1,2
+25,Male,1,9,Heart Failure,Home,Private,10,1,0,1,3,1,3
+62,Male,4,12,Diabetes Mellitus,Home with Home Care,Medicare,8,2,0,1,2,2,1
+45,Male,1,3,Diabetes Mellitus,Home,Medicare,18,4,1,1,2,1,1
+44,Female,1,20,Other,Home with Home Care,Medicare,1,2,0,0,5,2,1
+82,Male,5,17,Heart Failure,Home,Medicare,5,3,1,1,3,1,1
+51,Female,3,12,Hypertension,Skilled Nursing Facility,Private,11,1,0,0,4,4,3
+79,Female,4,18,Pneumonia,Skilled Nursing Facility,Uninsured,11,1,1,0,6,4,4
+79,Female,5,4,Chronic Kidney Disease,Home,Medicaid,16,0,0,0,1,1,0
+55,Male,2,10,Heart Failure,Home,Private,10,3,0,1,3,1,3
+43,Male,2,18,Diabetes Mellitus,Home,Medicaid,15,0,0,1,2,1,0
+41,Male,2,8,Pneumonia,Skilled Nursing Facility,Private,7,0,0,1,6,4,3
+56,Female,2,9,Hypertension,Home,Private,15,3,0,0,4,1,3
+38,Male,6,19,Pneumonia,Home,Medicare,16,4,1,1,6,1,1
+64,Female,2,13,COPD,Home,Medicaid,6,0,0,0,0,1,0
+65,Female,1,6,Diabetes Mellitus,Home,Private,11,2,0,0,2,1,3
+30,Male,1,7,Other,Home,Medicare,17,4,1,1,5,1,1
+20,Female,3,6,Hypertension,Skilled Nursing Facility,Medicaid,15,3,0,0,4,4,0
+49,Male,4,11,Heart Failure,Home,Medicaid,16,1,1,1,3,1,0
+52,Male,1,17,Other,Home,Other,2,4,0,1,5,1,2
+36,Male,6,19,Pneumonia,Skilled Nursing Facility,Medicaid,4,0,0,1,6,4,0
+31,Male,2,12,Pneumonia,Skilled Nursing Facility,Private,19,2,0,1,6,4,3
+65,Female,3,13,Hypertension,Home,Medicaid,6,3,1,0,4,1,0
+85,Male,5,18,Hypertension,Home,Private,18,1,1,1,4,1,3
+62,Male,0,7,Pneumonia,Home,Private,11,2,0,1,6,1,3
+36,Female,5,5,Diabetes Mellitus,Inpatient Rehab,Uninsured,9,1,0,0,2,3,4
+81,Female,4,16,Chronic Kidney Disease,Home,Medicaid,3,3,1,0,1,1,0
+83,Male,2,4,Other,Inpatient Rehab,Private,2,4,0,1,5,3,3
+83,Female,3,1,Heart Failure,Home with Home Care,Private,18,0,1,0,3,2,3
+62,Female,2,4,Chronic Kidney Disease,Home with Home Care,Medicaid,15,3,0,0,1,2,0
+84,Male,3,3,Chronic Kidney Disease,Home,Medicare,18,2,1,1,1,1,1
+86,Male,5,4,Chronic Kidney Disease,Home,Medicare,19,4,1,1,1,1,1
+20,Male,1,1,Pneumonia,Home,Medicare,15,1,0,1,6,1,1
+55,Female,3,12,Other,Home,Uninsured,17,4,1,0,5,1,4
+59,Female,2,13,Heart Failure,Home with Home Care,Medicare,18,4,1,0,3,2,1
+57,Female,3,2,Diabetes Mellitus,Against Medical Advice,Medicare,18,2,1,0,2,0,1
+67,Female,2,9,Heart Failure,Home with Home Care,Private,11,0,1,0,3,2,3
+52,Male,3,7,Sepsis,Skilled Nursing Facility,Medicare,18,4,1,1,7,4,1
+41,Male,2,13,Pneumonia,Home,Medicaid,3,4,0,1,6,1,0
+34,Male,3,2,Heart Failure,Home,Medicare,13,0,1,1,3,1,1
+57,Female,2,1,Hypertension,Home,Other,14,0,0,0,4,1,2
+83,Female,1,18,Sepsis,Home with Home Care,Uninsured,4,1,1,0,7,2,4
+61,Male,2,7,Sepsis,Inpatient Rehab,Uninsured,18,1,0,1,7,3,4
+40,Female,0,18,Other,Home with Home Care,Medicaid,5,0,0,0,5,2,0
+23,Male,5,19,Heart Failure,Home,Private,14,3,1,1,3,1,3
+83,Male,5,8,Hypertension,Home,Medicare,12,0,1,1,4,1,1
+38,Male,4,12,COPD,Home with Home Care,Medicare,7,1,0,1,0,2,1
+52,Male,2,11,Sepsis,Home,Medicare,12,2,1,1,7,1,1
+46,Male,4,9,Hypertension,Skilled Nursing Facility,Private,8,2,0,1,4,4,3
+24,Male,3,4,Hypertension,Skilled Nursing Facility,Medicaid,3,4,0,1,4,4,0
+70,Male,0,7,Pneumonia,Home with Home Care,Medicaid,1,2,0,1,6,2,0
+54,Male,0,17,Diabetes Mellitus,Home,Medicare,3,1,0,1,2,1,1
+40,Female,1,11,COPD,Home,Medicaid,11,2,1,0,0,1,0
+25,Male,3,2,Other,Home,Private,18,3,0,1,5,1,3
+65,Other,3,18,Other,Home,Medicaid,7,0,1,2,5,1,0
+27,Male,3,12,Diabetes Mellitus,Home,Private,9,0,0,1,2,1,3
+41,Male,3,9,Diabetes Mellitus,Home with Home Care,Medicare,4,1,1,1,2,2,1
+64,Male,4,11,Diabetes Mellitus,Home with Home Care,Private,10,4,1,1,2,2,3
+70,Male,1,5,Hypertension,Home,Private,18,0,0,1,4,1,3
+56,Female,3,7,Hypertension,Home,Medicare,16,2,1,0,4,1,1
+84,Male,6,1,Heart Failure,Home,Medicare,12,3,1,1,3,1,1
+83,Female,1,5,COPD,Home,Private,19,4,1,0,0,1,3
+23,Female,3,6,Sepsis,Skilled Nursing Facility,Private,3,4,0,0,7,4,3
+38,Female,5,13,Hypertension,Home,Medicaid,8,4,0,0,4,1,0
+53,Female,2,11,COPD,Home,Medicare,19,0,0,0,0,1,1
+20,Female,4,8,Pneumonia,Home,Uninsured,9,4,0,0,6,1,4
+59,Male,1,20,COPD,Inpatient Rehab,Private,19,1,0,1,0,3,3
+62,Female,1,2,Heart Failure,Home with Home Care,Medicaid,17,2,0,0,3,2,0
+61,Male,0,15,Pneumonia,Home,Medicaid,13,3,1,1,6,1,0
+50,Male,1,10,Hypertension,Home with Home Care,Medicare,2,2,0,1,4,2,1
+77,Male,3,8,Sepsis,Skilled Nursing Facility,Private,4,1,1,1,7,4,3
+87,Female,3,2,Pneumonia,Against Medical Advice,Medicaid,11,1,1,0,6,0,0
+43,Female,3,15,Hypertension,Home,Other,2,2,0,0,4,1,2
+38,Male,2,6,Diabetes Mellitus,Inpatient Rehab,Medicaid,4,0,0,1,2,3,0
+19,Female,1,5,COPD,Inpatient Rehab,Medicaid,4,1,0,0,0,3,0
+64,Male,3,3,Diabetes Mellitus,Inpatient Rehab,Private,1,4,0,1,2,3,3
+47,Male,1,11,Heart Failure,Home with Home Care,Uninsured,11,3,1,1,3,2,4
+44,Male,1,11,Hypertension,Home with Home Care,Private,2,3,0,1,4,2,3
+88,Male,2,16,Other,Home,Medicaid,19,1,1,1,5,1,0
+37,Male,4,3,Diabetes Mellitus,Skilled Nursing Facility,Private,8,4,0,1,2,4,3
+67,Female,0,9,Chronic Kidney Disease,Home with Home Care,Private,4,2,0,0,1,2,3
+40,Female,2,3,Hypertension,Home with Home Care,Medicaid,16,3,0,0,4,2,0
+30,Male,1,19,Heart Failure,Home,Medicare,15,4,1,1,3,1,1
+21,Female,2,11,Pneumonia,Skilled Nursing Facility,Medicaid,5,4,0,0,6,4,0
+31,Female,3,14,Hypertension,Skilled Nursing Facility,Medicare,5,0,0,0,4,4,1
+37,Female,5,2,Pneumonia,Home,Uninsured,15,1,0,0,6,1,4
+30,Female,2,7,Heart Failure,Skilled Nursing Facility,Medicare,17,4,1,0,3,4,1
+20,Male,4,10,Chronic Kidney Disease,Home with Home Care,Other,3,2,1,1,1,2,2
+64,Female,5,10,Hypertension,Skilled Nursing Facility,Medicaid,18,3,1,0,4,4,0
+20,Female,2,20,Pneumonia,Home,Private,11,0,0,0,6,1,3
+18,Male,3,1,Diabetes Mellitus,Home,Medicaid,6,2,0,1,2,1,0
+41,Male,2,6,Hypertension,Inpatient Rehab,Medicare,12,3,0,1,4,3,1
+52,Female,4,14,Diabetes Mellitus,Home,Medicaid,17,1,1,0,2,1,0
+31,Male,4,2,Hypertension,Skilled Nursing Facility,Medicare,14,2,0,1,4,4,1
+84,Other,2,6,Heart Failure,Home,Private,6,3,0,2,3,1,3
+30,Male,2,1,Other,Home with Home Care,Medicaid,10,0,0,1,5,2,0
+64,Female,6,3,Chronic Kidney Disease,Home,Private,16,3,0,0,1,1,3
+67,Male,0,4,Heart Failure,Home with Home Care,Medicare,18,4,1,1,3,2,1
+43,Female,1,13,Diabetes Mellitus,Home,Medicare,6,0,0,0,2,1,1
+20,Female,5,3,Heart Failure,Home,Medicaid,19,2,1,0,3,1,0
+68,Male,3,15,Sepsis,Home,Uninsured,3,1,1,1,7,1,4
+57,Female,0,13,Other,Home,Private,12,0,0,0,5,1,3
+85,Male,1,11,Chronic Kidney Disease,Against Medical Advice,Medicaid,16,0,1,1,1,0,0
+53,Male,2,4,Chronic Kidney Disease,Against Medical Advice,Medicaid,3,0,0,1,1,0,0
+68,Male,2,17,Hypertension,Home,Medicare,16,3,1,1,4,1,1
+18,Female,2,5,Sepsis,Skilled Nursing Facility,Other,4,4,0,0,7,4,2
+50,Male,2,8,Pneumonia,Home,Private,13,1,0,1,6,1,3
+24,Male,2,10,Chronic Kidney Disease,Home with Home Care,Medicare,4,1,0,1,1,2,1
+69,Male,4,7,Chronic Kidney Disease,Skilled Nursing Facility,Private,4,4,1,1,1,4,3
+28,Female,2,17,Hypertension,Inpatient Rehab,Medicare,7,3,0,0,4,3,1
+44,Female,1,7,Diabetes Mellitus,Home,Other,12,3,0,0,2,1,2
+31,Male,1,19,Pneumonia,Skilled Nursing Facility,Medicare,2,4,0,1,6,4,1
+63,Male,2,9,Chronic Kidney Disease,Home,Private,16,4,1,1,1,1,3
+27,Female,2,2,Hypertension,Against Medical Advice,Medicare,7,2,0,0,4,0,1
+41,Male,3,20,Diabetes Mellitus,Home,Private,19,3,1,1,2,1,3
+78,Female,2,19,Pneumonia,Home with Home Care,Private,11,0,0,0,6,2,3
+35,Female,1,6,COPD,Home with Home Care,Private,1,1,0,0,0,2,3
+26,Female,5,10,Pneumonia,Home with Home Care,Private,9,3,0,0,6,2,3
+34,Male,3,13,Diabetes Mellitus,Home,Uninsured,5,4,1,1,2,1,4
+75,Female,3,2,Pneumonia,Inpatient Rehab,Medicare,17,0,0,0,6,3,1
+30,Female,4,10,Pneumonia,Home,Medicare,1,2,0,0,6,1,1
+67,Female,4,10,Pneumonia,Home with Home Care,Medicare,17,2,1,0,6,2,1
+23,Male,3,5,Pneumonia,Home,Other,12,0,0,1,6,1,2
+68,Male,2,4,Hypertension,Home,Medicaid,13,0,0,1,4,1,0
+53,Male,4,2,Hypertension,Home with Home Care,Private,11,4,1,1,4,2,3
+88,Female,1,7,Heart Failure,Home,Private,13,4,1,0,3,1,3
+42,Female,1,18,Hypertension,Home,Medicare,13,1,0,0,4,1,1
+28,Male,1,17,COPD,Home,Medicare,6,1,0,1,0,1,1
+61,Male,3,11,Diabetes Mellitus,Home,Medicare,6,2,0,1,2,1,1
+31,Male,4,18,Diabetes Mellitus,Skilled Nursing Facility,Medicaid,10,0,1,1,2,4,0
+46,Female,6,8,Chronic Kidney Disease,Inpatient Rehab,Medicare,19,2,1,0,1,3,1
+67,Female,3,12,Hypertension,Home,Medicare,3,4,1,0,4,1,1
+22,Male,2,1,Hypertension,Home,Uninsured,7,3,0,1,4,1,4
+89,Male,3,20,Hypertension,Home,Other,5,4,1,1,4,1,2
+86,Male,5,12,COPD,Home,Medicare,8,3,1,1,0,1,1
+74,Female,2,6,Chronic Kidney Disease,Home with Home Care,Medicare,5,0,0,0,1,2,1
+43,Female,0,3,Diabetes Mellitus,Home with Home Care,Medicare,12,0,0,0,2,2,1
+23,Female,3,5,Heart Failure,Home,Private,4,0,0,0,3,1,3
+33,Male,2,14,Chronic Kidney Disease,Home,Private,19,1,0,1,1,1,3
+77,Female,2,12,Diabetes Mellitus,Home,Medicare,18,1,1,0,2,1,1
+29,Male,5,13,Heart Failure,Skilled Nursing Facility,Medicare,3,3,1,1,3,4,1
+20,Female,3,13,Pneumonia,Against Medical Advice,Private,7,2,1,0,6,0,3
+80,Male,3,17,Hypertension,Home,Private,8,2,1,1,4,1,3
+81,Female,0,15,Other,Home,Medicare,15,3,1,0,5,1,1
+79,Female,2,6,Other,Inpatient Rehab,Private,17,1,0,0,5,3,3
+23,Female,1,12,Pneumonia,Inpatient Rehab,Medicare,19,4,0,0,6,3,1
+36,Female,6,2,Chronic Kidney Disease,Home,Medicaid,4,3,0,0,1,1,0
+35,Male,3,4,Pneumonia,Home,Private,16,2,0,1,6,1,3
+60,Male,2,20,Hypertension,Home,Private,13,3,0,1,4,1,3
+20,Female,1,12,Diabetes Mellitus,Home with Home Care,Medicaid,12,3,0,0,2,2,0
+89,Male,2,3,Chronic Kidney Disease,Home,Uninsured,4,0,0,1,1,1,4
+55,Male,3,17,Sepsis,Home,Medicaid,12,1,1,1,7,1,0
+85,Male,5,6,Chronic Kidney Disease,Home with Home Care,Private,17,0,1,1,1,2,3
+61,Female,1,17,Pneumonia,Home,Medicaid,9,1,0,0,6,1,0
+80,Male,0,17,Pneumonia,Skilled Nursing Facility,Uninsured,12,3,1,1,6,4,4
+59,Male,0,11,Heart Failure,Home,Uninsured,15,1,1,1,3,1,4
+81,Male,5,7,Chronic Kidney Disease,Home,Medicare,2,2,1,1,1,1,1
+71,Male,1,2,Chronic Kidney Disease,Home with Home Care,Uninsured,9,0,0,1,1,2,4
+88,Female,3,19,Diabetes Mellitus,Home,Private,14,3,1,0,2,1,3
+54,Other,1,2,Diabetes Mellitus,Against Medical Advice,Private,4,2,0,2,2,0,3
+21,Female,5,13,Sepsis,Home with Home Care,Medicare,4,1,1,0,7,2,1
+19,Male,5,16,Heart Failure,Home,Private,6,1,1,1,3,1,3
+61,Female,0,17,COPD,Skilled Nursing Facility,Uninsured,5,2,0,0,0,4,4
+84,Female,3,11,Heart Failure,Home,Medicare,17,1,1,0,3,1,1
+85,Male,2,9,Other,Inpatient Rehab,Other,13,0,1,1,5,3,2
+79,Female,3,9,Heart Failure,Home,Medicare,17,4,1,0,3,1,1
+18,Female,3,14,Chronic Kidney Disease,Home with Home Care,Medicare,19,1,1,0,1,2,1
+34,Female,5,13,Sepsis,Home,Medicaid,1,3,1,0,7,1,0
+33,Female,1,11,Sepsis,Home,Private,17,1,1,0,7,1,3
+26,Male,2,12,Heart Failure,Skilled Nursing Facility,Private,3,3,1,1,3,4,3
+70,Male,0,3,Hypertension,Skilled Nursing Facility,Medicare,14,1,0,1,4,4,1
+76,Female,5,1,COPD,Home,Other,12,1,1,0,0,1,2
+26,Male,5,8,COPD,Home,Medicare,15,3,1,1,0,1,1
+29,Male,2,19,Diabetes Mellitus,Skilled Nursing Facility,Medicare,6,0,0,1,2,4,1
+58,Female,5,13,Diabetes Mellitus,Inpatient Rehab,Medicare,2,4,1,0,2,3,1
+32,Female,0,7,Hypertension,Home,Private,4,4,0,0,4,1,3
+83,Male,3,13,COPD,Home,Uninsured,13,0,1,1,0,1,4
+28,Female,4,6,Chronic Kidney Disease,Home,Private,13,1,0,0,1,1,3
+25,Female,6,3,Hypertension,Inpatient Rehab,Private,17,4,1,0,4,3,3
+72,Female,3,6,Hypertension,Home,Medicare,6,0,1,0,4,1,1
+23,Male,3,3,Diabetes Mellitus,Home,Medicaid,11,0,0,1,2,1,0
+70,Male,2,13,Pneumonia,Skilled Nursing Facility,Medicaid,19,4,1,1,6,4,0
+37,Male,4,13,Diabetes Mellitus,Home,Medicaid,16,3,1,1,2,1,0
+56,Male,0,13,Hypertension,Home,Medicare,8,2,0,1,4,1,1
+89,Male,3,1,Pneumonia,Home,Private,1,3,1,1,6,1,3
+51,Male,2,8,Other,Home,Medicaid,10,1,0,1,5,1,0
+74,Male,7,5,Diabetes Mellitus,Home,Private,2,3,1,1,2,1,3
+36,Female,3,20,Diabetes Mellitus,Home with Home Care,Medicaid,19,2,1,0,2,2,0
+88,Male,2,17,Heart Failure,Home,Medicare,14,2,1,1,3,1,1

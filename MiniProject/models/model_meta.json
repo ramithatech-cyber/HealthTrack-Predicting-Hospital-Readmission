@@ -1,0 +1,49 @@
+{
+  "features": [
+    "age",
+    "num_prior_visits",
+    "length_of_stay",
+    "num_medications",
+    "num_comorbidities",
+    "gender_enc",
+    "diagnosis_enc",
+    "discharge_type_enc",
+    "insurance_enc"
+  ],
+  "cat_cols": [
+    "gender",
+    "diagnosis",
+    "discharge_type",
+    "insurance"
+  ],
+  "accuracy": 0.82,
+  "roc_auc": 0.8994,
+  "cv_accuracy": 0.8285,
+  "feature_importance": {
+    "age": 0.2502953494272233,
+    "num_prior_visits": 0.3232595834295758,
+    "length_of_stay": 0.15037808026443716,
+    "num_medications": 0.09482788482249013,
+    "num_comorbidities": 0.08185362482194733,
+    "gender_enc": 0.007209696914099474,
+    "diagnosis_enc": 0.06065871648707234,
+    "discharge_type_enc": 0.019943208413957903,
+    "insurance_enc": 0.011573855419196408
+  },
+  "confusion_matrix": [
+    [
+      161,
+      33
+    ],
+    [
+      39,
+      167
+    ]
+  ],
+  "train_size": 1600,
+  "test_size": 400,
+  "classes": [
+    "Not Readmitted",
+    "Readmitted"
+  ]
+}
